@@ -1,0 +1,669 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="821px" height="986px" viewBox="-0.5 -0.5 821 986" content="&lt;mxfile&gt;&lt;diagram id=&quot;PSrzths6U09OxLze8_yn&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-460-83-236-44-0">
+            <rect x="460" y="83" width="236" height="44"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-153-236-26-0">
+            <rect x="460" y="153" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-30-57-246-26-0">
+            <rect x="30" y="57" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-30-83-246-26-0">
+            <rect x="30" y="83" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-109-220-26-0">
+            <rect x="56" y="109" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-135-220-26-0">
+            <rect x="56" y="135" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-161-220-26-0">
+            <rect x="56" y="161" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-187-220-26-0">
+            <rect x="56" y="187" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-213-220-52-0">
+            <rect x="56" y="213" width="220" height="52"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-265-220-26-0">
+            <rect x="56" y="265" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-291-220-26-0">
+            <rect x="56" y="291" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-317-220-38-0">
+            <rect x="56" y="317" width="220" height="38"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-355-220-52-0">
+            <rect x="56" y="355" width="220" height="52"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-407-220-26-0">
+            <rect x="56" y="407" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-433-220-26-0">
+            <rect x="56" y="433" width="220" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-459-220-38-0">
+            <rect x="56" y="459" width="220" height="38"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-497-220-52-0">
+            <rect x="56" y="497" width="220" height="52"/>
+        </clipPath>
+        <clipPath id="mx-clip-56-571-220-40-0">
+            <rect x="56" y="571" width="220" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-30-637-246-44-0">
+            <rect x="30" y="637" width="246" height="44"/>
+        </clipPath>
+        <clipPath id="mx-clip-30-707-246-26-0">
+            <rect x="30" y="707" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-30-759-246-26-0">
+            <rect x="30" y="759" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-401-236-26-0">
+            <rect x="460" y="401" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-453-236-26-0">
+            <rect x="460" y="453" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-505-236-26-0">
+            <rect x="460" y="505" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-557-236-24-0">
+            <rect x="460" y="557" width="236" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-741-236-26-0">
+            <rect x="460" y="741" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-793-236-26-0">
+            <rect x="460" y="793" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-460-845-236-26-0">
+            <rect x="460" y="845" width="236" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-44-831-246-26-0">
+            <rect x="44" y="831" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-44-857-246-26-0">
+            <rect x="44" y="857" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-44-883-246-26-0">
+            <rect x="44" y="883" width="246" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-44-961-246-26-0">
+            <rect x="44" y="961" width="246" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 456 0 L 430 0 L 430 228 L 456 228" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 456 0 L 700 0 L 700 228 L 456 228" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 0 L 456 228" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,443,114)">
+            <text x="442.5" y="118.5">
+                ダメージチャンス
+            </text>
+        </g>
+        <path d="M 456 26 L 456 0 L 700 0 L 700 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 26 L 456 52 L 700 52 L 700 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 26 L 700 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="17.5">
+                攻撃
+            </text>
+        </g>
+        <path d="M 456 78 L 456 52 L 700 52 L 700 78" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 78 L 456 122 L 700 122 L 700 78" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 78 L 700 78" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="69.5">
+                耐久
+            </text>
+        </g>
+        <rect x="456" y="78" width="244" height="44" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-83-236-44-0)" font-size="12px">
+            <text x="461.5" y="95.5">
+                素通し。まともにダメ入るのはここだけ
+            </text>
+            <text x="461.5" y="109.5">
+                本体に一撃食らうと高速状態に
+            </text>
+        </g>
+        <path d="M 456 148 L 456 122 L 700 122 L 700 148" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 148 L 456 174 L 700 174 L 700 148" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 148 L 700 148" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="139.5">
+                移動
+            </text>
+        </g>
+        <rect x="456" y="148" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-153-236-26-0)" font-size="12px">
+            <text x="461.5" y="165.5">
+                パーツ外部にとどまる
+            </text>
+        </g>
+        <path d="M 456 200 L 456 174 L 700 174 L 700 200" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 200 L 456 228 L 700 228 L 700 200" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 200 L 700 200" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="191.5">
+                備考
+            </text>
+        </g>
+        <path d="M 26 0 L 0 0 L 0 780 L 26 780" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 0 L 280 0 L 280 780 L 26 780" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 0 L 26 780" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,13,390)">
+            <text x="12.5" y="394.5">
+                憑依中
+            </text>
+        </g>
+        <path d="M 26 26 L 26 0 L 280 0 L 280 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 26 L 26 544 L 280 544 L 280 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 26 L 280 26" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="152.5" y="17.5">
+                攻撃
+            </text>
+        </g>
+        <rect x="26" y="26" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 244px; height: 1px; padding-top: 33px; margin-left: 32px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 22px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                憑依パーツの耐久をじわじわ減らす
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="32" y="45" fill="#FFFFFF" font-family="Helvetica" font-size="12px">
+                    憑依パーツの耐久をじわじわ減らす
+                </text>
+            </switch>
+        </g>
+        <rect x="26" y="52" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-30-57-246-26-0)" font-size="12px">
+            <text x="31.5" y="69.5">
+                1秒に1
+            </text>
+        </g>
+        <rect x="26" y="78" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-30-83-246-26-0)" font-size="12px">
+            <text x="31.5" y="95.5">
+                射程は全てステージ横断程度
+            </text>
+        </g>
+        <path d="M 52 104 L 26 104 L 26 260 L 52 260" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 104 L 280 104 L 280 260 L 52 260" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 104 L 52 260" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,33,182)">
+            <text x="32.5" y="192.5">
+                目
+            </text>
+        </g>
+        <rect x="52" y="104" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-109-220-26-0)" font-size="12px">
+            <text x="57.5" y="121.5">
+                攻撃力：２
+            </text>
+        </g>
+        <rect x="52" y="130" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-135-220-26-0)" font-size="12px">
+            <text x="57.5" y="147.5">
+                攻撃間隔：5秒
+            </text>
+        </g>
+        <rect x="52" y="156" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-161-220-26-0)" font-size="12px">
+            <text x="57.5" y="173.5">
+                攻撃間隔：5秒
+            </text>
+        </g>
+        <rect x="52" y="182" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-187-220-26-0)" font-size="12px">
+            <text x="57.5" y="199.5">
+                攻撃方法：紅い涙をコアに飛ばす
+            </text>
+        </g>
+        <rect x="52" y="208" width="228" height="52" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-213-220-52-0)" font-size="12px">
+            <text x="57.5" y="225.5">
+                エフェクト：上下左右、画面端。
+            </text>
+            <text x="57.5" y="239.5">
+                パーツに近づくほど
+            </text>
+            <text x="57.5" y="253.5">
+                エフェクトは大きくなる。
+            </text>
+        </g>
+        <path d="M 52 260 L 26 260 L 26 402 L 52 402" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 260 L 280 260 L 280 402 L 52 402" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 260 L 52 402" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,33,331)">
+            <text x="32.5" y="341.5">
+                口
+            </text>
+        </g>
+        <rect x="52" y="260" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-265-220-26-0)" font-size="12px">
+            <text x="57.5" y="277.5">
+                攻撃力：５
+            </text>
+        </g>
+        <rect x="52" y="286" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-291-220-26-0)" font-size="12px">
+            <text x="57.5" y="303.5">
+                攻撃間隔：10秒
+            </text>
+        </g>
+        <rect x="52" y="312" width="228" height="38" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-317-220-38-0)" font-size="12px">
+            <text x="57.5" y="329.5">
+                攻撃方法：扇状デスボイスをコアに、
+            </text>
+            <text x="57.5" y="343.5">
+                コア以外にもダメ通る？
+            </text>
+        </g>
+        <rect x="52" y="350" width="228" height="52" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-355-220-52-0)" font-size="12px">
+            <text x="57.5" y="367.5">
+                エフェクト：被ダメSEが鳴り続ける。
+            </text>
+            <text x="57.5" y="381.5">
+                パーツに近づくほどSEが
+            </text>
+            <text x="57.5" y="395.5">
+                大きくなる。
+            </text>
+        </g>
+        <path d="M 52 402 L 26 402 L 26 544 L 52 544" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 402 L 280 402 L 280 544 L 52 544" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 402 L 52 544" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,33,473)">
+            <text x="32.5" y="483.5">
+                耳
+            </text>
+        </g>
+        <rect x="52" y="402" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-407-220-26-0)" font-size="12px">
+            <text x="57.5" y="419.5">
+                攻撃力：１
+            </text>
+        </g>
+        <rect x="52" y="428" width="228" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-433-220-26-0)" font-size="12px">
+            <text x="57.5" y="445.5">
+                攻撃間隔：3秒
+            </text>
+        </g>
+        <rect x="52" y="454" width="228" height="38" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-459-220-38-0)" font-size="12px">
+            <text x="57.5" y="471.5">
+                攻撃方法：弾。
+            </text>
+            <text x="57.5" y="485.5">
+                上下左右とコア狙いの5方向。
+            </text>
+        </g>
+        <rect x="52" y="492" width="228" height="52" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-497-220-52-0)" font-size="12px">
+            <text x="57.5" y="509.5">
+                エフェクト：BGM音量が大幅低下。
+            </text>
+            <text x="57.5" y="523.5">
+                パーツに近づくほど音量が
+            </text>
+            <text x="57.5" y="537.5">
+                大きくなる。
+            </text>
+        </g>
+        <rect x="26" y="544" width="254" height="22" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <path d="M 52 566 L 26 566 L 26 606 L 52 606" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 566 L 280 566 L 280 606 L 52 606" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 52 566 L 52 606" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,33,586)">
+            <text x="32.5" y="596.5">
+                補正
+            </text>
+        </g>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-56-571-220-40-0)" font-size="12px">
+            <text x="57.5" y="583.5">
+                パーツ位置によって攻撃力・次に憑依
+            </text>
+            <text x="57.5" y="597.5">
+                しに行くパーツの遠さに補正がかかる
+            </text>
+        </g>
+        <path d="M 26 632 L 26 606 L 280 606 L 280 632" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 632 L 26 676 L 280 676 L 280 632" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 632 L 280 632" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="152.5" y="623.5">
+                耐久
+            </text>
+        </g>
+        <rect x="26" y="632" width="254" height="44" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-30-637-246-44-0)" font-size="12px">
+            <text x="31.5" y="649.5">
+                パーツに直接攻撃のみ、
+            </text>
+            <text x="31.5" y="663.5">
+                ダメ通らないが逃走中に
+            </text>
+        </g>
+        <path d="M 26 702 L 26 676 L 280 676 L 280 702" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 702 L 26 728 L 280 728 L 280 702" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 702 L 280 702" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="152.5" y="693.5">
+                移動
+            </text>
+        </g>
+        <rect x="26" y="702" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-30-707-246-26-0)" font-size="12px">
+            <text x="31.5" y="719.5">
+                パーツにとどまる
+            </text>
+        </g>
+        <path d="M 26 754 L 26 728 L 280 728 L 280 754" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 754 L 26 780 L 280 780 L 280 754" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 26 754 L 280 754" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="152.5" y="745.5">
+                備考
+            </text>
+        </g>
+        <rect x="26" y="754" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-30-759-246-26-0)" font-size="12px">
+            <text x="31.5" y="771.5">
+                パーツが破壊されると、高速状態に
+            </text>
+        </g>
+        <path d="M 456 370 L 430 370 L 430 576 L 456 576" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 370 L 700 370 L 700 576 L 456 576" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 370 L 456 576" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,443,473)">
+            <text x="442.5" y="477.5">
+                高速状態
+            </text>
+        </g>
+        <path d="M 456 396 L 456 370 L 700 370 L 700 396" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 396 L 456 422 L 700 422 L 700 396" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 396 L 700 396" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="387.5">
+                攻撃
+            </text>
+        </g>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-401-236-26-0)" font-size="12px">
+            <text x="461.5" y="413.5">
+                ランダムに憑依
+            </text>
+        </g>
+        <path d="M 456 448 L 456 422 L 700 422 L 700 448" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 448 L 456 474 L 700 474 L 700 448" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 448 L 700 448" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="439.5">
+                耐久
+            </text>
+        </g>
+        <rect x="456" y="448" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-453-236-26-0)" font-size="12px">
+            <text x="461.5" y="465.5">
+                素通し
+            </text>
+        </g>
+        <path d="M 700 383 L 770 380" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 500 L 456 474 L 700 474 L 700 500" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 500 L 456 526 L 700 526 L 700 500" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 500 L 700 500" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="491.5">
+                移動
+            </text>
+        </g>
+        <rect x="456" y="500" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-505-236-26-0)" font-size="12px">
+            <text x="461.5" y="517.5">
+                プレイヤーより若干早い
+            </text>
+        </g>
+        <path d="M 456 552 L 456 526 L 700 526 L 700 552" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 552 L 456 576 L 700 576 L 700 552" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 552 L 700 552" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="543.5">
+                備考
+            </text>
+        </g>
+        <rect x="456" y="552" width="244" height="24" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-557-236-24-0)" font-size="12px">
+            <text x="461.5" y="569.5">
+                他のパーツに速やかに憑依を試みる
+            </text>
+        </g>
+        <path d="M 280 65 L 423.87 105.88" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 428.92 107.31 L 421.23 108.76 L 423.87 105.88 L 423.15 102.03 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 86px; margin-left: 355px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+                                XX
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="355" y="90" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    XX
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 87px; margin-left: 356px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; background-color: #000000; white-space: nowrap; ">
+                                パーツに直接攻撃
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="356" y="90" fill="#FFFFFF" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    パーツに直接攻撃
+                </text>
+            </switch>
+        </g>
+        <path d="M 430 228 L 573.4 365.59" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 577.19 369.23 L 569.72 366.91 L 573.4 365.59 L 574.57 361.85 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 300px; margin-left: 505px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; background-color: #000000; white-space: nowrap; ">
+                                攻撃を受ける
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="505" y="303" fill="#FFFFFF" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    攻撃を受ける
+                </text>
+            </switch>
+        </g>
+        <path d="M 456 710 L 430 710 L 430 920 L 456 920" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 710 L 700 710 L 700 920 L 456 920" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 710 L 456 920" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,443,815)">
+            <text x="442.5" y="819.5">
+                憑依不可
+            </text>
+        </g>
+        <path d="M 456 736 L 456 710 L 700 710 L 700 736" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 736 L 456 762 L 700 762 L 700 736" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 736 L 700 736" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="727.5">
+                攻撃
+            </text>
+        </g>
+        <rect x="456" y="736" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-741-236-26-0)" font-size="12px">
+            <text x="461.5" y="753.5">
+                コア狙い弾？
+            </text>
+        </g>
+        <path d="M 456 788 L 456 762 L 700 762 L 700 788" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 788 L 456 814 L 700 814 L 700 788" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 788 L 700 788" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="779.5">
+                耐久
+            </text>
+        </g>
+        <rect x="456" y="788" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-793-236-26-0)" font-size="12px">
+            <text x="461.5" y="805.5">
+                素通し
+            </text>
+        </g>
+        <path d="M 456 840 L 456 814 L 700 814 L 700 840" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 840 L 456 866 L 700 866 L 700 840" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 840 L 700 840" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="831.5">
+                移動
+            </text>
+        </g>
+        <rect x="456" y="840" width="244" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-460-845-236-26-0)" font-size="12px">
+            <text x="461.5" y="857.5">
+                完全ランダムでステージを走り回る。
+            </text>
+        </g>
+        <path d="M 456 892 L 456 866 L 700 866 L 700 892" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 892 L 456 920 L 700 920 L 700 892" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 892 L 700 892" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="577.5" y="883.5">
+                備考
+            </text>
+        </g>
+        <path d="M 430 421.5 L 286.31 440.18" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 281.11 440.86 L 287.6 436.48 L 286.31 440.18 L 288.5 443.42 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 432px; margin-left: 355px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; background-color: #000000; white-space: nowrap; ">
+                                憑依する
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="355" y="435" fill="#FFFFFF" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    憑依する
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 555 L 422.57 543.35" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 427.81 542.93 L 421.11 546.98 L 422.57 543.35 L 420.54 540.01 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 549px; margin-left: 355px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; background-color: #000000; white-space: nowrap; ">
+                                憑依パーツが
+                                <br/>
+                                破壊される
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="355" y="553" fill="#FFFFFF" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    憑依パーツが
+破壊される
+                </text>
+            </switch>
+        </g>
+        <path d="M 700 100 L 760 100 Q 770 100 770 110 L 770 677 Q 770 687 765.53 695.94 L 702.85 821.3" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.5 826 L 700.5 818.17 L 702.85 821.3 L 706.76 821.3 Z" fill="#ffffff" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 438px; margin-left: 771px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #FFFFFF; line-height: 1.2; pointer-events: none; background-color: #000000; white-space: nowrap; ">
+                                パーツが存在しない
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="771" y="441" fill="#FFFFFF" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    パーツが存在しない
+                </text>
+            </switch>
+        </g>
+        <path d="M 40 826 L 40 800 L 294 800 L 294 826" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 826 L 40 904 L 294 904 L 294 826" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 826 L 294 826" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="166.5" y="817.5">
+                変数
+            </text>
+        </g>
+        <rect x="40" y="826" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-44-831-246-26-0)" font-size="12px">
+            <text x="45.5" y="843.5">
+                現在の状態
+            </text>
+        </g>
+        <rect x="40" y="852" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-44-857-246-26-0)" font-size="12px">
+            <text x="45.5" y="869.5">
+                Item 2
+            </text>
+        </g>
+        <rect x="40" y="878" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-44-883-246-26-0)" font-size="12px">
+            <text x="45.5" y="895.5">
+                Item 3
+            </text>
+        </g>
+        <path d="M 40 956 L 40 930 L 294 930 L 294 956" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 956 L 40 982 L 294 982 L 294 956" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 956 L 294 956" fill="none" stroke="#ffffff" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="166.5" y="947.5">
+                備考
+            </text>
+        </g>
+        <rect x="40" y="956" width="254" height="26" fill="none" stroke="#ffffff" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-44-961-246-26-0)" font-size="12px">
+            <text x="45.5" y="973.5">
+                ボスフェイズではパーツが置けない。
+            </text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

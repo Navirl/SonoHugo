@@ -1,0 +1,395 @@
+{
+  "main": {
+    "id": "4b0093d6a075409b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a428cc1ac1cce8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707e6ae60c490191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teino/Bar/Novel/Nacaria/Narana_Tsunohashi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85784c9c5998af1b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "19135659fd35c2ff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "94a8a225a09f8ecb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "96ea52f70a319c42",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fcc984deb29c4c98",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "83dbea8dfba0103d",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a01e948857a20b9a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75616e55f62cb663",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Teino/Bar/Novel/Nacaria/Narana_Tsunohashi.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "bf1cbde1655d7e6d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Teino/Bar/Novel/Nacaria/Narana_Tsunohashi.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "39b1d704e6953977",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "41fe20d1f42c9426",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "70660de4144f7452",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "d3150a96f1176400",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "28c20af0b97584cc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "3bdfc72218631897",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a4e053a7a2cc6171",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "50cf3be89951497d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c94d32b5ce3fd60d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1a0f0b4080cd477e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "5d379121ae9708c5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "71e076fd535c8b12",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a892e8c74d06c51d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "12233930d12ee439",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c7892b15fb752d66",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "813f25c0997dbe04",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "27bdd33a139f8f6b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "48112baf2e33fe45",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "282ba5e9749e7f26",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "e68677479c4a9b49",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a9bb024ba2112cba",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "94fa6898837935d8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "282316ff1a50f18e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "42e3770bac297263",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "6803205f47a604c8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a867f76b31779cdc",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1a732278f46e071f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "4c77fa9d851b7970",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "ca0d571b3cf4b669",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b156150b63deb98",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "870402bd88567e92",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8b96f13948fad94",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "94a8a225a09f8ecb",
+  "lastOpenFiles": [
+    "Teino/Novels/ナカリア/本編/アイディア/楢名語録.md",
+    "Teino/Info/リポジトリを軽くしよう.md",
+    "Teino/Bar/Novel/Nacaria/Merai_Hezagami.md",
+    "Teino/誰でも良かった。けれど、誰もいなかった。.md",
+    "Teino/誰でも良かった。.md",
+    "Teino/誰でもよかった。けれど、そこにいたのはお前だ。.md",
+    "Yeolumar/誰でも良かった。.md",
+    "Teino/Info/三十歳を過ぎても何の特異的スキルを身に着けなかった.md",
+    "changelog.md",
+    "Yeolumar/誰でも良かった。けれど、誰もいなかった。.md"
+  ]
+}

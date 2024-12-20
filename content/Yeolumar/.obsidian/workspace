@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e9c3b89c080c2e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a32b8867df96162",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53403882de14bb3a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d45fc99fa9566e2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "94ae2e2019e0a8ea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "鳥山石燕",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "34d4de913fef3839",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "4193b2e244acf96b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8130037b213d4013",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
+          }
+        }
+      }
+    ]
+  },
+  "active": "7a32b8867df96162",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "鳥山石燕.md",
+    "Archived/changelog.md",
+    "「知らない」場所があるから人間なのさ。.md",
+    "小さく踏み出した、偉大な一歩は、.md",
+    "終わりが良ければ、それで良かったのに。.md",
+    "我々の言葉が役立つのは十年、二十年、いや、.md",
+    "リズムに！　合わせて！　1234！.md",
+    "ZettelIdea/人は見返りを想像できなくても、「試せる」生き物だ。.md",
+    "ZettelIdea/より良い遺伝子を残し続けるのは、ただ生きたかったからだ。.md"
+  ]
+}

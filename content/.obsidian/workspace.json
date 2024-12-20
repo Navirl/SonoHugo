@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "03398ca5a89be6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cb94031159e7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8210bb0df215e931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teino/Bar/Program/Automate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d87dde4b2aca429",
+    "type": "split",
+    "children": [
+      {
+        "id": "386c8ef6f51c00be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e71e1b18519cb23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "46951a0be9449dd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "デリミ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "50b9f14c995c8721",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b9b9f43c78107f40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "8df90fafb50945f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ab9a8db53ac460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4302f099b1b29e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teino/Novels/Movies/注意点.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 注意点"
+            }
+          },
+          {
+            "id": "366df2a18d1f34bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teino/Novels/Movies/注意点.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 注意点"
+            }
+          },
+          {
+            "id": "d4f4e32cf95a7098",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f4d402b29dc13d9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Teino/Novels/Movies/注意点.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.00042735042735,
+                  "lineSizeMultiplier": 1.50299145299145,
+                  "collapse-forces": false,
+                  "centerStrength": 0.502941176470588,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8854989543150436,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 注意点"
+            }
+          },
+          {
+            "id": "c1872ec613792c9c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "edf0710c3abb8afb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8210bb0df215e931",
+  "lastOpenFiles": [
+    "themes/blowfish/theme.toml",
+    "themes/blowfish/tailwind.config.js",
+    "themes/blowfish/static/site.webmanifest",
+    "themes/blowfish/static/favicon.ico",
+    "themes/blowfish/static/favicon-16x16.png",
+    "themes/blowfish/static/favicon-32x32.png",
+    "themes/blowfish/static/apple-touch-icon.png",
+    "themes/blowfish/static/android-chrome-512x512.png",
+    "themes/blowfish/static/android-chrome-192x192.png",
+    "themes/blowfish/static",
+    "themes/blowfish/release-versions/hugo-latest.txt",
+    "themes/blowfish/release-versions",
+    "themes/blowfish/processUsers.js",
+    "themes/blowfish/package.json",
+    "themes/blowfish/package-lock.json",
+    "themes/blowfish/netlify.toml",
+    "themes/blowfish/logo.png",
+    "themes/blowfish/images/tn.png",
+    "themes/blowfish/images/screenshot.png",
+    "themes/blowfish/images/home-profile.png",
+    "themes/blowfish/images/home-mobile.png",
+    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.md",
+    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.it.md",
+    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.md",
+    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.it.md",
+    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.md",
+    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.it.md",
+    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.md",
+    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.it.md",
+    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.md",
+    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.it.md",
+    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.md",
+    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.it.md",
+    "themes/blowfish/exampleSite/content/users/e2ca3d6494c32151235beabe7567b23d/index.zh-cn.md",
+    "public/novel/Timeline/Untitled.canvas"
+  ]
+}

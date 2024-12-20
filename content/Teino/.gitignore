@@ -1,0 +1,8 @@
+#見た目
+/.obsidian/appearance.json
+/.obsidian/themes
+#plugins
+/.obsidian/community-plugins.json
+#workspace
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json

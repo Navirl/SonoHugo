@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Portal",
+      "path": "Portal.md"
+    },
+    {
+      "type": "file",
+      "title": "Anki System",
+      "path": "Others/Anki Language.md"
+    },
+    {
+      "type": "file",
+      "title": "README",
+      "path": "Others/README.md"
+    },
+    {
+      "type": "file",
+      "title": "Taskbox",
+      "path": "Others/Taskbox.md"
+    },
+    {
+      "type": "file",
+      "title": "Anki Language Chinese",
+      "path": "Others/Anki Language Chinese.md"
+    },
+    {
+      "type": "file",
+      "title": "Anki Language English",
+      "path": "Others/Anki Language English.md"
+    }
+  ]
+}

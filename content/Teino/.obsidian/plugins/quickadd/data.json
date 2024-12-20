@@ -1,0 +1,96 @@
+{
+  "choices": [
+    {
+      "id": "32249259-c88c-488c-a10a-d648f9c7ed49",
+      "name": "Delete Note on CSV",
+      "type": "Macro",
+      "command": false,
+      "macroId": "bc1ebf8b-e088-4ceb-b630-2f802ba60c18"
+    },
+    {
+      "id": "7c587938-936d-4eac-aada-e55fe030916e",
+      "name": "Rename to Zettel and Add Aliases",
+      "type": "Macro",
+      "command": false,
+      "macroId": "ec173a4b-70ff-4110-9837-208478f31809"
+    },
+    {
+      "id": "27b39030-5bd3-4889-bedd-6f8b2ef4e96f",
+      "name": "5",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "Delete Note on CSV Macro",
+      "id": "bc1ebf8b-e088-4ceb-b630-2f802ba60c18",
+      "commands": [
+        {
+          "name": "module",
+          "type": "UserScript",
+          "id": "b417c47a-9ab6-4217-81ca-282209f1de72",
+          "path": "Temp/module.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Rename to Zettel and Add Aliases Macro",
+      "id": "ec173a4b-70ff-4110-9837-208478f31809",
+      "commands": [
+        {
+          "name": "renameToZettel",
+          "type": "UserScript",
+          "id": "933ebc12-aa65-473e-af71-43e5fbd9c691",
+          "path": "Temp/renameToZettel.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Temp",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

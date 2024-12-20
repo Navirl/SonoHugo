@@ -1,0 +1,1 @@
+uid: {{date:yyyyMMDD}}{{time:HHmmss}}

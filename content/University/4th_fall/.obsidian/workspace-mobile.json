@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "7b9e7ac87d31efd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6ea3e11c5d0b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1154a86f37c5f642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mon5_4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "270bc74174b1a104",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b632dc9dc96cb3cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aa10a77f4e748d0a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d3c5fd048077e37e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "155289a26a6a8b78",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2684e097fb542c8f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec2ddde9e5fd5338",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mon5_4.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6f85c7bfd8e867e7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Mon5_4.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "96b60782abf99bf8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Mon5_4.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1154a86f37c5f642",
+  "lastOpenFiles": [
+    "Wed3_4.md",
+    "Thu4_Rep.md"
+  ]
+}
