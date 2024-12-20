@@ -1,10 +1,11 @@
 ---
+title: "Hezagami_Timeline"
 tags:
  - Info
  - Timeline
 ---
 
-date:: [2022-10-26](Daily_Note/2022-10-26.md)
+date: 2024-12-20T14:05:11+09:00
 up:: [Merai_Hezagami](../Nacaria/Merai_Hezagami.md)
 up:: [Timeline_Sheet](../Sheet/Timeline_Sheet.md)
 

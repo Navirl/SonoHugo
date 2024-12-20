@@ -1,9 +1,10 @@
 ---
+title: "netstat no support for AF INET (tcp) on this system."
 tags:
  - Info
 ---
 
-date:: [2022-10-06](Daily_Note/2022-10-06.md)
+date: 2024-12-20T14:08:00+09:00
 up:: [Termux](../Bar/App/Termux.md)
 source:: [netstat: no support for AF INET (tcp) on this system. : termux](https://www.reddit.com/r/termux/comments/j6rzmi/netstat_no_support_for_af_inet_tcp_on_this_system/)
 

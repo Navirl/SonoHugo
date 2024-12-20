@@ -1,9 +1,10 @@
 ---
+title: "Google_Spreadsheet"
 tags:
   - Bar
 ---
 
-date:: [2024-03-15](Daily_Note/2024-03-15.md)
+date: 2024-12-20T14:05:35+09:00
 up:: [Programming](Programming.md)
 
 コピー時に簡略化できるように=を付けておく。

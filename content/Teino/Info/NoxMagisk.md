@@ -1,9 +1,10 @@
 ---
+title: "NoxMagisk"
 tags:
   - Info
 ---
 
-date:: [2023-12-13](/Daily_Note/2023-12-13.md)
+date: 2024-12-20T14:07:26+09:00
 up:: [Eclipse](../Bar/Eclipse.md)
 
 magisk delta

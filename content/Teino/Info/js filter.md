@@ -1,9 +1,10 @@
 ---
+title: "js filter"
 tags:
  - Info
 ---
 
-date:: [2023-02-10](/Daily_Note/2023-02-10.md)
+date: 2024-12-20T14:07:55+09:00
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 `Array[]`の中から特定条件にあてはまるものを取り出し、新たな配列を作る関数。

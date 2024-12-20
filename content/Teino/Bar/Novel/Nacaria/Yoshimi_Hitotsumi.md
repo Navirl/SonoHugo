@@ -1,11 +1,12 @@
 ---
+title: "Yoshimi_Hitotsumi"
 tags:
  - Bar
  - Nacaria
  - Novel/Character
 ---
 
-date:: [2022-09-03](Daily_Note/2022-09-03.md)
+date: 2024-12-20T14:05:07+09:00
 up:: [Monon](Monon.md)
 
 

@@ -1,10 +1,11 @@
 ---
+title: "Git"
 tags:
  - Bar
  - App
 ---
 
-date:: [2021-07-17](Daily_Note/2021-07-17.md)
+date: 2024-12-20T14:04:30+09:00
 up:: 
 
 

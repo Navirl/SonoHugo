@@ -1,9 +1,10 @@
 ---
+title: "nanoservice"
 tags:
  - Info
 ---
 
-date:: [2023-04-26](Daily_Note/2023-04-26.md)
+date: 2024-12-20T14:08:00+09:00
 up:: [Docker](Docker.md)
 
 cloudflareのnanoservice

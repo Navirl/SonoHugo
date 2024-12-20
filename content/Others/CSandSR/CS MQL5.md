@@ -1,5 +1,6 @@
 ---
-date: 2021-11-09 12:19:39
+title: "CS MQL5"
+date: 2024-12-20T14:03:23+09:00
 tags:
  - Program/MQL5
  - CheatSheet

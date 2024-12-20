@@ -1,11 +1,12 @@
 ---
+title: "AI_voice"
 tags:
   - Bar
 aliases:
   - AIvc
 ---
 
-date:: [2024-12-06 FX](../../Daily_Note/2024-12-06%20FX.md)
+date: 2024-12-20T14:04:28+09:00
 up:: [AI_local](AI_local.md)
 
 [AI_local](AI_local.md)の領分だが、いかんせん多すぎ。

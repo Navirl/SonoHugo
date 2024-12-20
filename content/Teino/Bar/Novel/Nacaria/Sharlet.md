@@ -1,4 +1,5 @@
 ---
+title: "Sharlet"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: シャーレット
 ---
 
-date:: [2022-11-14](Daily_Note/2022-11-14.md)
+date: 2024-12-20T14:05:03+09:00
 up:: [Riitsu_Reuke](Riitsu_Reuke.md)
 
 シャーレット

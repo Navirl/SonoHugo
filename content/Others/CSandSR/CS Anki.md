@@ -1,5 +1,6 @@
 ---
-date: 2021-07-17 16:35:35
+title: "CS Anki"
+date: 2024-12-20T14:03:21+09:00
 tags:
  - CheatSheet
  - App/Anki

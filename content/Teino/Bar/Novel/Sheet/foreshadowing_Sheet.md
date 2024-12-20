@@ -1,10 +1,11 @@
 ---
+title: "foreshadowing_Sheet"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date:: [2022-08-31](Daily_Note/2022-08-31.md)
+date: 2024-12-20T14:05:10+09:00
 up::
 
 from:: StoryEditorLite

@@ -1,3 +1,7 @@
+---
+title: "Daicer ImageVault"
+date: 2024-12-20T14:07:15+09:00
+---
 ImageVault
 ```mermaid
 sequenceDiagram

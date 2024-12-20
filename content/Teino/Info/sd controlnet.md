@@ -1,11 +1,12 @@
 ---
+title: "sd controlnet"
 tags:
   - Info
 aliases:
   - sd CN
 ---
 
-date:: [2024-03-30](/Daily_Note/2024-03-30.md)
+date: 2024-12-20T14:08:11+09:00
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 便利機能詰め合わせ。

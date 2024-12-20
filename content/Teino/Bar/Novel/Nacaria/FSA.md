@@ -1,4 +1,5 @@
 ---
+title: "FSA"
 tags:
  - Bar
  - Nacaria
@@ -8,7 +9,7 @@ aliases:
  - 完全感性アンドロイド
 ---
 
-date:: [2023-04-09](Daily_Note/2023-04-09.md)
+date: 2024-12-20T14:04:51+09:00
 up:: [Android](../Topics/Android.md)
 up:: [Bio](../Topics/Bio.md)
 

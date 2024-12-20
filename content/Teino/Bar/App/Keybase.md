@@ -1,10 +1,11 @@
 ---
+title: "Keybase"
 tags:
  - Bar
  - App
 ---
 
-date:: [2022-10-27](Daily_Note/2022-10-27.md)
+date: 2024-12-20T14:04:31+09:00
 up:: [Git](Git.md)
 
 大体なんでも暗号化できるサービス。

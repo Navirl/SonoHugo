@@ -1,11 +1,12 @@
 ---
+title: "Reimu_Hakurei"
 tags:
  - Bar
  - Novel/Character
  - Touhou_Project
 ---
 
-date:: [2022-08-19](Daily_Note/2022-08-19.md)
+date: 2024-12-20T14:05:30+09:00
 up::
 
 

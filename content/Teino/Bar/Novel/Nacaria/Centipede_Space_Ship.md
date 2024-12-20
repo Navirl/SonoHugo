@@ -1,4 +1,5 @@
 ---
+title: "Centipede_Space_Ship"
 tags:
  - Bar
  - Nacaria
@@ -8,7 +9,7 @@ tags:
 aliases: ムカデ
 ---
 
-date:: [2023-02-03](Daily_Note/2023-02-03.md)
+date: 2024-12-20T14:04:50+09:00
 up:: [Fushibi](Fushibi.md)
 same:: [KOW](KOW.md)
 

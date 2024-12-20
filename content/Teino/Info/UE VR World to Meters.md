@@ -1,9 +1,10 @@
 ---
+title: "UE VR World to Meters"
 tags:
  - Info
 ---
 
-date:: [2022-11-12](Daily_Note/2022-11-12.md)
+date: 2024-12-20T14:07:43+09:00
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 
 VRでワールドのサイズ感を手軽に変更する機能。1mが何単位か示す。

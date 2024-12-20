@@ -1,5 +1,6 @@
 ---
-date: 2021-10-13 11:34:05
+title: "NovelTextSystem"
+date: 2024-12-20T14:03:32+09:00
 tags:
  - Novel
 ---

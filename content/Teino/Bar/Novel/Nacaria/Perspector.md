@@ -1,4 +1,5 @@
 ---
+title: "Perspector"
 tags:
  - Bar
  - Novel/Item
@@ -7,7 +8,7 @@ aliases:
  - 遠近法者
 ---
 
-date:: [2022-08-02](Daily_Note/2022-08-02.md)
+date: 2024-12-20T14:05:01+09:00
 up:: [Component](Novel/Chaos/Component.md)
 
 その視線、借りるぜ。

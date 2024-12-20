@@ -1,4 +1,5 @@
 ---
+title: "Dolls_in_Pseudo_Paradise"
 tags:
  - Bar
  - Novel/Work
@@ -8,5 +9,5 @@ aliases:
  - DiPP
 ---
 
-date:: [2022-11-01](Daily_Note/2022-11-01.md)
+date: 2024-12-20T14:05:28+09:00
 up:: 

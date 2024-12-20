@@ -1,4 +1,5 @@
 ---
+title: "Fushibi_People"
 tags:
  - Bar
  - Nacaria
@@ -6,6 +7,6 @@ tags:
 aliases: フシビの人々
 ---
 
-date:: [2022-07-03](Daily_Note/2022-07-03.md)
+date: 2024-12-20T14:04:52+09:00
 up:: [Fushibi](Fushibi.md)
 

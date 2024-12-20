@@ -1,9 +1,10 @@
 ---
+title: "Rust Generic"
 tags:
  - Info
 ---
 
-date:: [2023-03-11](/Daily_Note/2023-03-11.md)
+date: 2024-12-20T14:07:33+09:00
 up:: [Rust](../Bar/Program/Rust.md)
 
 [csharp ジェネリックメソッド](csharp%20ジェネリックメソッド.md)

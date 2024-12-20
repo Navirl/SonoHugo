@@ -1,4 +1,5 @@
 ---
+title: "Tsuduri_Samoto"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 乍本綴
 ---
 
-date:: [2022-08-19](Daily_Note/2022-08-19.md)
+date: 2024-12-20T14:05:06+09:00
 up:: [Saki_Yanasaki](Saki_Yanasaki.md)
 up:: [Nainy_Tokerny_Deunant](Nainy_Tokerny_Deunant.md)
 up:: [Chromisiro](Chromisiro.md)

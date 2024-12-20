@@ -1,9 +1,10 @@
 ---
+title: "Blender Add-on Tutorial"
 tags:
   - Info
 ---
 
-date:: [2023-09-30](/Daily_Note/2023-09-30.md)
+date: 2024-12-20T14:07:12+09:00
 up:: [Blender](../Bar/App/Blender.md)
 
 [Add-on Tutorial — Blender Manual](https://docs.blender.org/manual/en/latest/advanced/scripting/addon_tutorial.html)

@@ -1,3 +1,7 @@
+---
+title: "git 前半"
+date: 2024-12-20T14:15:44+09:00
+---
 [Git](../../Bar/App/Git.md)
 
 [Git研修【MIXI 23新卒技術研修】 - YouTube](https://www.youtube.com/watch?v=lWkO8bQ9pSo)
@@ -248,5 +252,3 @@ branchは正規表現で指定可能。
 前に書いたmainやdevelopのルールを書いておく。
 
 [[git 後半]]
-
-

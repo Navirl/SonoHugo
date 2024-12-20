@@ -1,3 +1,7 @@
+---
+title: "SR Programing Paradigm"
+date: 2024-12-20T14:03:56+09:00
+---
 #flashcards/Program
 
 ## SOLID原則

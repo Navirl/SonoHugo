@@ -1,8 +1,9 @@
 ---
+title: "Blender"
 tags:
   - Bar
   - App
 ---
 
-date:: [2023-09-30](Daily_Note/2023-09-30.md)
+date: 2024-12-20T14:04:29+09:00
 up:: [Python](../Program/Python.md)

@@ -1,4 +1,5 @@
 ---
+title: "Yuuma_Toutetsu"
 tags:
  - Bar
  - Touhou_Project
@@ -6,7 +7,7 @@ tags:
 aliases: 饕餮尤魔
 ---
 
-date:: [2023-04-25](Daily_Note/2023-04-25.md)
+date: 2024-12-20T14:05:32+09:00
 up::
 same:: [Frandle_Scarlet](Frandle_Scarlet.md)
 

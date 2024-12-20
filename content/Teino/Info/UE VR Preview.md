@@ -1,9 +1,10 @@
 ---
+title: "UE VR Preview"
 tags:
  - Info
 ---
 
-date:: [2022-10-08](Daily_Note/2022-10-08.md)
+date: 2024-12-20T14:07:43+09:00
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [How to create Oculus Quest 2 Game in the NEW Unreal Engine 5.0.0 (VR preview) - YouTube](https://www.youtube.com/watch?v=dP7_9k19Ykg)
 source:: [Solved: VR Preview mode is greyed out - Meta Community Forums - 894970](https://forums.oculusvr.com/t5/Unreal-VR-Development/VR-Preview-mode-is-greyed-out/td-p/894970)

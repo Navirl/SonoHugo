@@ -1,5 +1,6 @@
 ---
-date: 2021-08-06 13:55:57
+title: "Challenge 2 - Hints and Tips"
+date: 2024-12-20T14:03:36+09:00
 tags: 
  - App
  - Unity

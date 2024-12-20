@@ -1,4 +1,5 @@
 ---
+title: "Aido_Itsuragi"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 五良木愛土
 ---
 
-date:: [2022-08-04](Daily_Note/2022-08-04.md)
+date: 2024-12-20T14:04:48+09:00
 up:: [Ive](Ive.md)
 down:: [Hasumukai](Hasumukai.md)
 

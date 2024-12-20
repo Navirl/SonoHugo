@@ -1,11 +1,12 @@
 ---
+title: "sd Character bones that look like Openpose for blender"
 tags:
   - Info
 aliases:
   - sd blender
 ---
 
-date:: [2024-05-24](/Daily_Note/2024-05-24.md)
+date: 2024-12-20T14:08:09+09:00
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 up:: [sd ControlNet](sd%20ControlNet.md)
 up:: [Blender](../Bar/App/Blender.md)

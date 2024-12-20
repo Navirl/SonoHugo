@@ -1,5 +1,6 @@
 ---
-date: 2022-03-10 14:33:50
+title: "Program Paradigm"
+date: 2024-12-20T14:03:55+09:00
 tags:
  - Program/Paradigm
 ---

@@ -1,9 +1,10 @@
 ---
+title: "ComfyUI"
 tags:
   - Bar
 ---
 
-date:: [2024-04-16](Daily_Note/2024-04-16.md)
+date: 2024-12-20T14:04:29+09:00
 up:: [AI_image](../AI/AI_image.md)
 same:: [sdwebui](stable-diffusion-webui.md)
 

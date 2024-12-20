@@ -1,9 +1,10 @@
 ---
+title: "linux more less cat"
 tags:
   - Info
 ---
 
-date:: [2024-08-04](/Daily_Note/2024-08-04.md)
+date: 2024-12-20T14:07:58+09:00
 up:: [Linux](Bar/Linux.md)
 
 どれもファイルの中身を表示する。

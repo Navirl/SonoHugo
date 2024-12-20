@@ -1,9 +1,10 @@
 ---
+title: "unityのprefabに当たるもの"
 tags:
  - Info
 ---
 
-date:: [2022-09-18](Daily_Note/2022-09-18.md)
+date: 2024-12-20T14:08:19+09:00
 up:: [Unreal_Engine](../Bar/App/Unreal_Engine.md)
 
 ## unityのprefabに当たるもの

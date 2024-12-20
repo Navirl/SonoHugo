@@ -1,4 +1,5 @@
 ---
+title: "Kanami_Nijo"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 二条奏海
 ---
 
-date:: [2022-08-04](Daily_Note/2022-08-04.md)
+date: 2024-12-20T14:04:56+09:00
 up:: [Saki_Yanasaki](Saki_Yanasaki.md)
 up:: [Huo](Huo.md)
 same:: [Kanami_Nijo_Edu](Kanami_Nijo_Edu.md)

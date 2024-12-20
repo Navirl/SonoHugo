@@ -1,3 +1,7 @@
+---
+title: "MonobitNetwork"
+date: 2024-12-20T14:03:42+09:00
+---
 
 ### MonobitNetwork.isConnect
 Monobitネットワークに繋がってるかをboolで返す変数。

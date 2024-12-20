@@ -1,9 +1,10 @@
 ---
+title: "Sagemaker_Studio_Lab"
 tags:
   - Bar
 ---
 
-date:: [2024-05-06](Daily_Note/2024-05-06.md)
+date: 2024-12-20T14:04:32+09:00
 up:: [Python](../Program/Python.md)
 
 Amazonが手掛けるColab競合。

@@ -1,3 +1,7 @@
+---
+title: "SR The 20 rules of formulating knowledge in learning"
+date: 2024-12-20T14:03:30+09:00
+---
 #flashcards/20rules
 
 新しいものに対して学習を始めるとき、まず何をするべきか。

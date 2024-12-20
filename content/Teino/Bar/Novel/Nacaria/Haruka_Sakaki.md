@@ -1,4 +1,5 @@
 ---
+title: "Haruka_Sakaki"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 榊遥
 ---
 
-date:: [2022-08-14](Daily_Note/2022-08-14.md)
+date: 2024-12-20T14:04:53+09:00
 up:: [Fourcia](Fourcia.md)
 
 質識

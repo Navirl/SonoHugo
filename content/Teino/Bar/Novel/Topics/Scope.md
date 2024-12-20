@@ -1,8 +1,9 @@
 ---
+title: "Scope"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2023-06-02](Daily_Note/2023-06-02.md)
+date: 2024-12-20T14:05:24+09:00
 up::

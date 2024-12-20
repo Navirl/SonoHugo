@@ -1,9 +1,10 @@
 ---
+title: "PlantUML"
 tags:
  - Bar
 ---
 
-date:: [2021-10-31](/Daily_Note/2021-10-31.md)
+date: 2024-12-20T14:05:36+09:00
 up:: [Programming](Programming.md)
 same:: [Mermaid](Mermaid.md)
 

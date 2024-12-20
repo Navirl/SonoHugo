@@ -1,10 +1,11 @@
 ---
+title: "Plot_Sheet"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date:: [2022-08-08](Daily_Note/2022-08-08.md)
+date: 2024-12-20T14:05:09+09:00
 up::
 
 chapterより大きい

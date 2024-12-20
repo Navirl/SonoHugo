@@ -1,10 +1,11 @@
 ---
+title: "Google Apps Script"
 tags:
  - Bar
 aliases: GAS
 ---
 
-date:: [2022-07-28](Daily_Note/2022-07-28.md)
+date: 2024-12-20T14:05:34+09:00
 up:: [Programming](Programming.md)
 
 ## Web app, API Executable, Add-on, Library

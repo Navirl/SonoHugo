@@ -1,9 +1,10 @@
 ---
+title: "Android Emulator"
 tags:
   - Info
 ---
 
-date:: [2024-11-23](/Daily_Note/2024-11-23.md)
+date: 2024-12-20T14:07:11+09:00
 up:: [Eclipse](../Bar/Eclipse.md)
 
 OS付きでない限り基本android-x86のため、それを検知されるとちょっと辛い。

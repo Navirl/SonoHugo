@@ -1,7 +1,8 @@
 ---
+title: "defaultBar"
 tags:
  - Bar
 ---
 
-date:: [{{date:yyyy-MM-DD}}](Daily_Note/{{date:yyyy-MM-DD}}.md)
+date: 2024-12-20T14:15:47+09:00
 up::

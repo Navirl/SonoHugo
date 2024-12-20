@@ -1,11 +1,12 @@
 ---
+title: "Cricia_People"
 tags:
  - Bar
  - Novel/Character
  - Nacaria
 ---
 
-date:: [2022-07-24](Daily_Note/2022-07-24.md)
+date: 2024-12-20T14:04:51+09:00
 up:: [Cricia](Cricia.md)
 
 

@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:15:52+09:00
+title: "Nebelta・La・Sphereless"
 address: "South Witch Forest"
 species:
  - 魔女

@@ -1,5 +1,6 @@
 ---
-date: 2021-10-04 21:48:01
+title: "Indexer"
+date: 2024-12-20T14:03:28+09:00
 tags:
  - Program/CSharp
  - Fragment

@@ -1,9 +1,10 @@
 ---
+title: "termux ssh接続"
 tags:
  - Info
 ---
 
-date:: [2022-10-06](Daily_Note/2022-10-06.md)
+date: 2024-12-20T14:08:16+09:00
 up:: [Termux](../Bar/App/Termux.md)
 source:: [AndroidにTermuxを入れてSSHで入ってLinux環境を作る【まとめ版】 | 楽しい活字中毒](https://tanokatu.com/2021/06/22/linux-android-linux-2/)
 source:: [termuxでSSHサーバを動かす - Smart Home](https://scrapbox.io/smart-home/termux%E3%81%A7SSH%E3%82%B5%E3%83%BC%E3%83%90%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99)

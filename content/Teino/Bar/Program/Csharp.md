@@ -1,9 +1,10 @@
 ---
+title: "Csharp"
 tags:
  - Bar
 ---
 
-date:: [2022-08-01](Daily_Note/2022-08-01.md)
+date: 2024-12-20T14:05:34+09:00
 up:: [Programming](Programming.md)
 
 

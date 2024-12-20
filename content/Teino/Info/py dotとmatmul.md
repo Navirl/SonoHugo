@@ -1,9 +1,10 @@
 ---
+title: "py dotとmatmul"
 tags:
  - Info
 ---
 
-date:: [2023-07-03](/Daily_Note/2023-07-03.md)
+date: 2024-12-20T14:08:05+09:00
 up:: [Python](../Bar/Program/Python.md)
 
 三次元以降だとちょっと違う。

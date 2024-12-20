@@ -1,4 +1,5 @@
 ---
+title: "Iori_Shiduki"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +8,7 @@ aliases:
  - 姿月依織
 ---
 
-date:: [2023-06-20](/Daily_Note/2023-06-20.md)
+date: 2024-12-20T14:04:55+09:00
 up:: [Ive](Ive.md)
 
 「マイクテスト……ok」

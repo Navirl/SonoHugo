@@ -1,4 +1,5 @@
 ---
+title: "Hourai_Ningyou"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +8,7 @@ banner_y: 0.35342
 banner: "![[../../../Banners/石川スペアリブ - 20470091/20220808 - お祝い.jpg]]"
 ---
 
-date:: [2022-08-10](Daily_Note/2022-08-10.md)
+date: 2024-12-20T14:05:29+09:00
 same:: [Kanakuro_Boushi](../Nacaria/Kanakuro_Boushi.md)
 up:: [DiPP](Dolls_in_Pseudo_Paradise.md)
 

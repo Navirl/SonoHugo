@@ -1,9 +1,10 @@
 ---
+title: "ssh"
 tags:
   - Bar
 ---
 
-date:: [2024-08-04](/Daily_Note/2024-08-04.md)
+date: 2024-12-20T14:05:40+09:00
 up:: [Linux](../Bar/Linux.md)
 
 別のマシンのターミナルに繋ぎたいときの超基本処理。

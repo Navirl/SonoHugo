@@ -1,3 +1,7 @@
+---
+title: "Tag Wall"
+date: 2024-12-20T14:17:23+09:00
+---
 # Component
 一文だけなど、ストーリーがなく情報のみのもの
 前後のストーリーが見えてこないもの
@@ -66,4 +70,3 @@ Project Note
 [第二の脳とは？その特徴と作り方は？なぜ今必要なのか？ | jMatsuzaki](https://jmatsuzaki.com/archives/27866)
 
 [ZettelkastenUID論](../../Teino/Archived/ZettelkastenUID論.md)
-

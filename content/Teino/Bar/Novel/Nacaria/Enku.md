@@ -1,11 +1,12 @@
 ---
+title: "Enku"
 tags:
  - Bar
  - Nacaria
  - Novel/Item
 ---
 
-date:: [2022-10-16](Daily_Note/2022-10-16.md)
+date: 2024-12-20T14:04:51+09:00
 up:: [Hibana_Enku](Hibana_Enku.md)
 
 

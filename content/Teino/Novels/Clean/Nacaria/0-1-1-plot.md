@@ -1,9 +1,10 @@
 ---
+title: "0-1-1-plot"
 tags:
  - Novel/Plot
 ---
 
-date:: [2022-07-30](Daily_Note/2022-07-30.md)
+date: 2024-12-20T14:12:45+09:00
 up:: [Plot_Sheet](../../../Bar/Novel/Sheet/Plot_Sheet.md)
 
 from:: Save_the_cat, [BSBS](BSBS.md)

@@ -1,8 +1,9 @@
 ---
+title: "Sense"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2023-06-25](Daily_Note/2023-06-25.md)
+date: 2024-12-20T14:05:24+09:00
 up::

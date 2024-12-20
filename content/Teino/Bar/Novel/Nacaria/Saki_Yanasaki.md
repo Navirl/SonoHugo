@@ -1,4 +1,5 @@
 ---
+title: "Saki_Yanasaki"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: 梁先茶樹
 ---
 
-date:: [2022-07-03](Daily_Note/2022-07-03.md)
+date: 2024-12-20T14:05:02+09:00
 up:: [Character_Sheet](../Sheet/Character_Sheet.md)
 
 コンセプト

@@ -1,5 +1,7 @@
 
+title: "Hellestfear_Shanoowno_Tentra"
 ---
+title: "Hellestfear_Shanoowno_Tentra"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +9,7 @@ tags:
 aliases: ヘレストフィアル・シャノーノ・テントラ
 ---
 
-date:: [2022-10-14](Daily_Note/2022-10-14.md)
+date: 2024-12-20T14:04:53+09:00
 up:: [Fushibi](Fushibi.md)
 
 へレストだ。長いから、すべて覚える必要はない。

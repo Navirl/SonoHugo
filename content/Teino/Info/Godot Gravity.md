@@ -1,9 +1,10 @@
 ---
+title: "Godot Gravity"
 tags:
  - Info
 ---
 
-date:: [2023-03-15](/Daily_Note/2023-03-15.md)
+date: 2024-12-20T14:07:21+09:00
 up:: [Godot](../Bar/App/Godot.md)
 
 RigidBodyノードを付ければOK。

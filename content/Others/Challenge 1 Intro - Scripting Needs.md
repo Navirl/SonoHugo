@@ -1,5 +1,6 @@
 ---
-date: 2021-07-23 13:53:29
+title: "Challenge 1 Intro - Scripting Needs"
+date: 2024-12-20T14:03:36+09:00
 tags: 
  - App
  - Unity

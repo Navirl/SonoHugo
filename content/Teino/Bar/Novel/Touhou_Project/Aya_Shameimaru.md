@@ -1,11 +1,12 @@
 ---
+title: "Aya_Shameimaru"
 tags:
  - Bar
  - Novel/Character
  - Touhou_Project
 ---
 
-date:: [2022-09-20](Daily_Note/2022-09-20.md)
+date: 2024-12-20T14:05:27+09:00
 up::
 
 

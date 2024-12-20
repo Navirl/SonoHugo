@@ -1,9 +1,10 @@
 ---
+title: "Novel"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2022-10-22](Daily_Note/2022-10-22.md)
+date: 2024-12-20T14:05:23+09:00
 
 

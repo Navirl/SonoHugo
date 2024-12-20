@@ -1,4 +1,5 @@
 ---
+title: "Miyari_Furumori"
 tags:
   - Bar
   - Canareal
@@ -7,7 +8,7 @@ aliases:
   - Fumi
 ---
 
-date:: [2024-03-24](Daily_Note/2024-03-24.md)
+date: 2024-12-20T14:04:44+09:00
 up::
 same:: [Manoki_Ogata](Manoki_Ogata.md)
 

@@ -1,11 +1,12 @@
 ---
+title: "Hasumukai"
 tags:
  - Bar
  - Novel/Community
  - Nacaria
 ---
 
-date:: [2023-06-20](/Daily_Note/2023-06-20.md)
+date: 2024-12-20T14:04:53+09:00
 up:: [Ive](Ive.md)
 up:: [Aido_Itsuragi](Aido_Itsuragi.md)
 

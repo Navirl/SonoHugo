@@ -1,9 +1,10 @@
 ---
+title: "Shebang"
 tags:
  - Info
 ---
 
-date:: [2022-04-28](/Daily_Note/2022-04-28.md)
+date: 2024-12-20T14:07:36+09:00
 up:: [Shellscript](../Bar/Program/Shellscript.md)
 up:: [Termux](Bar/App/Termux.md)
 

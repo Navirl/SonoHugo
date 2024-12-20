@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:59+09:00
+title: "AR Template読み解き"
 uid: 20220610200909
 tags:
 - App/UnrealEngine

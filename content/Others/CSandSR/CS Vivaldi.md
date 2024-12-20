@@ -1,5 +1,6 @@
 ---
-date: 2021-12-14 11:45:28
+title: "CS Vivaldi"
+date: 2024-12-20T14:03:25+09:00
 tags:
  - App/Vivaldi
  - CheatSheet

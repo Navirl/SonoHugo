@@ -1,11 +1,12 @@
 ---
+title: "Future_Experience"
 tags:
  - Bar
  - Novel/Item
 aliases: 未来体験
 ---
 
-date:: [2022-06-15](../../../Daily_Note/2022-06-15.md)
+date: 2024-12-20T14:04:44+09:00
 up:: [Component](Component.md)
 
 未来体験

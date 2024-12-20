@@ -1,3 +1,7 @@
+---
+title: "Daicer Search"
+date: 2024-12-20T14:07:16+09:00
+---
 Search
 ```mermaid
 sequenceDiagram
@@ -76,4 +80,3 @@ classDiagram
     IndexManager "1" *-- "*" IndexEntry
     ResultDisplayManager "1" *-- "*" SearchResult
 ```
-

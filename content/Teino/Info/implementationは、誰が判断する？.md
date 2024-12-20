@@ -1,9 +1,10 @@
 ---
+title: "implementationは、誰が判断する？"
 tags:
  - Info
 ---
 
-date:: [2023-05-16](/Daily_Note/2023-05-16.md)
+date: 2024-12-20T14:07:53+09:00
 up:: [God](Bar/Novel/Topics/God.md)
 up:: [Android](Bar/Novel/Topics/Android.md)
 up:: [Machine](../Bar/Novel/Topics/Machine.md)

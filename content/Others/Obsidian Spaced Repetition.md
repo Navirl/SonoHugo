@@ -1,3 +1,7 @@
+---
+title: "Obsidian Spaced Repetition"
+date: 2024-12-20T14:03:54+09:00
+---
 [Flashcard Types · st3v3nmw/obsidian-spaced-repetition Wiki · GitHub](https://github.com/st3v3nmw/obsidian-spaced-repetition/wiki/Flashcard-Types)
 [💎Spaced Repetitionプラグインで「Ankiっぽい」ノート見直しの仕組みを実現](https://knowledgestuck.substack.com/p/spaced-repetitionanki?s=r)
 

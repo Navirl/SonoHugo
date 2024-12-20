@@ -1,9 +1,10 @@
 ---
+title: "sd 顔一致"
 tags:
   - Info
 ---
 
-date:: [2024-05-06](/Daily_Note/2024-05-06.md)
+date: 2024-12-20T14:08:14+09:00
 up:: [sdwebui](../Bar/App/stable-diffusion-webui.md)
 up:: [ComfyUI](../Bar/App/ComfyUI.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)

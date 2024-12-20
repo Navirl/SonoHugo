@@ -1,9 +1,10 @@
 ---
+title: "py scraping"
 tags:
   - Info
 ---
 
-date:: [2024-05-25](/Daily_Note/2024-05-25.md)
+date: 2024-12-20T14:08:07+09:00
 up:: [Python](../Bar/Program/Python.md)
 
 静的コンテンツならばrequestsでアクセス、BeautifulSoupで解析すればいい。

@@ -1,5 +1,6 @@
 ---
-date: 2021-08-28 20:55:16
+title: "AI意思決定アルゴリズム"
+date: 2024-12-20T14:03:19+09:00
 tags:
  - Program
  - Learning

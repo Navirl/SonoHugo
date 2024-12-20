@@ -1,9 +1,10 @@
 ---
+title: "PlantUML クラス図"
 tags:
  - Info
 ---
 
-date:: [2022-11-25](/Daily_Note/2022-11-25.md)
+date: 2024-12-20T14:07:28+09:00
 up:: [PlantUML](../Bar/Program/PlantUML.md)
 
 ## 基本

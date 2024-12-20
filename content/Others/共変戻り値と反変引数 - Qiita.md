@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:14+09:00
+title: "共変戻り値と反変引数 - Qiita"
 created: 2022-03-29T15:17:42 (UTC +09:00)
 source: https://qiita.com/7shi/items/39a222b5928bf0b6f745#java
 author: 7shi

@@ -1,9 +1,10 @@
 ---
+title: "ps xpdf-tools"
 tags:
  - Info
 ---
 
-date:: [2022-09-14](Daily_Note/2022-09-14.md)
+date: 2024-12-20T14:08:03+09:00
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 ## xpdf-tools

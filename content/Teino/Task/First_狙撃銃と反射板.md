@@ -1,9 +1,10 @@
 ---
+title: "First_狙撃銃と反射板"
 tags:
  - Task
 ---
 
-date:: [2022-11-24](/Daily_Note/2022-11-24.md)
+date: 2024-12-20T14:15:46+09:00
 up:: [UE](../Bar/App/Unreal_Engine.md)
 point:: 7
 time:: 11:45-1:00

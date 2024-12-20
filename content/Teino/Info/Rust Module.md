@@ -1,9 +1,10 @@
 ---
+title: "Rust Module"
 tags:
  - Info
 ---
 
-date:: [2023-03-12](/Daily_Note/2023-03-12.md)
+date: 2024-12-20T14:07:34+09:00
 up:: [Rust](../Bar/Program/Rust.md)
 
 別ファイル読み込むやつ。

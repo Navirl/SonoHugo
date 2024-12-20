@@ -1,9 +1,10 @@
 ---
+title: "krita キャラ顔分"
 tags:
   - Info
 ---
 
-date:: [2024-07-15](/Daily_Note/2024-07-15.md)
+date: 2024-12-20T14:07:56+09:00
 up:: [krita](../Bar/App/krita.md)
 
 眉、目、口とEXとして体が入ったpsdを出力すればいい

@@ -1,8 +1,9 @@
 ---
+title: "Knock-off"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2022-11-11](Daily_Note/2022-11-11.md)
+date: 2024-12-20T14:05:19+09:00
 up::

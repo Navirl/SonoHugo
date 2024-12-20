@@ -1,9 +1,10 @@
 ---
+title: "Unityでの回転"
 tags:
  - Info
 ---
 
-date:: [2021-08-07.](Daily_Note/2021-08-07..md)
+date: 2024-12-20T14:07:47+09:00
 up:: [Unity](Bar/App/Unity.md)
 
 

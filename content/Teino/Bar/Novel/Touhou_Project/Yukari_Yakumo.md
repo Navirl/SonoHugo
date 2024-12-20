@@ -1,11 +1,12 @@
 ---
+title: "Yukari_Yakumo"
 tags:
  - Bar
  - Novel/Character
  - Touhou_Project
 ---
 
-date:: [2023-04-26](/Daily_Note/2023-04-26.md)
+date: 2024-12-20T14:05:32+09:00
 up::
 
 幻想郷の賢者。間違いなくトップクラスに頭はいいし、先を見据えて行動することもできるのだが、何故か苦労人気質。運命操作が悪いよ。

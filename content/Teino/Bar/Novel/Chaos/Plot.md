@@ -1,10 +1,11 @@
 ---
+title: "Plot"
 tags:
  - Bar
  - Create
 ---
 
-date:: [2022-08-02](Daily_Note/2022-08-02.md)
+date: 2024-12-20T14:04:45+09:00
 
 
 ```dataview

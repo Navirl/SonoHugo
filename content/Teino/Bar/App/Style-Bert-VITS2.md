@@ -1,11 +1,12 @@
 ---
+title: "Style-Bert-VITS2"
 tags:
   - Bar
 aliases:
   - sbv2
 ---
 
-date:: [2024-10-21](Daily_Note/2024-10-21.md)
+date: 2024-12-20T14:04:32+09:00
 up:: [AI_local](../AI/AI_local.md)
 up:: [AI_voice](../AI/AI_voice.md)
 

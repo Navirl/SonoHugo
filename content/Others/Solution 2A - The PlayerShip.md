@@ -1,5 +1,6 @@
 ---
-date: 2021-08-20 21:02:00
+title: "Solution 2A - The PlayerShip"
+date: 2024-12-20T14:03:57+09:00
 tags: 
  - App
  - Unity

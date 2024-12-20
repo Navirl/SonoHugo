@@ -1,9 +1,10 @@
 ---
+title: "js Promise"
 tags:
  - Info
 ---
 
-date:: [2023-02-03](/Daily_Note/2023-02-03.md)
+date: 2024-12-20T14:07:54+09:00
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 

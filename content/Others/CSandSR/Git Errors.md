@@ -1,5 +1,6 @@
 ---
-date: 2021-11-13 12:46:02
+title: "Git Errors"
+date: 2024-12-20T14:03:27+09:00
 tags:
  - App/Git
  - Errors

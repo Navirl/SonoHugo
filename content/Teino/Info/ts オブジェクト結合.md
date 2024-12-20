@@ -1,9 +1,10 @@
 ---
+title: "ts オブジェクト結合"
 tags:
   - Info
 ---
 
-date:: [2024-01-09](/Daily_Note/2024-01-09.md)
+date: 2024-12-20T14:08:18+09:00
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 スプレッド演算子や`Object.assign()`を使うことが出来る。

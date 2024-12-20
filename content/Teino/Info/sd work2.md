@@ -1,9 +1,10 @@
 ---
+title: "sd work2"
 tags:
   - Info
 ---
 
-date:: [2024-06-23](/Daily_Note/2024-06-23.md)
+date: 2024-12-20T14:08:13+09:00
 up:: [sd](../Bar/Stable%20Diffusion.md)
 up:: [sd work](sd%20work.md)
 

@@ -1,9 +1,10 @@
 ---
+title: "Ob Plugin Note"
 tags:
  - Info
 ---
 
-date:: [2023-01-30](/Daily_Note/2023-01-30.md)
+date: 2024-12-20T14:07:26+09:00
 up:: [Obsidian](Bar/App/Obsidian.md)
 
 ## 前提

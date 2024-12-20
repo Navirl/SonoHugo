@@ -1,9 +1,10 @@
 ---
+title: "Cpp include"
 tags:
  - Info
 ---
 
-date:: [2023-03-01](/Daily_Note/2023-03-01.md)
+date: 2024-12-20T14:07:14+09:00
 up:: [Cpp](../Bar/Program/Cpp.md)
 
 他のソースファイルを読み込む機能。

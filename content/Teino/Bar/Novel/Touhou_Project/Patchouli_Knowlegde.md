@@ -1,4 +1,5 @@
 ---
+title: "Patchouli_Knowlegde"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +8,7 @@ banner: "![[../Banners/つね@FANBOX始めました - 11365815/20200415 - パチ
 banner_y: 0.268
 ---
 
-date:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
+date: 2024-12-20T14:05:30+09:00
 up::
 
 

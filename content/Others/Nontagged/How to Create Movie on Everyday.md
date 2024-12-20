@@ -1,3 +1,7 @@
+---
+title: "How to Create Movie on Everyday"
+date: 2024-12-20T14:03:41+09:00
+---
 #Learning
 
 [📺これが一番早いと思います！動画を10分で作る方法と毎日動画投稿するために考えたこと - Niconico Video](https://www.nicovideo.jp/watch/sm38632960)

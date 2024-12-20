@@ -1,4 +1,5 @@
 ---
+title: "Nanashino"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: 七篠
 ---
 
-date:: [2022-07-05](Daily_Note/2022-07-05.md)
+date: 2024-12-20T14:05:00+09:00
 up:: [Cricia](Novel/Nacaria/Cricia.md)
 down:: [子供は……世界を好きになったこと、大人になったとき、思い出すための、時間。](../../../Info/子供は……世界を好きになったこと、大人になったとき、思い出すための、時間。.md)
 up:: [7_People](7_People.md)

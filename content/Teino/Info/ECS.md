@@ -1,9 +1,10 @@
 ---
+title: "ECS"
 tags:
  - Info
 ---
 
-date:: [2023-03-07](/Daily_Note/2023-03-07.md)
+date: 2024-12-20T14:07:18+09:00
 up:: [Programming](../Bar/Program/Programming.md)
 up:: [Unity](../Bar/App/Unity.md)
 

@@ -1,9 +1,10 @@
 ---
+title: "termuxのgit credential helper"
 tags:
  - Info
 ---
 
-date:: [2022-08-22](Daily_Note/2022-08-22.md)
+date: 2024-12-20T14:08:16+09:00
 up:: [Git](../Bar/App/Git.md)
 up:: [Termux](../Bar/App/Termux.md)
 source:: [What's the best encrypted git credential helper for Linux? - Stack Overflow](https://stackoverflow.com/questions/53305965/whats-the-best-encrypted-git-credential-helper-for-linux#53307245)

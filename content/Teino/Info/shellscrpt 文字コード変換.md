@@ -1,9 +1,10 @@
 ---
+title: "shellscrpt 文字コード変換"
 tags:
  - Info
 ---
 
-date:: [2023-03-23](/Daily_Note/2023-03-23.md)
+date: 2024-12-20T14:08:15+09:00
 up:: [Shellscript](../Bar/Program/Shellscript.md)
 
 iconvで可能。文字コードを自動判別したいならfileかnkf。  

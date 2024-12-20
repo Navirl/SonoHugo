@@ -1,3 +1,7 @@
+---
+title: "PlantCraftSeq"
+date: 2024-12-20T14:17:05+09:00
+---
 ```plantuml-svg
 @startuml
 hide empty members

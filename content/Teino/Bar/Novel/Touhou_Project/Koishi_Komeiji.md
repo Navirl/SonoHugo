@@ -1,4 +1,5 @@
 ---
+title: "Koishi_Komeiji"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +8,7 @@ banner: "![[../../../Banners/old/cinkai/Danbooru/__komeiji_koishi_touhou_drawn_b
 banner_y: 0.21285
 ---
 
-date:: [2022-09-20](Daily_Note/2022-09-20.md)
+date: 2024-12-20T14:05:29+09:00
 up:: [Crazy_Quartet](Crazy_Quartet.md)
 up:: [SA](Subterranean_Animism.md)
 

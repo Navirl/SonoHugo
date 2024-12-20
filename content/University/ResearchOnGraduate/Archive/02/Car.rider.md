@@ -1,3 +1,7 @@
+---
+title: "Car.rider"
+date: 2024-12-20T14:17:03+09:00
+---
 ﻿```plantuml-svg
 @startuml
 'https://plantuml.com/class-diagram

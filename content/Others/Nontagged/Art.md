@@ -1,3 +1,7 @@
+---
+title: "Art"
+date: 2024-12-20T14:03:40+09:00
+---
 ## Overall
 <iframe width="945" height="532" src="https://www.youtube.com/embed/tgiVz2L8-wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

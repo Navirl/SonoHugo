@@ -1,9 +1,10 @@
 ---
+title: "AIt Custom character"
 tags:
  - Info
 ---
 
-date:: [2023-04-22](/Daily_Note/2023-04-22.md)
+date: 2024-12-20T14:07:09+09:00
 up:: [AIt](../Bar/AI/AI_text.md)
 
 [AI Character Editor](https://zoltanai.github.io/character-editor/)に従い、たぶんこうなんじゃないかをメモ。

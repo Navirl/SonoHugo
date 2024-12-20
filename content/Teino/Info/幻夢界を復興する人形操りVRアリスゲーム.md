@@ -1,9 +1,10 @@
 ---
+title: "幻夢界を復興する人形操りVRアリスゲーム"
 tags:
  - Info
 ---
 
-date:: [2023-02-01](/Daily_Note/2023-02-01.md)
+date: 2024-12-20T14:10:57+09:00
 up:: [Game](Bar/Novel/Topics/Game.md)
 up:: [Alice_Margatroid](../Bar/Novel/Touhou_Project/Alice_Margatroid.md)
 

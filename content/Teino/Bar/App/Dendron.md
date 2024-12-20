@@ -1,9 +1,10 @@
 ---
+title: "Dendron"
 tags:
   - Bar
 ---
 
-date:: [2024-11-16](Daily_Note/2024-11-16.md)
+date: 2024-12-20T14:04:29+09:00
 up:: 
 
 [Obsidian](Obsidian.md)と同じく個人ナレッジ管理ツール。（Personal Knowledge Management、PKM）

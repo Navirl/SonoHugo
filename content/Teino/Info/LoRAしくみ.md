@@ -1,9 +1,10 @@
 ---
+title: "LoRAしくみ"
 tags:
  - Info
 ---
 
-date:: [2023-05-01](/Daily_Note/2023-05-01.md)
+date: 2024-12-20T14:07:24+09:00
 up:: [AI_local](../Bar/AI/AI_local.md)
 
 [AI を自分好みに調整できる、追加学習まとめ ( その５: LoRA)｜teftef｜note](https://note.com/te_ftef/n/n096ef64cb6c1)

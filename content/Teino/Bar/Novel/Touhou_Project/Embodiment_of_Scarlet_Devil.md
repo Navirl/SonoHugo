@@ -1,4 +1,5 @@
 ---
+title: "Embodiment_of_Scarlet_Devil"
 tags:
  - Bar
  - Novel/Work
@@ -8,4 +9,4 @@ aliases:
  - EoSD
 ---
 
-date:: [2023-06-29](Daily_Note/2023-06-29.md)
+date: 2024-12-20T14:05:28+09:00

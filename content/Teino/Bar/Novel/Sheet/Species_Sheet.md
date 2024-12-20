@@ -1,10 +1,11 @@
 ---
+title: "Species_Sheet"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date:: [2022-08-09](Daily_Note/2022-08-09.md)
+date: 2024-12-20T14:05:09+09:00
 up::
 
 from:: Fortelling

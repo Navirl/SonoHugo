@@ -1,11 +1,12 @@
 ---
+title: "Hakuro_Tsujihiki"
 tags:
   - Info
 aliases:
   - 辻曳白露
 ---
 
-date:: [2024-04-06](/Daily_Note/2024-04-06.md)
+date: 2024-12-20T14:07:21+09:00
 up:: [3_People](../Bar/Novel/Nacaria/3_People.md)
 same:: [Eika_Mitsunagi](../Bar/Novel/Nacaria/Eika_Mitsunagi.md)
 

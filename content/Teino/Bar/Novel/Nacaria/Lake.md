@@ -1,4 +1,5 @@
 ---
+title: "Lake"
 tags:
  - Bar
  - Novel/Character
@@ -8,7 +9,7 @@ aliases:
  - 0193110246510
 ---
 
-date:: [2022-08-21](Daily_Note/2022-08-21.md)
+date: 2024-12-20T14:04:57+09:00
 up:: [Akinaga](Akinaga.md)
 up:: [Cricia](Cricia.md)
 

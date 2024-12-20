@@ -1,7 +1,8 @@
 ---
+title: "Idea"
 tags:
   - Bar
 ---
 
-date:: [2024-08-09](Daily_Note/2024-08-09.md)
+date: 2024-12-20T14:04:42+09:00
 up::

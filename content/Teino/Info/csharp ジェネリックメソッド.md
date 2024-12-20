@@ -1,9 +1,10 @@
 ---
+title: "csharp ジェネリックメソッド"
 tags:
  - Info
 ---
 
-date:: [2022-07-29](Daily_Note/2022-07-29.md)
+date: 2024-12-20T14:07:51+09:00
 up:: [Csharp](../Bar/Program/Csharp.md)
 
 ## ジェネリックメソッド

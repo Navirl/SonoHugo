@@ -1,9 +1,10 @@
 ---
+title: "termux シンボリックリンク"
 tags:
  - Info
 ---
 
-date:: [2022-09-14](Daily_Note/2022-09-14.md)
+date: 2024-12-20T14:08:16+09:00
 up:: [Termux](../Bar/App/Termux.md)
 source:: [Is it possible to make work symlinks on mounted internal storage? · Issue #513 · termux/termux-app · GitHub](https://github.com/termux/termux-app/issues/513)
 

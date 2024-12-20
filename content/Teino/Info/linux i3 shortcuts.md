@@ -1,9 +1,10 @@
 ---
+title: "linux i3 shortcuts"
 tags:
   - Info
 ---
 
-date:: [2024-02-13](/Daily_Note/2024-02-13.md)
+date: 2024-12-20T14:07:58+09:00
 up:: [Linux](../Bar/Linux.md)
 
 ## shortcuts

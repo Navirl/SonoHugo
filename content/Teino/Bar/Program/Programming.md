@@ -1,9 +1,10 @@
 ---
+title: "Programming"
 tags:
  - Bar
 ---
 
-date:: [2022-08-01](Daily_Note/2022-08-01.md)
+date: 2024-12-20T14:05:36+09:00
 up:: [Math](../Novel/Topics/Math.md)
 
 プログラミング言語関係を主にリンクしている。

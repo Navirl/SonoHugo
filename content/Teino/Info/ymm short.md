@@ -1,9 +1,10 @@
 ---
+title: "ymm short"
 tags:
   - Info
 ---
 
-date:: [2024-09-09](/Daily_Note/2024-09-09.md)
+date: 2024-12-20T14:08:21+09:00
 up:: [YMM](../Bar/App/YukkriMovieMaker.md)
 
 # short

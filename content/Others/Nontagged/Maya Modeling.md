@@ -1,3 +1,7 @@
+---
+title: "Maya Modeling"
+date: 2024-12-20T14:03:42+09:00
+---
 #3D
 
 ## Box Modeling

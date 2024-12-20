@@ -1,9 +1,10 @@
 ---
+title: "Unity reverse"
 tags:
   - Info
 ---
 
-date:: [2023-12-15](/Daily_Note/2023-12-15.md)
+date: 2024-12-20T14:07:47+09:00
 up:: [Eclipse](../Bar/Eclipse.md)
 
 [改造apk（MOD）の作り方 ＆ その対策 #Android - Qiita](https://qiita.com/yukiarrr/items/764adb88f5a485f714d8)

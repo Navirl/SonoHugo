@@ -1,9 +1,10 @@
 ---
+title: "I agree on my level."
 tags:
  - Info
 ---
 
-date:: [2021-10-09](Daily_Note/2021-10-09.md)
+date: 2024-12-20T14:07:22+09:00
 up:: [Narana_Tsunohashi](Bar/Novel/Nacaria/Narana_Tsunohashi.md)
 
 I agree on my level.

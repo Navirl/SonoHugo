@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:56+09:00
+title: "SR English"
 uid: 20220615153757
 tags:
  - flashcards/English

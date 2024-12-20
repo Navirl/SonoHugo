@@ -1,9 +1,10 @@
 ---
+title: "Blender file dialog"
 tags:
   - Info
 ---
 
-date:: [2023-10-27](/Daily_Note/2023-10-27.md)
+date: 2024-12-20T14:07:12+09:00
 up:: [Blender](../Bar/App/Blender.md)
 
 ```python

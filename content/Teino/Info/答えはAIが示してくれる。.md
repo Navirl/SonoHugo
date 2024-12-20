@@ -1,9 +1,10 @@
 ---
+title: "答えはAIが示してくれる。"
 tags:
  - Info
 ---
 
-date:: [2021-08-11](Daily_Note/2021-08-11.md)
+date: 2024-12-20T14:11:59+09:00
 up:: [Kanami_Nijo](../Bar/Novel/Nacaria/Kanami_Nijo.md)
 up:: [Nanashino](../Bar/Novel/Nacaria/Nanashino.md)
 up:: [Artificial_Intelligence](../Bar/Novel/Topics/Artificial_Intelligence.md)

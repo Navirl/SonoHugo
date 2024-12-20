@@ -1,8 +1,13 @@
+---
+title: "FastStart-StartupScript"
+date: 2024-12-20T14:16:44+09:00
+---
 <%*
 fastStart = async (filename, delayInSecond) => {
     if (tp.file.exists(filename)) {
         const f = tp.file.find_tfile(filename);
-        let plugins = (await app.vault.read(f)).split(/\r?\n/);
+        let plugins = (await app.vault.read(f)).split(/?
+/);
         setTimeout(async () => {
             plugins.forEach(async (p) => await app.plugins.enablePlugin(p))
         }, delayInSecond * 1000)

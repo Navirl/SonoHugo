@@ -1,4 +1,5 @@
 ---
+title: "Riitsu_Reuke"
 tags:
  - Bar
  - Novel/Character
@@ -9,6 +10,6 @@ aliases:
  - Leurie
 ---
 
-date:: [2022-11-14](Daily_Note/2022-11-14.md)
+date: 2024-12-20T14:05:01+09:00
 up:: [Fourcia](Fourcia.md)
 

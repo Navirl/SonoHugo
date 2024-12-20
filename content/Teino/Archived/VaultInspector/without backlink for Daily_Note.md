@@ -1,3 +1,7 @@
+---
+title: "without backlink for Daily_Note"
+date: 2024-12-20T14:04:25+09:00
+---
 Daily_Noteフォルダのバックリンクが無いファイル
 ```dataviewjs
 const ex = dv.pages('"Daily_Note"')

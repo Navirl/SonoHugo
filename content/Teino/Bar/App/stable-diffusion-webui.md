@@ -1,4 +1,5 @@
 ---
+title: "stable-diffusion-webui"
 tags:
  - Bar
  - App
@@ -8,7 +9,7 @@ aliases:
  - sdwebui
 ---
 
-date:: [2023-05-07](/Daily_Note/2023-05-07.md)
+date: 2024-12-20T14:04:36+09:00
 up:: [Docker](Docker.md)
 up:: [AI_image](../AI/AI_image.md)
 same:: [ComfyUI](ComfyUI.md)

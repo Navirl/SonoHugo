@@ -1,11 +1,12 @@
 ---
+title: "Character_Sheet"
 tags:
  - Bar
  - Novel/Sheet
  - Novel/Character
 ---
 
-date:: [2022-08-08](Daily_Note/2022-08-08.md)
+date: 2024-12-20T14:05:08+09:00
 up::
 
 from:: Nola

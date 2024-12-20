@@ -1,9 +1,10 @@
 ---
+title: "git リポジトリを軽くしよう"
 tags:
  - Info
 ---
 
-date:: [2022-10-17](Daily_Note/2022-10-17.md)
+date: 2024-12-20T14:07:53+09:00
 up:: [Git](../Bar/App/Git.md)
 source:: [パーシャルクローンとシャロークローンを活用しよう - GitHubブログ](https://github.blog/jp/2021-01-13-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 source:: [巨大なリポジトリをクローンするときに便利なパーシャルクローンとsparse-checkout - Vがいる日々](https://vlike-vlife.netlify.app/posts/git_partial_clone)

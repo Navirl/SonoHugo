@@ -1,9 +1,10 @@
 ---
+title: "py pathlib"
 tags:
   - Bar
 ---
 
-date:: [2024-10-10](Daily_Note/2024-10-10.md)
+date: 2024-12-20T14:08:07+09:00
 up:: [py](../Bar/Program/Python.md)
 
 python3.4から使えるパス操作。

@@ -1,9 +1,10 @@
 ---
+title: "ObsidianPlugin一言紹介"
 tags:
  - Info
 ---
 
-date:: [2023-01-30](/Daily_Note/2023-01-30.md)
+date: 2024-12-20T14:07:28+09:00
 up:: [Obsidian](Bar/App/Obsidian.md)
 
 ## Graph-analysys

@@ -1,3 +1,7 @@
+---
+title: "Daicer Item"
+date: 2024-12-20T14:07:16+09:00
+---
 Item
 ```mermaid
 sequenceDiagram
@@ -72,4 +76,3 @@ classDiagram
     ItemManager "1" *-- "*" Item
     Item "1" --> "1" LiveEditorInterface : uses
 ```
-

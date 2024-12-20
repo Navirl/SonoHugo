@@ -1,11 +1,12 @@
 ---
+title: "Neovim plugins"
 id: Neovim plugins
 aliases: []
 tags:
   - Info
 ---
 
-date:: [2024-12-05 FX](../Daily_Note/2024-12-05%20FX.md)
+date: 2024-12-20T14:07:25+09:00
 up:: [Neovim](../Bar/App/Neovim.md)
 
 

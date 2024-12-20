@@ -1,7 +1,18 @@
 # Obsidian Buttons
+date: 2024-12-20T14:04:15+09:00
+title: "README"
+date: 2024-12-20T14:04:15+09:00
 Run commands and open links by clicking on ✨ Buttons ✨
+date: 2024-12-20T14:04:15+09:00
+title: "README"
+date: 2024-12-20T14:04:15+09:00
 
+date: 2024-12-20T14:04:15+09:00
+title: "README"
+date: 2024-12-20T14:04:15+09:00
 ---
+date: 2024-12-20T14:04:15+09:00
+title: "README"
 
 **last updated:** Sept 28, 2022
 

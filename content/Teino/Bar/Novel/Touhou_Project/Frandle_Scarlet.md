@@ -1,4 +1,5 @@
 ---
+title: "Frandle_Scarlet"
 tags:
  - Bar
  - Novel/Character
@@ -7,7 +8,7 @@ banner: "![[../../../Banners/いくらうに - 501583/20200514 - 背中で語る
 banner_y: 0
 ---
 
-date:: [2022-11-01](Daily_Note/2022-11-01.md)
+date: 2024-12-20T14:05:28+09:00
 up:: [Crazy_Quartet](Crazy_Quartet.md)
 up:: [EoSD](Embodiment_of_Scarlet_Devil.md)
 

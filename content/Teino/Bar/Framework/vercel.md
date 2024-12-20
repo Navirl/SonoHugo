@@ -1,9 +1,10 @@
 ---
+title: "vercel"
 tags:
   - Bar
 ---
 
-date:: [2024-08-28](Daily_Note/2024-08-28.md)
+date: 2024-12-20T14:04:42+09:00
 up::
 
 nodejsのアプリをサクッと公開できるPaaS。

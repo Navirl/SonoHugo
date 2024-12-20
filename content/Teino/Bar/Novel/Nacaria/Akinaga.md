@@ -1,4 +1,5 @@
 ---
+title: "Akinaga"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 秋永
 ---
 
-date:: [2022-08-21](Daily_Note/2022-08-21.md)
+date: 2024-12-20T14:04:48+09:00
 up:: [Cricia](Cricia.md)
 same:: [Harutsuki](Harutsuki.md)
 

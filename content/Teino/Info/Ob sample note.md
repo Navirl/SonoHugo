@@ -1,9 +1,10 @@
 ---
+title: "Ob sample note"
 tags:
   - Info
 ---
 
-date:: [2023-12-26](/Daily_Note/2023-12-26.md)
+date: 2024-12-20T14:07:27+09:00
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 ```ts

@@ -1,9 +1,10 @@
 ---
+title: "Cpp"
 tags:
  - Bar
 ---
 
-date:: [2022-07-29](Daily_Note/2022-07-29.md)
+date: 2024-12-20T14:05:34+09:00
 up:: [Programming](Programming.md)
 
 

@@ -1,5 +1,6 @@
 ---
-date: 2021-09-25 20:01:28
+title: "Singleton必要性"
+date: 2024-12-20T14:03:57+09:00
 tags:
  - #Program
 ---

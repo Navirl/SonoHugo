@@ -1,9 +1,10 @@
 ---
+title: "py numpy二次元配列内に一次元配列が完全に存在するか"
 tags:
  - Info
 ---
 
-date:: [2023-06-09](/Daily_Note/2023-06-09.md)
+date: 2024-12-20T14:08:06+09:00
 up:: [Python](../Bar/Program/Python.md)
 
 ## numpy二次元配列内に一次元配列が完全に存在するか

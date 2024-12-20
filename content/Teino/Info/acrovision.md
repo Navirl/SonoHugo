@@ -1,9 +1,10 @@
 ---
+title: "acrovision"
 tags:
  - Info
 ---
 
-date:: [2023-06-29](/Daily_Note/2023-06-29.md)
+date: 2024-12-20T14:07:48+09:00
 up:: [Job](Bar/Job.md)
 
 資料は配られる

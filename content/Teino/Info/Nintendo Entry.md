@@ -1,9 +1,10 @@
 ---
+title: "Nintendo Entry"
 tags:
  - Info
 ---
 
-date:: [2022-07-26](Daily_Note/2022-07-26.md)
+date: 2024-12-20T14:07:25+09:00
 up:: [Job](../Bar/Job.md)
 
 ![](Pasted%20image%2020220726100104.png)

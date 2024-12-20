@@ -1,9 +1,10 @@
 ---
+title: "ps Windows Font"
 tags:
  - Info
 ---
 
-date:: [2022-11-12](Daily_Note/2022-11-12.md)
+date: 2024-12-20T14:08:01+09:00
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 up:: [Scoop](../Bar/App/Scoop.md)
 

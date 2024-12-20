@@ -1,11 +1,12 @@
 ---
+title: "test2"
 
 tags:
  - Bar
 
 ---
 
-date:: [2021-08-06](/Daily_Note/2021-08-06.md)
+date: 2024-12-20T14:25:08+09:00
 up:: [Programming](Programming.md)
 
 

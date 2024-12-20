@@ -1,9 +1,10 @@
 ---
+title: "Supabase"
 tags:
   - Bar
 ---
 
-date:: [2024-11-17](Daily_Note/2024-11-17.md)
+date: 2024-12-20T14:04:33+09:00
 up::
 
 Firebaseと同じBaaS。

@@ -1,9 +1,10 @@
 ---
+title: "WSL Text and Image GAI"
 tags:
  - Info
 ---
 
-date:: [2023-05-08](/Daily_Note/2023-05-08.md)
+date: 2024-12-20T14:07:48+09:00
 up:: [WSL](../Bar/App/WSL.md)
 up:: [GAI](../Bar/AI/AI_local.md)
 up:: [AIl local textchatbot](AIl%20local%20textchatbot.md)

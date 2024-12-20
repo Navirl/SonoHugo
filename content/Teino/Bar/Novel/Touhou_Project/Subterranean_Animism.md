@@ -1,4 +1,5 @@
 ---
+title: "Subterranean_Animism"
 tags:
  - Bar
  - Novel/Work
@@ -8,7 +9,7 @@ aliases:
  - SA
 ---
 
-date:: [2022-10-15](Daily_Note/2022-10-15.md)
+date: 2024-12-20T14:05:31+09:00
 up::
 
 

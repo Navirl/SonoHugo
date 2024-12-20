@@ -1,4 +1,5 @@
 ---
+title: "Arsha"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: アーシャ
 ---
 
-date:: [2022-07-03](Daily_Note/2022-07-03.md)
+date: 2024-12-20T14:04:48+09:00
 up:: [Biscarnya](Biscarnya.md)
 same:: [Pansel](Pansel.md)
 

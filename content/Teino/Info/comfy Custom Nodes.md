@@ -1,9 +1,10 @@
 ---
+title: "comfy Custom Nodes"
 tags:
   - Info
 ---
  
-date:: [2024-05-22](/Daily_Note/2024-05-22.md)
+date: 2024-12-20T14:07:49+09:00
 up:: [ComfyUI](../Bar/App/ComfyUI.md)
 
 ## Custom Nodes

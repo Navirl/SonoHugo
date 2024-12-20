@@ -1,10 +1,11 @@
 ---
+title: "Godot"
 tags:
  - Bar
  - App
 ---
 
-date:: [2023-03-15](Daily_Note/2023-03-15.md)
+date: 2024-12-20T14:04:31+09:00
 up:: 
 
 MITライセンスのゲームエンジン。

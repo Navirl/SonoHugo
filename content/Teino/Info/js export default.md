@@ -1,9 +1,10 @@
 ---
+title: "js export default"
 tags:
   - Info
 ---
 
-date:: [2024-03-02](/Daily_Note/2024-03-02.md)
+date: 2024-12-20T14:07:55+09:00
 up:: [js](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 exportは変数や関数やクラス(ひっくるめてモジュール)を他のファイルから扱えるようにする奴。

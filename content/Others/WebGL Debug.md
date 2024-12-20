@@ -1,5 +1,6 @@
 ---
-date: 2021-10-26 22:31:42
+title: "WebGL Debug"
+date: 2024-12-20T14:04:11+09:00
 tags:
  - Learning
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Suika_Ibuki"
 tags:
  - Bar
  - Touhou_Project
@@ -6,6 +7,6 @@ tags:
 aliases: 伊吹萃香
 ---
 
-date:: [2022-07-03](Daily_Note/2022-07-03.md)
+date: 2024-12-20T14:05:31+09:00
 
 

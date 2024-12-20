@@ -1,11 +1,12 @@
 ---
+title: "Rust"
 tags:
   - Bar
 aliases:
   - rs
 ---
 
-date:: [2023-03-07](Daily_Note/2023-03-07.md)
+date: 2024-12-20T14:05:37+09:00
 up:: [Programming](Programming.md)
 
 C++を元に作られた、低級言語の操作を簡略化安全化しつつC++並みのスピードを実現したやべー言語。Webページまで書けるらしい。

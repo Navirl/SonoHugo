@@ -1,3 +1,7 @@
+---
+title: "chatgpt"
+date: 2024-12-20T14:15:44+09:00
+---
 [生成AIとは？ChatGPTとは？ | カリキュラム](https://curriculum.sodateru-engineer.com/courses/chatgpt-course/lesson/1-1-2/)
 
 既存のAIは分類や特徴抽出だった

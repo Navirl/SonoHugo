@@ -1,9 +1,10 @@
 ---
+title: "sd sd3"
 tags:
   - Info
 ---
 
-date:: [2024-06-13](/Daily_Note/2024-06-13.md)
+date: 2024-12-20T14:08:13+09:00
 up:: [sd](../Bar/Stable%20Diffusion.md)
 
 sd3。svdなどと同じ非商用、許諾商用ライセンス。

@@ -1,10 +1,11 @@
 ---
+title: "Nacaria_Timeline"
 tags:
  - Bar
  - Timeline
 ---
 
-date:: [2022-12-25](/Daily_Note/2022-12-25.md)
+date: 2024-12-20T14:05:11+09:00
 up:: [Cricia](../Nacaria/Cricia.md)
 
 ```timeline

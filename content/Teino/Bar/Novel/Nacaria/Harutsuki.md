@@ -1,4 +1,5 @@
 ---
+title: "Harutsuki"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: 春月
 ---
 
-date:: [2022-09-05](2022-09-05.md)
+date: 2024-12-20T14:04:53+09:00
 up:: [Ayama](Ayama.md)
 down:: [Akinaga](Akinaga.md)
 

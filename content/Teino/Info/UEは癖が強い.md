@@ -1,9 +1,10 @@
 ---
+title: "UEは癖が強い"
 tags:
  - Info
 ---
 
-date:: [2022-07-11](Daily_Note/2022-07-11.md)
+date: 2024-12-20T14:07:46+09:00
 up:: [Unreal_Engine](../Bar/App/Unreal_Engine.md)
 up:: [Unity](../Bar/App/Unity.md)
 source:: [UE4はまず最初にチュートリアル動画を沢山見よう - 3DCGで何をどう作るか考え中](https://www.yamato-tsukasa.com/entry/2020/01/06/031854)

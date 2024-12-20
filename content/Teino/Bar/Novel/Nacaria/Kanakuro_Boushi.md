@@ -1,4 +1,5 @@
 ---
+title: "Kanakuro_Boushi"
 tags:
  - Bar
  - Nacaria
@@ -11,7 +12,7 @@ aliases:
  - Enon_Nomika
 ---
 
-date:: [2022-07-06](Daily_Note/2022-07-06.md)
+date: 2024-12-20T14:04:56+09:00
 up:: [Biscarnya](Biscarnya.md)
 down:: [Knock-off](../Topics/Knock-off.md)
 

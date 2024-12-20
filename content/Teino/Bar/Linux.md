@@ -1,11 +1,12 @@
 ---
+title: "Linux"
 tags:
   - Bar
   - Info
 ---
 tidia
 
-date:: [2023-10-21](Daily_Note/2023-10-21.md)
+date: 2024-12-20T14:04:43+09:00
 up::
 
 Linuxのあれやこれや。

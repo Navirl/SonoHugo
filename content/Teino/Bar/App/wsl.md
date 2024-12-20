@@ -1,10 +1,11 @@
 ---
+title: "wsl"
 tags:
  - Bar
  - App
 ---
 
-date:: [2023-04-08](Daily_Note/2023-04-08.md)
+date: 2024-12-20T14:04:37+09:00
 up:: [PowerShell_and_Command-Line](PowerShell_and_Command-Line.md)
 
 脱出はexit。

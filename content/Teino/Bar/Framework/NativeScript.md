@@ -1,9 +1,10 @@
 ---
+title: "NativeScript"
 tags:
   - Bar
 ---
 
-date:: [2024-05-02](Daily_Note/2024-05-02.md)
+date: 2024-12-20T14:04:39+09:00
 up:: [Programming](../Program/Programming.md)
 
 いろんなライブラリをモバイルアプリに変換するフレームワーク。

@@ -1,5 +1,6 @@
 ---
-date: 2021-09-06 19:18:41
+title: "CS Davinci Resolve"
+date: 2024-12-20T14:03:22+09:00
 tags:
  - App/Davinci_Resolve
  - CheatSheet

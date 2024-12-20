@@ -1,5 +1,6 @@
 ---
-date: 2021-08-03 17:06:42
+title: "UnityのAttribute（属性）についてまとめてメモる。 - テラシュールブログ"
+date: 2024-12-20T14:04:11+09:00
 tags:
  - App/Unity
  - Article

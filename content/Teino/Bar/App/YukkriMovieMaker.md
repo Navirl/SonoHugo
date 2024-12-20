@@ -1,11 +1,12 @@
 ---
+title: "YukkriMovieMaker"
 tags:
   - Bar
 aliases:
   - YMM
 ---
 
-date:: [2024-04-27](Daily_Note/2024-04-27.md)
+date: 2024-12-20T14:04:35+09:00
 up:: 
 
 [ymm short](../../Info/ymm%20short.md)

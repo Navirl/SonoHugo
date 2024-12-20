@@ -1,10 +1,11 @@
 ---
+title: "Spaced Repetition"
 tags:
  - Info
 aliases: 間隔反復
 ---
 
-date:: [2023-03-07](/Daily_Note/2023-03-07.md)
+date: 2024-12-20T14:07:37+09:00
 up:: [Component](../Bar/Novel/Chaos/Component.md)
 up:: [Product](../Bar/Product.md)
 same:: [Incremental Reading](Incremental%20Reading.md)

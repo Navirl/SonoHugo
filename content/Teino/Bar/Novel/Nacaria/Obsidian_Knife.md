@@ -1,4 +1,5 @@
 ---
+title: "Obsidian_Knife"
 tags:
  - Bar
  - Nacaria/Cricia
@@ -6,7 +7,7 @@ tags:
  - Novel/Topic
 ---
 
-date:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
+date: 2024-12-20T14:05:00+09:00
 up:: [Cricia](Novel/Nacaria/Cricia.md)
 
 むかしむかし、人々の石から蓋を取り除くのに使ったナイフ。

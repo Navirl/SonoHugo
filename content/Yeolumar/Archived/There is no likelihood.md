@@ -1,3 +1,7 @@
+---
+title: "There is no likelihood"
+date: 2024-12-20T14:17:23+09:00
+---
 “There is no likelihood man can ever tap the power of the atom.” – Robert Millikan, Nobel Prize in Physics, 1923.
 
 you need to forgive him already...

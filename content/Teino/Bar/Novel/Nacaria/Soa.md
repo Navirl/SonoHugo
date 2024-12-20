@@ -1,4 +1,5 @@
 ---
+title: "Soa"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: ソア
 ---
 
-date:: [2022-11-12](Daily_Note/2022-11-12.md)
+date: 2024-12-20T14:05:04+09:00
 up:: [Sarsh](Sarsh.md)
 
 族長の娘。

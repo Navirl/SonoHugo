@@ -1,9 +1,10 @@
 ---
+title: "csharp メソッド置き換え"
 tags:
  - Info
 ---
 
-date:: [2021-10-04](Daily_Note/2021-10-04.md)
+date: 2024-12-20T14:07:52+09:00
 up:: [Csharp](../Bar/Program/Csharp.md)
 up:: [Programming](../Bar/Program/Programming.md)
 

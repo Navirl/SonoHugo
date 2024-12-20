@@ -1,4 +1,5 @@
 ---
+title: "AI_image"
 tags:
   - Bar
 aliases:
@@ -6,7 +7,7 @@ aliases:
 ---
 
 
-date:: [2024-12-06 FX](../../Daily_Note/2024-12-06%20FX.md)
+date: 2024-12-20T14:04:26+09:00
 up:: [AI_local](AI_local.md)
 up:: [AI_online](AI_online.md)
 

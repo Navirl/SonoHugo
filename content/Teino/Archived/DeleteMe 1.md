@@ -1,3 +1,7 @@
+---
+title: "DeleteMe 1"
+date: 2024-12-20T14:04:19+09:00
+---
 ```button
 name del
 type command

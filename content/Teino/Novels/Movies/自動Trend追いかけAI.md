@@ -1,3 +1,7 @@
+---
+title: "自動Trend追いかけAI"
+date: 2024-12-20T14:12:48+09:00
+---
 
 TrendToPDFを実行
 [Google Colab](https://colab.research.google.com/drive/187UQT0vxuOZKhGN4g2jeuI3veabaRypg#scrollTo=fNDsWwgh13km)
@@ -108,7 +112,7 @@ YMM4上で分割を自動化する。
 アイテム
 ```json
 {
-  "FilePath": "D:\\Test\\YMMproj\\News\\2024年10月30日-2.ymmp",
+  "FilePath": "D:\Test\YMMproj\News\2024年10月30日-2.ymmp",
   "Timeline": {
     "VideoInfo": {
       "FPS": 30,
@@ -308,4 +312,3 @@ VIVに/accent_phrases
     足し引き済み音素長mora_length[]をとる
 /accent_phrasesの結果を使用し/synthesisでwavファイルを取る
     parted_voices[]とそれらをくっつけたone_voice
-

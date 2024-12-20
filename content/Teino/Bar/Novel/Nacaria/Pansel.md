@@ -1,11 +1,12 @@
 ---
+title: "Pansel"
 tags:
  - Bar
  - Novel/Character
  - Nacaria
 ---
 
-date:: [2022-07-08](Daily_Note/2022-07-08.md)
+date: 2024-12-20T14:05:00+09:00
 up:: [Biscarnya](Biscarnya.md)
 
 感謝。

@@ -1,5 +1,6 @@
 ---
-date: 2021-07-16 20:38:50
+title: "About the Challenges and Solutions"
+date: 2024-12-20T14:03:19+09:00
 tags: 
  - App
  - Unity

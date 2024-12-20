@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:59+09:00
+title: "Actor Component"
 uid: 20220628203753
 tags:
  - App/UnrealEngine

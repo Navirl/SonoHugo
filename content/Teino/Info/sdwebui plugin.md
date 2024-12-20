@@ -1,11 +1,12 @@
 ---
+title: "sdwebui plugin"
 tags:
   - Info
 aliases:
   - sdwebui extension
 ---
 
-date:: [2024-03-11](/Daily_Note/2024-03-11.md)
+date: 2024-12-20T14:08:14+09:00
 up:: [sdwebui](../Bar/App/stable-diffusion-webui.md)
 
 # Plugin

@@ -1,9 +1,10 @@
 ---
+title: "csharp dotnet-core-uninstall"
 tags:
   - Info
 ---
 
-date:: [2024-10-28](/Daily_Note/2024-10-28.md)
+date: 2024-12-20T14:07:50+09:00
 up:: [Csharp](../Bar/Program/Csharp.md)
 
 dotnetをアンインストールする専用ツール。

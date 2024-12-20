@@ -1,9 +1,10 @@
 ---
+title: "py is"
 tags:
   - Info
 ---
 
-date:: [2024-05-31](/Daily_Note/2024-05-31.md)
+date: 2024-12-20T14:08:06+09:00
 up:: [py](../Bar/Program/Python.md)
 
 isはメモリ上で同じ場所かどうかを判定する。

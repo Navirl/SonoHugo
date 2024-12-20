@@ -1,3 +1,7 @@
+---
+title: "FTextureとUTextureの違い"
+date: 2024-12-20T14:03:26+09:00
+---
 https://docs.unrealengine.com/5.0/en-US/API/Runtime/Engine/Engine/UTexture/
 https://docs.unrealengine.com/4.26/en-US/API/Runtime/RenderCore/FTexture/
 

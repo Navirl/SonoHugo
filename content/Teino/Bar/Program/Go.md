@@ -1,9 +1,10 @@
 ---
+title: "Go"
 tags:
   - Bar
 ---
 
-date:: [2024-01-29](Daily_Note/2024-01-29.md)
+date: 2024-12-20T14:05:34+09:00
 up:: [Programming](Programming.md)
 
 [Rust](Rust.md)と並び立つ有名言語。

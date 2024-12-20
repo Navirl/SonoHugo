@@ -1,4 +1,5 @@
 ---
+title: "Tilaw_Amia_Silarity"
 tags:
  - Bar
  - Novel/Character
@@ -6,6 +7,6 @@ tags:
 aliases: ティラウ・アミア・シラリティ
 ---
 
-date:: [2022-07-16](Daily_Note/2022-07-16.md)
+date: 2024-12-20T14:05:06+09:00
 up:: [Chromisiro](Chromisiro.md)
 

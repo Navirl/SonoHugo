@@ -1,9 +1,10 @@
 ---
+title: "Tauri"
 tags:
   - Bar
 ---
 
-date:: [2024-08-14](Daily_Note/2024-08-14.md)
+date: 2024-12-20T14:04:42+09:00
 up:: [Rust](../Program/Rust.md)
 
 Electronと同様、デスクトップアプリをブラウザ技術で作る。

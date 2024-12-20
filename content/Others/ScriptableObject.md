@@ -1,5 +1,6 @@
 ---
-date: 2021-08-03 17:17:59
+title: "ScriptableObject"
+date: 2024-12-20T14:03:57+09:00
 tags: 
  - App
  - Unity

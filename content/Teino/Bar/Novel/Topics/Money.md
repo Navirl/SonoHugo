@@ -1,10 +1,11 @@
 ---
+title: "Money"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
+date: 2024-12-20T14:05:22+09:00
 up::
 
 

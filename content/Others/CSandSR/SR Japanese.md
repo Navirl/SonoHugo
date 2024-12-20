@@ -1,3 +1,7 @@
+---
+title: "SR Japanese"
+date: 2024-12-20T14:03:29+09:00
+---
 #flashcards/Japanese
 
 マキャベリズム

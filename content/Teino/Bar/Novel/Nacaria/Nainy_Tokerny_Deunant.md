@@ -1,4 +1,5 @@
 ---
+title: "Nainy_Tokerny_Deunant"
 tags:
  - Bar
  - Novel/Character
@@ -6,6 +7,6 @@ tags:
 aliases: ネイニ・トーカニ・デウナント
 ---
 
-date:: [2022-08-04](Daily_Note/2022-08-04.md)
+date: 2024-12-20T14:04:59+09:00
 up:: [Chromisiro](Novel/Nacaria/Chromisiro.md)
 source:: [三大感染症、顧みられない熱帯病（Neglected Tropical Diseases, NTDs）とは | 三大感染症および顧みられない熱帯病 | 日本製薬工業協会](https://www.jpma.or.jp/globalhealth/infection/ntds/about_ntds/index.html)

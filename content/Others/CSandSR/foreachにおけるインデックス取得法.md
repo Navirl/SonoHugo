@@ -1,5 +1,6 @@
 ---
-date: 2021-10-04 21:48:46
+title: "foreachにおけるインデックス取得法"
+date: 2024-12-20T14:03:33+09:00
 tags:
  - Program/CSharp
  - Fragment

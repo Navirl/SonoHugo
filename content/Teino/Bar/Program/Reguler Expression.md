@@ -1,11 +1,12 @@
 ---
+title: "Reguler Expression"
 tags:
   - Bar
 aliases:
   - regex
 ---
 
-date:: [2024-03-12](Daily_Note/2024-03-12.md)
+date: 2024-12-20T14:05:36+09:00
 up:: [Programming](Bar/Program/Programming.md)
 
 正規表現。

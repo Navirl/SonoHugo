@@ -1,9 +1,10 @@
 ---
+title: "AIl Basis"
 tags:
  - Info
 ---
 
-date:: [2023-06-22](/Daily_Note/2023-06-22.md)
+date: 2024-12-20T14:07:08+09:00
 up:: [AI_local](../Bar/AI/AI_local.md)
 
 `nvidia/cuda:12.1.1-runtime-ubuntu22.04`をpull。

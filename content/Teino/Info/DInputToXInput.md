@@ -1,9 +1,10 @@
 ---
+title: "DInputToXInput"
 tags:
   - Info
 ---
 
-date:: [2024-11-16](/Daily_Note/2024-11-16.md)
+date: 2024-12-20T14:07:15+09:00
 up::
 
 x360ceで変換。ベータ版の4.x系を使う。

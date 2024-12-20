@@ -1,11 +1,12 @@
 ---
+title: "Marisa_Kirisame"
 tags:
  - Bar
  - Novel/Character
  - Touhou_Project
 ---
 
-date:: [2022-10-29](Daily_Note/2022-10-29.md)
+date: 2024-12-20T14:05:29+09:00
 up::
 
 あくまで普通の魔法使い。

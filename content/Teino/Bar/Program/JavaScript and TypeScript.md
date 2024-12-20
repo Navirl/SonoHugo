@@ -1,4 +1,5 @@
 ---
+title: "JavaScript and TypeScript"
 tags:
   - Bar
 aliases:
@@ -6,7 +7,7 @@ aliases:
   - ts
 ---
 
-date:: [2022-11-02](Daily_Note/2022-11-02.md)
+date: 2024-12-20T14:05:35+09:00
 up:: [Programming](Programming.md)
 
 ## Scrapbox徹底解剖

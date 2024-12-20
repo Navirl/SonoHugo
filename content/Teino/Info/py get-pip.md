@@ -1,9 +1,10 @@
 ---
+title: "py get-pip"
 tags:
   - Info
 ---
 
-date:: [2024-11-22](/Daily_Note/2024-11-22.md)
+date: 2024-12-20T14:08:06+09:00
 up:: [py](../Bar/Program/Python.md)
 
 たまにpipが無い環境のpythonを触ることがある。

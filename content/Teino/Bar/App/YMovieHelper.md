@@ -1,9 +1,10 @@
 ---
+title: "YMovieHelper"
 tags:
   - Bar
 ---
 
-date:: [2024-04-11](Daily_Note/2024-04-11.md)
+date: 2024-12-20T14:04:34+09:00
 up:: [YukkriMovieMaker](YukkriMovieMaker.md)
 
 各制限

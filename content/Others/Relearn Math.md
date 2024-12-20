@@ -1,5 +1,6 @@
 ---
-date: 2021-09-29 11:35:28
+title: "Relearn Math"
+date: 2024-12-20T14:03:55+09:00
 tags:
  - Program/Math
 ---

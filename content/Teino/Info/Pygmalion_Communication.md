@@ -1,9 +1,10 @@
 ---
+title: "Pygmalion_Communication"
 tags:
  - Info
 ---
 
-date:: [2023-05-04](/Daily_Note/2023-05-04.md)
+date: 2024-12-20T14:07:30+09:00
 up:: [Pygmalion](Pygmalion.md)
 
 

@@ -1,11 +1,12 @@
 ---
+title: "Sarsh"
 tags:
  - Bar
  - Novel/Location
  - Nacaria
 ---
 
-date:: [2022-10-29](Daily_Note/2022-10-29.md)
+date: 2024-12-20T14:05:02+09:00
 up:: [Nacarea](Nacarea.md)
 
 

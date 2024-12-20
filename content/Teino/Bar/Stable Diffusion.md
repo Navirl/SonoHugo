@@ -1,11 +1,12 @@
 ---
+title: "Stable Diffusion"
 tags:
   - Bar
 aliases:
   - sd
 ---
 
-date:: [2024-05-31](Daily_Note/2024-05-31.md)
+date: 2024-12-20T14:05:38+09:00
 up:: 
 
 安定拡散モデル。

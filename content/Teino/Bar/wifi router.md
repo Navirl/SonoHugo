@@ -1,9 +1,10 @@
 ---
+title: "wifi router"
 tags:
   - Bar
 ---
 
-date:: [2024-09-06](Daily_Note/2024-09-06.md)
+date: 2024-12-20T14:05:40+09:00
 up::
 
 ## WSR-1166DHP 中継

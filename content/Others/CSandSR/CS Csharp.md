@@ -1,5 +1,6 @@
 ---
-date: 2021-07-29 09:55:40
+title: "CS Csharp"
+date: 2024-12-20T14:03:22+09:00
 tags:
  - Program/CSharp
  - CheatSheet

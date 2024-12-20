@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:05+09:00
+title: "astc dxt etc2"
 uid: 20220610200919
 tags:
  - App/UnrealEngine

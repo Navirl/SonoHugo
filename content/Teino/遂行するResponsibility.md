@@ -1,3 +1,7 @@
+---
+title: "遂行するResponsibility"
+date: 2024-12-20T14:16:40+09:00
+---
 やり直し、最後まで遂行するResponsibility
 処分を受け入れAccountability
 法的な賠償、製造責任などを行うLiability
@@ -94,4 +98,3 @@ https://www.ritsumei.ac.jp/acd/cg/law/lex/05-6/matsumiya.pdf
 法律が道徳教育になれないなら、
 決まりから作り出してく学問と相性が悪すぎる。
 もう魔法の域。
-

@@ -1,9 +1,10 @@
 ---
+title: "SMART goal"
 tags:
  - Info
 ---
 
-date:: [2023-06-02](/Daily_Note/2023-06-02.md)
+date: 2024-12-20T14:07:35+09:00
 up:: [Component](Bar/Novel/Chaos/Component.md)
 
 

@@ -1,3 +1,7 @@
+---
+title: "multiple filename"
+date: 2024-12-20T14:04:24+09:00
+---
 名称重複ファイル
 ```dataviewjs
 let all_page = dv.array(dv.pages().file.sort(v => v.name, "asc"));

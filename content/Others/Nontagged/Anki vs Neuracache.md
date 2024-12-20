@@ -1,3 +1,7 @@
+---
+title: "Anki vs Neuracache"
+date: 2024-12-20T14:03:40+09:00
+---
 #Public/Post
 
 Anki

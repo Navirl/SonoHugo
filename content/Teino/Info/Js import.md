@@ -1,9 +1,10 @@
 ---
+title: "Js import"
 tags:
  - Info
 ---
 
-date:: [2022-11-02](Daily_Note/2022-11-02.md)
+date: 2024-12-20T14:07:23+09:00
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 source:: [TypeScriptでモジュールを作成する／インポートする (export, import)｜まくろぐ](https://maku.blog/p/fbu8k8j/)
 

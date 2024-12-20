@@ -1,5 +1,6 @@
 ---
-date: 2021-07-10 10:12:00
+title: "Gatsby"
+date: 2024-12-20T14:03:41+09:00
 tags:
  - Learning
 alias:

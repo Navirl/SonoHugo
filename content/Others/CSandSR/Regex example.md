@@ -1,5 +1,6 @@
 ---
-date: 2022-04-29 01:29:35
+title: "Regex example"
+date: 2024-12-20T14:03:29+09:00
 tags:
  - Program/Regex
  - Fragment

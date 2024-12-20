@@ -1,10 +1,11 @@
 ---
+title: "winget"
 tags:
  - Bar
  - App
 ---
 
-date:: [2023-04-27](Daily_Note/2023-04-27.md)
+date: 2024-12-20T14:04:37+09:00
 up::
 
 Microsoft社謹製のパッケージインストーラ。マニフェストは主にプルリクで増やす。

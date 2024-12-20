@@ -1,9 +1,10 @@
 ---
+title: "foam"
 tags:
   - Bar
 ---
 
-date:: [2024-11-17](Daily_Note/2024-11-17.md)
+date: 2024-12-20T14:04:35+09:00
 up::
 
 [Obsidian](Obsidian.md)や[Dendron](Dendron.md)と同じくPKM。OSS。

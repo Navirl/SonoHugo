@@ -1,9 +1,10 @@
 ---
+title: "数週間定期的に運動するうちに、HPA系の活動はゆっくりと落ち着いていく。"
 tags:
  - Info
 ---
 
-date:: [2022-08-16](Daily_Note/2022-08-16.md)
+date: 2024-12-20T14:11:14+09:00
 up:: [Summareading](Bar/Summareading.md)
 up:: [Sarsh_People](../Bar/Novel/Nacaria/Sarsh_People.md)
 source:: [｢これほど抗うつ効果が高いものは思いつかない｣　世界的な著名精神科医が指摘するある『行動』とは｜ニューズウィーク日本版 オフィシャルサイト](https://www.newsweekjapan.jp/stories/lifestyle/2022/08/post-99292_4.php)

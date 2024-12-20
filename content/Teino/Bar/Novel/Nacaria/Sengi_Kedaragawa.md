@@ -1,4 +1,5 @@
 ---
+title: "Sengi_Kedaragawa"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 形鱈川千喜
 ---
 
-date:: [2022-07-04](Daily_Note/2022-07-04.md)
+date: 2024-12-20T14:05:03+09:00
 up:: [Cricia](Novel/Nacaria/Cricia.md)
 
 関係

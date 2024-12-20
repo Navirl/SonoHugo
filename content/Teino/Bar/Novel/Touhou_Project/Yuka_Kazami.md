@@ -1,4 +1,5 @@
 ---
+title: "Yuka_Kazami"
 tags:
  - Bar
  - Touhou_Project
@@ -6,6 +7,6 @@ tags:
 aliases: 風見幽香
 ---
 
-date:: [2022-09-19](../../../Daily_Note/2022-09-19.md)
+date: 2024-12-20T14:05:32+09:00
 
 

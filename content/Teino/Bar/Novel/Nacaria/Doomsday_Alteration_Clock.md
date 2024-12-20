@@ -1,4 +1,5 @@
 ---
+title: "Doomsday_Alteration_Clock"
 tags:
  - Bar
  - Novel/Item
@@ -6,7 +7,7 @@ tags:
 aliases: 終末改変時計
 ---
 
-date:: [2022-07-17](Daily_Note/2022-07-17.md)
+date: 2024-12-20T14:04:51+09:00
 up:: [Riitsu_Reuke](Riitsu_Reuke.md)
 
 終末改変時計

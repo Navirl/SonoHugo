@@ -1,9 +1,10 @@
 ---
+title: "Nintendo Settings"
 tags:
  - Info
 ---
 
-date:: [2022-09-07](Daily_Note/2022-09-07.md)
+date: 2024-12-20T14:07:26+09:00
 up:: [Job](../Bar/Job.md)
 
 「主体的に当事者として行動する」

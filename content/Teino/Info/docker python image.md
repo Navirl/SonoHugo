@@ -1,9 +1,10 @@
 ---
+title: "docker python image"
 tags:
  - Info
 ---
 
-date:: [2023-04-14](/Daily_Note/2023-04-14.md)
+date: 2024-12-20T14:07:52+09:00
 up:: [Docker](../Bar/App/Docker.md)
 
 pythonのver、debianのver、slim(余計なパッケージが入ってない)、alpineなどでイメージが分けられている。

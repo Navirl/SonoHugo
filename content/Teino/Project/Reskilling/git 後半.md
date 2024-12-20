@@ -1,3 +1,7 @@
+---
+title: "git 後半"
+date: 2024-12-20T14:15:44+09:00
+---
 [Git](../../Bar/App/Git.md)
 
 # Git内部

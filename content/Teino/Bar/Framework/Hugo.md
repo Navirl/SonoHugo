@@ -3,7 +3,7 @@ tags:
   - Bar
 ---
 
-date:: [2024-12-07](Daily_Note/2024-12-07.md)
+date: 2024-12-20T14:04:39+09:00
 up::
 
 [Git+Hugo+Netlify](Git+Hugo+Netlify.md)

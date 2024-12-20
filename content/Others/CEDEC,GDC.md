@@ -1,5 +1,6 @@
 ---
-date: 2021-10-26 22:26:20
+title: "CEDEC,GDC"
+date: 2024-12-20T14:03:20+09:00
 tags:
  - Learning
 ---

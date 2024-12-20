@@ -1,9 +1,10 @@
 ---
+title: "Cpp module"
 tags:
  - Info
 ---
 
-date:: [2023-03-01](/Daily_Note/2023-03-01.md)
+date: 2024-12-20T14:07:14+09:00
 up:: [Cpp](../Bar/Program/Cpp.md)
 
 [【C＋＋】C＋＋20のモジュールとincludeの違いについて詳しく調べてみた – 株式会社ロジカルビート](https://logicalbeat.jp/blog/6223/)

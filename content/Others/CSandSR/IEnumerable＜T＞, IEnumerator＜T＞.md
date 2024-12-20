@@ -1,5 +1,6 @@
 ---
-date: 2021-10-04 21:52:18
+title: "IEnumerable＜T＞, IEnumerator＜T＞"
+date: 2024-12-20T14:03:27+09:00
 tags:
  - Program/CSharp
  - Fragment

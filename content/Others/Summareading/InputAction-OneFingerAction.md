@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:01+09:00
+title: "InputAction-OneFingerAction"
 uid: 20220624140027
 tags:
  - App/UnrealEngine

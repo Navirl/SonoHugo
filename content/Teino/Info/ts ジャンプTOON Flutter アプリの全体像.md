@@ -1,9 +1,10 @@
 ---
+title: "ts ジャンプTOON Flutter アプリの全体像"
 tags:
   - Info
 ---
 
-date:: [2024-07-13](/Daily_Note/2024-07-13.md)
+date: 2024-12-20T14:08:18+09:00
 up:: [ts](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 [ジャンプTOON Flutter アプリの全体像 | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/48761/)

@@ -1,11 +1,12 @@
 ---
+title: "sd Tunnel"
 tags:
   - Info
 aliases:
   - sd ngrok
 ---
 
-date:: [2024-05-22](/Daily_Note/2024-05-22.md)
+date: 2024-12-20T14:08:10+09:00
 up:: [ComfyUI](../Bar/App/ComfyUI.md)
 
 ngrokを使っていたが、上限がすぐ来るので。

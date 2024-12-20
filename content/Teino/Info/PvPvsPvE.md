@@ -1,9 +1,10 @@
 ---
+title: "PvPvsPvE"
 tags:
   - Info
 ---
 
-date:: [2024-01-05](/Daily_Note/2024-01-05.md)
+date: 2024-12-20T14:07:29+09:00
 up:: [Me](../Bar/Novel/Chaos/Me.md)
 
 PvP

@@ -1,10 +1,11 @@
 ---
+title: "Scoop"
 tags:
  - Bar
  - App
 ---
 
-date:: [2021-08-28](Daily_Note/2021-08-28.md)
+date: 2024-12-20T14:04:32+09:00
 up:: [PowerShell_and_Command-Line](PowerShell_and_Command-Line.md)
 
 windowsのパッケージインストーラ。

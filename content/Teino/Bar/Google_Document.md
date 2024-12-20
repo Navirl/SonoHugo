@@ -1,9 +1,10 @@
 ---
+title: "Google_Document"
 tags:
   - Bar
 ---
 
-date:: [2024-04-25](Daily_Note/2024-04-25.md)
+date: 2024-12-20T14:04:42+09:00
 up::
 
 ## それっぽい見出しを作る

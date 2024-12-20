@@ -1,10 +1,11 @@
 ---
+title: "VOICEVOX"
 tags:
   - Bar
   - App
 ---
 
-date:: [2023-10-17](/Daily_Note/2023-10-17.md)
+date: 2024-12-20T14:04:34+09:00
 up::
 
 実は起動中ずっとHttpサーバーが起動している音声合成ソフト。

@@ -1,4 +1,5 @@
 ---
+title: "Narana_Tsunohashi"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 角端楢名
 ---
 
-date:: [2022-07-11](Daily_Note/2022-07-11.md)
+date: 2024-12-20T14:05:00+09:00
 up:: [Takame_Hakkaido](Takame_Hakkaido.md)
 up:: [Narana_Tsunohashi_Edu](Narana_Tsunohashi_Edu.md)
 

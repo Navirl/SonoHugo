@@ -1,9 +1,10 @@
 ---
+title: "UEで動的ウィジェット生成"
 tags:
  - Info
 ---
 
-date:: [2022-10-08](Daily_Note/2022-10-08.md)
+date: 2024-12-20T14:07:45+09:00
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [Widget Component- Changing Widget Class via Blueprints? - Programming & Scripting / Blueprint - Unreal Engine Forums](https://forums.unrealengine.com/t/widget-component-changing-widget-class-via-blueprints/140224/3)
 

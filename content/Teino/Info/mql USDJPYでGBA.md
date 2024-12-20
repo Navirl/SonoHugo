@@ -1,9 +1,10 @@
 ---
+title: "mql USDJPYでGBA"
 tags:
   - Info
 ---
 
-date:: [2024-05-06](/Daily_Note/2024-05-06.md)
+date: 2024-12-20T14:07:59+09:00
 up:: [MQL5](../Bar/Program/MQL5.md)
 
 ```cpp

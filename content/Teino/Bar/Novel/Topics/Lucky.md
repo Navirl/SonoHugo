@@ -1,8 +1,9 @@
 ---
+title: "Lucky"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2023-02-01](Daily_Note/2023-02-01.md)
+date: 2024-12-20T14:05:20+09:00
 up::

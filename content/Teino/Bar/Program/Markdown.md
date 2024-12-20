@@ -1,9 +1,10 @@
 ---
+title: "Markdown"
 tags:
  - Bar
 ---
 
-date:: [2021-08-06](/Daily_Note/2021-08-06.md)
+date: 2024-12-20T14:05:35+09:00
 up:: [Programming](Programming.md)
 
 

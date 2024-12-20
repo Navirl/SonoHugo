@@ -1,4 +1,5 @@
 ---
+title: "Shinmyoumaru_Sukuna"
 tags:
  - Bar
  - Touhou_Project
@@ -6,6 +7,6 @@ tags:
 aliases: 少名針妙丸
 ---
 
-date:: [2022-07-03](Daily_Note/2022-07-03.md)
+date: 2024-12-20T14:05:31+09:00
 
 

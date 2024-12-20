@@ -1,10 +1,11 @@
 ---
+title: "Deny"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date:: [2022-10-26](Daily_Note/2022-10-26.md)
+date: 2024-12-20T14:05:14+09:00
 up::
 
 否定すんのは大変だぜ。

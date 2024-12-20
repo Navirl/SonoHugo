@@ -1,9 +1,10 @@
 ---
+title: "UrlFetchApp"
 tags:
  - Info
 ---
 
-date:: [2022-07-28](Daily_Note/2022-07-28.md)
+date: 2024-12-20T14:07:47+09:00
 up:: [Google Apps Script](../Bar/Program/Google%20Apps%20Script.md)
 source:: [Class UrlFetchApp  |  Apps Script  |  Google Developers](https://developers.google.com/apps-script/reference/url-fetch/url-fetch-app)
 

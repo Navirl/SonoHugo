@@ -1,5 +1,6 @@
 ---
-date: 2021-10-17 09:24:16
+title: "Git+Hugo+Netlify"
+date: 2024-12-20T14:07:05+09:00
 tags:
  - Learning
 ---

@@ -1,9 +1,10 @@
 ---
+title: "llm"
 tags:
   - Bar
 ---
 
-date:: [2024-06-21](Daily_Note/2024-06-21.md)
+date: 2024-12-20T14:05:39+09:00
 up:: 
 
 t2tメイン。

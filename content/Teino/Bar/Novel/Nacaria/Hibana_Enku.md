@@ -1,11 +1,12 @@
 ---
+title: "Hibana_Enku"
 tags:
  - Bar
  - Novel/Character
  - Nacaria
 ---
 
-date:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
+date: 2024-12-20T14:04:54+09:00
 up:: [Ultia](Ultia.md)
 down:: [Enku](Enku.md)
 

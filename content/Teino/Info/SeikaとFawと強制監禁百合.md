@@ -1,9 +1,10 @@
 ---
+title: "SeikaとFawと強制監禁百合"
 tags:
  - Info
 ---
 
-date:: [2023-05-17](/Daily_Note/2023-05-17.md)
+date: 2024-12-20T14:07:36+09:00
 up:: [Seika](../Bar/Novel/Seika.md)
 up:: [Faw](../Bar/Novel/Faw.md)
 up:: [Pygmalion](Pygmalion.md)

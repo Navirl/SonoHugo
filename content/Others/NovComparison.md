@@ -1,3 +1,7 @@
+---
+title: "NovComparison"
+date: 2024-12-20T14:03:54+09:00
+---
 Amplenote
 https://www.amplenote.com/subscriptions/new
 Evernoteタイプのタスクとカレンダー付きノート。
@@ -57,4 +61,3 @@ Notesnook
 
 Milastone
 登録必須。
-

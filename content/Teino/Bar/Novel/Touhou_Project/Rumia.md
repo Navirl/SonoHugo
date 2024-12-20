@@ -1,4 +1,5 @@
 ---
+title: "Rumia"
 tags:
  - Bar
  - Novel/Character
@@ -6,5 +7,5 @@ tags:
 aliases: ルーミア
 ---
 
-date:: [2023-02-01](Daily_Note/2023-02-01.md)
+date: 2024-12-20T14:05:30+09:00
 up::

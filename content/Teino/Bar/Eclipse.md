@@ -1,9 +1,10 @@
 ---
+title: "Eclipse"
 tags:
   - Bar
 ---
 
-date:: [2023-12-13](Daily_Note/2023-12-13.md)
+date: 2024-12-20T14:04:38+09:00
 up:: 
 
 Android App Hacking

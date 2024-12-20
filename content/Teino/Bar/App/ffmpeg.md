@@ -1,10 +1,11 @@
 ---
+title: "ffmpeg"
 tags:
   - Bar
   - App
 ---
 
-date:: [2021-09-25](Daily_Note/2021-09-25.md)
+date: 2024-12-20T14:04:35+09:00
 up:: 
 
 

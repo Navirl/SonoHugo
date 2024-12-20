@@ -1,9 +1,10 @@
 ---
+title: "人のいない地方を守るAI"
 tags:
  - Info
 ---
 
-date:: [2022-06-24](Daily_Note/2022-06-24.md)
+date: 2024-12-20T14:10:04+09:00
 up:: [Plot](../Bar/Novel/Chaos/Plot.md)
 up:: [Education](../Bar/Novel/Topics/Education.md)
 

@@ -1,9 +1,10 @@
 ---
+title: "Language"
 tags:
  - Bar
  - Novel/Topic
 aliases: 言語
 ---
 
-date:: [2023-05-04](Daily_Note/2023-05-04.md)
+date: 2024-12-20T14:05:19+09:00
 up::

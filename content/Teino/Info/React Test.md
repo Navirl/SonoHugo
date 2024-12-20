@@ -1,9 +1,10 @@
 ---
+title: "React Test"
 tags:
   - Info
 ---
 
-date:: [2024-03-28](/Daily_Note/2024-03-28.md)
+date: 2024-12-20T14:07:30+09:00
 up:: [React](../Bar/Library/React.md)
 
 ## Unit

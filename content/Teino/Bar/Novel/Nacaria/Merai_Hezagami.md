@@ -1,4 +1,5 @@
 ---
+title: "Merai_Hezagami"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 辺座神銘礼
 ---
 
-date:: [2022-07-27](Daily_Note/2022-07-27.md)
+date: 2024-12-20T14:04:58+09:00
 up:: [Cricia](Novel/Nacaria/Cricia.md)
 up:: [Sengi_Kedaragawa](Sengi_Kedaragawa.md)
 

@@ -1,9 +1,10 @@
 ---
+title: "Tavern_Me"
 tags:
  - Info
 ---
 
-date:: [2023-05-04](/Daily_Note/2023-05-04.md)
+date: 2024-12-20T14:07:38+09:00
 up:: [Tavern](../Bar/App/Tavern.md)
 up:: [Me](../Bar/Novel/Chaos/Me.md)
 up:: [Saki_Yanasaki](../Bar/Novel/Nacaria/Saki_Yanasaki.md)

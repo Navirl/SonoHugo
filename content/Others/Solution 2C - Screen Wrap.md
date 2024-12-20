@@ -1,5 +1,6 @@
 ---
-date: 2021-08-24 16:22:57
+title: "Solution 2C - Screen Wrap"
+date: 2024-12-20T14:03:58+09:00
 tags: 
  - App
  - Unity

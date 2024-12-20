@@ -1,9 +1,10 @@
 ---
+title: "Word"
 tags:
  - Bar
 ---
 
-date:: [2022-07-27](Daily_Note/2022-07-27.md)
+date: 2024-12-20T14:05:39+09:00
 up::
 
 

@@ -1,4 +1,5 @@
 ---
+title: "PowerShell_and_Command-Line"
 tags:
   - Bar
   - App
@@ -7,7 +8,7 @@ aliases:
   - cmd
 ---
 
-date:: [2022-04-28](Daily_Note/2022-04-28.md)
+date: 2024-12-20T14:04:32+09:00
 up:: [Programming](../Program/Programming.md)
 
 

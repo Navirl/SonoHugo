@@ -1,5 +1,6 @@
 ---
-date: 2021-08-22 13:53:08
+title: "Solution 2B - Turret Movement and Firing Bullets"
+date: 2024-12-20T14:03:57+09:00
 tags: 
  - App
  - Unity

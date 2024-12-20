@@ -1,9 +1,10 @@
 ---
+title: "csharp attribute"
 tags:
   - Info
 ---
 
-date:: [2023-10-23](/Daily_Note/2023-10-23.md)
+date: 2024-12-20T14:07:49+09:00
 up:: [Csharp](../Bar/Program/Csharp.md)
 
 コードにメタデータを追加するもの。

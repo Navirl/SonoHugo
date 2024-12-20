@@ -1,10 +1,11 @@
 ---
+title: "krita"
 tags:
   - Bar
   - App
 ---
 
-date:: [2024-07-15](Daily_Note/2024-07-15.md)
+date: 2024-12-20T14:04:36+09:00
 up::
 
 ## krita-ai-diffusion

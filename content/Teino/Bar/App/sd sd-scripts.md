@@ -1,10 +1,11 @@
 ---
+title: "sd sd-scripts"
 tags:
  - Bar
  - App
 ---
 
-date:: [2023-05-10](Daily_Note/2023-05-10.md)
+date: 2024-12-20T14:04:36+09:00
 up:: [sd LoRA 学習](../../Info/sd%20LoRA%20学習.md)
 up:: [Stable Diffusion](../Stable%20Diffusion.md)
 

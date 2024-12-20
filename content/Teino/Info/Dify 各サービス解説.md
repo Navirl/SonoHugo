@@ -1,9 +1,10 @@
 ---
+title: "Dify 各サービス解説"
 tags:
   - Info
 ---
 
-date:: [2024-07-19](/Daily_Note/2024-07-19.md)
+date: 2024-12-20T14:07:17+09:00
 up:: [Dify](Bar/App/Dify.md)
 
 - aippt

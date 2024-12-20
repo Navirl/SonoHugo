@@ -1,4 +1,5 @@
 ---
+title: "Chromisiro_People"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: クロミシロの人々
 ---
 
-date:: [2022-07-08](Daily_Note/2022-07-08.md)
+date: 2024-12-20T14:04:50+09:00
 up:: [Chromisiro](Chromisiro.md)
 
 

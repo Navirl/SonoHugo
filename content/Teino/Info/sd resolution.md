@@ -1,9 +1,10 @@
 ---
+title: "sd resolution"
 tags:
   - Info
 ---
 
-date:: [2024-04-04](/Daily_Note/2024-04-04.md)
+date: 2024-12-20T14:08:12+09:00
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 

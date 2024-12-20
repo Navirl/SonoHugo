@@ -1,9 +1,10 @@
 ---
+title: "llm prompt"
 tags:
   - Info
 ---
 
-date:: [2024-06-21](/Daily_Note/2024-06-21.md)
+date: 2024-12-20T14:07:59+09:00
 up:: [AI_text](../Bar/AI/AI_text.md)
 
 - 役割を与える

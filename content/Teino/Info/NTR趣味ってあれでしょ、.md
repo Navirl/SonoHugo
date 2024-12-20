@@ -1,9 +1,10 @@
 ---
+title: "NTR趣味ってあれでしょ、"
 tags:
  - Info
 ---
 
-date:: [2023-06-29](/Daily_Note/2023-06-29.md)
+date: 2024-12-20T14:07:25+09:00
 up:: [Narana_Tsunohashi](Bar/Novel/Nacaria/Narana_Tsunohashi.md)
 up:: [R18](Bar/Novel/Topics/R18.md)
 

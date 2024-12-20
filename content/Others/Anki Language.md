@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:20+09:00
+title: "Anki Language"
 cards-deck: Language
 tags: 
  - Anki/Japanese,Anki

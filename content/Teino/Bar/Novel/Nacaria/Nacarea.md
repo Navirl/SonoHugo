@@ -1,9 +1,10 @@
 ---
+title: "Nacarea"
 tags:
   - Bar
 ---
 
-date:: [2024-09-28](Daily_Note/2024-09-28.md)
+date: 2024-12-20T14:04:59+09:00
 up::
 
 リンク用全ての元。

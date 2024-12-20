@@ -1,4 +1,5 @@
 ---
+title: "0_Values"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: 0の価値
 ---
 
-date:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
+date: 2024-12-20T14:04:46+09:00
 up:: [Disconnected_Fantasy](../Topics/Disconnected_Fantasy.md)
 up:: [Nacarea](Nacarea.md)
 

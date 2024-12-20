@@ -1,9 +1,10 @@
 ---
+title: "ティザーPV作るぞぉ！"
 tags:
  - Info
 ---
 
-date:: [2022-11-14](Daily_Note/2022-11-14.md)
+date: 2024-12-20T14:09:41+09:00
 up:: [Aido_Itsuragi](Bar/Novel/Nacaria/Aido_Itsuragi.md)
 
 ティザーPV作るぞぉ！

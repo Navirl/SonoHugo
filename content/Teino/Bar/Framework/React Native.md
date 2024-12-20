@@ -1,9 +1,10 @@
 ---
+title: "React Native"
 tags:
   - Bar
 ---
 
-date:: [2024-03-01](Daily_Note/2024-03-01.md)
+date: 2024-12-20T14:04:40+09:00
 up:: [React](../Library/React.md)
 
 Web上で動くReactでネイティブアプリを作るプロジェクト。

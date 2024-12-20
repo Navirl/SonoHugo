@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:05+09:00
+title: "Wifi ADB devices"
 uid: 20220620011503
 tags:
  - App/UnrealEngine

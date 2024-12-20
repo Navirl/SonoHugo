@@ -1,10 +1,11 @@
 ---
+title: "Canareal"
 tags:
   - Bar
   - Novel/World
 ---
 
-date:: [2024-04-09](Daily_Note/2024-04-09.md)
+date: 2024-12-20T14:04:43+09:00
 down:: [Manoki_Ogata](Manoki_Ogata.md)
 down:: [Miyari_Furumori](Miyari_Furumori.md)
 down:: [Narana_Tsunohashi](../Nacaria/Narana_Tsunohashi.md)

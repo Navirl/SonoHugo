@@ -1,8 +1,9 @@
 ---
+title: "defaultInfo"
 tags:
  - Info
 ---
 
-date:: [{{date:yyyy-MM-DD}}](/Daily_Note/{{date:yyyy-MM-DD}}.md)
+date: 2024-12-20T14:15:48+09:00
 up::
 

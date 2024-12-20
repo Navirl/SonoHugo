@@ -1,9 +1,10 @@
 ---
+title: "Buildpacks"
 tags:
  - Info
 ---
 
-date:: [2023-04-26](Daily_Note/2023-04-26.md)
+date: 2024-12-20T14:07:13+09:00
 up:: [Docker](../App/Docker.md)
 
 [buildpacksとは何なのか？ - Qiita](https://qiita.com/souhei-etou/items/5aab1bb02cdded065d05)

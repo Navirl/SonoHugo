@@ -1,9 +1,10 @@
 ---
+title: "React dnd kit"
 tags:
   - Info
 ---
 
-date:: [2024-08-16](/Daily_Note/2024-08-16.md)
+date: 2024-12-20T14:07:31+09:00
 up:: [React](../Bar/Library/React.md)
 
 droppableとdraggableのセットで入力できる。

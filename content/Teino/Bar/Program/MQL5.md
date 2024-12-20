@@ -1,9 +1,10 @@
 ---
+title: "MQL5"
 tags:
   - Bar
 ---
 
-date:: [2024-05-06](Daily_Note/2024-05-06.md)
+date: 2024-12-20T14:05:35+09:00
 up:: [Programming](Programming.md)
 
 MT5で使われる自動化用言語。

@@ -1,9 +1,10 @@
 ---
+title: "Fyrox RPG Tutorial"
 tags:
  - Info
 ---
 
-date:: [2023-03-14](/Daily_Note/2023-03-14.md)
+date: 2024-12-20T14:07:19+09:00
 up:: [Fyrox](../Bar/App/Fyrox.md)
 
 [Character controller - Fyrox Book](https://fyrox-book.github.io/fyrox/tutorials/rpg/tutorial-1/tutorial-part-1.html)

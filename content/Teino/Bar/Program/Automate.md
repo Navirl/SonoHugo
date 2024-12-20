@@ -1,9 +1,10 @@
 ---
+title: "Automate"
 tags:
  - Bar
 ---
 
-date:: [2022-04-24](/Daily_Note/2022-04-24.md)
+date: 2024-12-20T14:05:33+09:00
 up:: [Programming](Programming.md)
 
 ## 変数

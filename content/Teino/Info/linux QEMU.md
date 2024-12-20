@@ -1,9 +1,10 @@
 ---
+title: "linux QEMU"
 tags:
   - Info
 ---
 
-date:: [2024-02-16](/Daily_Note/2024-02-16.md)
+date: 2024-12-20T14:07:57+09:00
 up:: [Linux](../Bar/Linux.md)
 
 ## QEMU

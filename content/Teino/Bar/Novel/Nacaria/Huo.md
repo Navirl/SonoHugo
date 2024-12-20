@@ -1,11 +1,12 @@
 ---
+title: "Huo"
 tags:
  - Bar
  - Novel/Location
  - Nacaria
 ---
 
-date:: [2022-10-29](Daily_Note/2022-10-29.md)
+date: 2024-12-20T14:04:55+09:00
 up:: [Cricia](Cricia.md)
 
 治安と正義の街。

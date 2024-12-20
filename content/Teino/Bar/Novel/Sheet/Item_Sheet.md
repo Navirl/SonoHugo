@@ -1,11 +1,12 @@
 ---
+title: "Item_Sheet"
 tags:
  - Bar
  - Novel/Sheet
  - Novel/Item
 ---
 
-date:: [2022-08-09](Daily_Note/2022-08-09.md)
+date: 2024-12-20T14:05:08+09:00
 up::
 
 from:: Fortelling

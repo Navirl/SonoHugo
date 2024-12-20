@@ -1,5 +1,6 @@
 ---
-date: 2021-10-04 21:46:18
+title: "boxing"
+date: 2024-12-20T14:03:33+09:00
 tags:
  - Program/CSharp
  - Fragment

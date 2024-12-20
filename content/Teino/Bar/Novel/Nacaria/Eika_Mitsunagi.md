@@ -1,4 +1,5 @@
 ---
+title: "Eika_Mitsunagi"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: 三繋瑛華
 ---
 
-date:: [2022-07-06](Daily_Note/2022-07-06.md)
+date: 2024-12-20T14:04:51+09:00
 up:: [Ayama](Ayama.md)
 
 

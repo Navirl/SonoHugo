@@ -1,3 +1,7 @@
+---
+title: "CraftMachine.rider"
+date: 2024-12-20T14:17:04+09:00
+---
 ﻿```plantuml-svg
 @startuml
 'https://plantuml.com/class-diagram

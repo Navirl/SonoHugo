@@ -1,4 +1,5 @@
 ---
+title: "Urui"
 tags:
  - Bar
  - Novel/Community
@@ -6,7 +7,7 @@ tags:
 aliases: 閠
 ---
 
-date:: [2022-12-26](Daily_Note/2022-12-26.md)
+date: 2024-12-20T14:05:07+09:00
 up:: [Nacarea](Nacarea.md)
 
 うるい。検索しても野菜しかヒットしない。

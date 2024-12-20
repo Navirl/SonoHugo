@@ -1,11 +1,12 @@
 ---
+title: "Neovim"
 id: Neovim
 aliases: 
 tags:
   - Bar
 ---
 
-date:: [2024-12-03](/Daily_Note/2024-12-03.md)
+date: 2024-12-20T14:04:31+09:00
 up:: [Vim](Vim.md)
 
 [Neovim plugins](Neovim%20plugins.md)

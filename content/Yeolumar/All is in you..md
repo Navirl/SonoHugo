@@ -1,3 +1,7 @@
+---
+title: "All is in you."
+date: 2024-12-20T14:17:14+09:00
+---
 All is in you.
 
 降り立つ

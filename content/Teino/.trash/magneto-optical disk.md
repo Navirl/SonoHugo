@@ -1,9 +1,10 @@
 ---
+title: "magneto-optical disk"
 tags:
  - Info
 ---
 
-date:: [2023-07-18](/Daily_Note/2023-07-18.md)
+date: 2024-12-20T14:04:17+09:00
 up:: 
 
 magneto-optical disk

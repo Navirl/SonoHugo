@@ -1,4 +1,5 @@
 ---
+title: "Undefined_Fantastic_Object"
 tags:
  - Bar
  - Novel/Work
@@ -8,5 +9,5 @@ aliases:
  - UFO
 ---
 
-date:: [2022-11-01](Daily_Note/2022-11-01.md)
+date: 2024-12-20T14:05:32+09:00
 up:: 

@@ -1,4 +1,5 @@
 ---
+title: "Hiroki_Asahira"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: 朝日羅弘樹
 ---
 
-date:: [2022-09-03](Daily_Note/2022-09-03.md)
+date: 2024-12-20T14:04:54+09:00
 up:: [Ive](Ive.md)
 same:: [5_People](5_People.md)
 

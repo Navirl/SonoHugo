@@ -1,4 +1,5 @@
 ---
+title: "Raviqqa"
 tags:
  - Bar
  - Novel/Community
@@ -6,7 +7,7 @@ tags:
 aliases: ラヴィッカ
 ---
 
-date:: [2022-12-09](Daily_Note/2022-12-09.md)
+date: 2024-12-20T14:05:01+09:00
 up:: [Monon](Monon.md)
 
 脳を外に出して真の感覚を得ようカルト宗教。

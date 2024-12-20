@@ -1,4 +1,5 @@
 ---
+title: "Laybront_Shallotze_Deunant"
 tags:
  - Bar
  - Novel/Character
@@ -6,7 +7,7 @@ tags:
 aliases: レイブロント・シャロッゼ・デウナント
 ---
 
-date:: [2022-10-15](Daily_Note/2022-10-15.md)
+date: 2024-12-20T14:04:58+09:00
 up:: [Sarsh](Sarsh.md)
 
 レイブロント・シャロッゼ・デウナント

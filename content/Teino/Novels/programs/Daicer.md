@@ -1,9 +1,10 @@
 ---
+title: "Daicer"
 tags:
   - Info
 ---
 
-date:: [2024-08-09](/Daily_Note/2024-08-09.md)
+date: 2024-12-20T14:12:48+09:00
 up:: [Idea](Idea.md)
 
 [Tauri](../../Bar/Framework/Tauri.md)

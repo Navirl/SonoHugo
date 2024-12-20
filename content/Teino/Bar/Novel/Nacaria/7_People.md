@@ -1,11 +1,12 @@
 ---
+title: "7_People"
 tags:
  - Bar
  - Nacaria
  - Novel/Character
 ---
 
-date:: [2022-09-19](Daily_Note/2022-09-19.md)
+date: 2024-12-20T14:04:48+09:00
 up:: [Septacle](Septacle.md)
 
 

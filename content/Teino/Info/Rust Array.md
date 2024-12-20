@@ -1,9 +1,10 @@
 ---
+title: "Rust Array"
 tags:
  - Info
 ---
 
-date:: [2023-03-20](/Daily_Note/2023-03-20.md)
+date: 2024-12-20T14:07:32+09:00
 up:: [Rust](../Bar/Program/Rust.md)
 
 そのまま回すならforin。添字が要るならタプルとiter().enumerate()。

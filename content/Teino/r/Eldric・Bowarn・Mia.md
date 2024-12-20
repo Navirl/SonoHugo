@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:15:51+09:00
+title: "Eldric・Bowarn・Mia"
 address: "East Witch Forest"
 species:
  - 魔女

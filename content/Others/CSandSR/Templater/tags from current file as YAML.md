@@ -1,3 +1,7 @@
+---
+title: "tags from current file as YAML"
+date: 2024-12-20T14:03:32+09:00
+---
 <%*
 
   function getUnique(value, index, self) {

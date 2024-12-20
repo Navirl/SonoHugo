@@ -1,9 +1,10 @@
 ---
+title: "Permission denied (publickey)."
 tags:
  - Info
 ---
 
-date:: [2022-10-06](Daily_Note/2022-10-06.md)
+date: 2024-12-20T14:07:28+09:00
 up:: [Termux](../Bar/App/Termux.md)
 up:: [Git](../Bar/App/Git.md)
 source:: [Error: Permission denied (publickey) - GitHub Docs](https://docs.github.com/ja/authentication/troubleshooting-ssh/error-permission-denied-publickey)

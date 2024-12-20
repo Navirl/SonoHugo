@@ -1,4 +1,5 @@
 ---
+title: "Mitsuki_Nagachi"
 tags:
  - Bar
  - Novel/Character
@@ -9,7 +10,7 @@ aliases:
 ---
 
 
-date:: [2022-08-04](Daily_Note/2022-08-04.md)
+date: 2024-12-20T14:04:58+09:00
 up:: [Ive](Ive.md)
 same:: [5_People](5_People.md)
 

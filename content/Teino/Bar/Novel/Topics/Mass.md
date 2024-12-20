@@ -1,11 +1,12 @@
 ---
+title: "Mass"
 tags:
  - Bar
  - Novel/Topic
 aliases: 質量
 ---
 
-date:: [2022-08-04](Daily_Note/2022-08-04.md)
+date: 2024-12-20T14:05:21+09:00
 up::
 
 

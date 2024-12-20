@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:02+09:00
+title: "Paper and Degital reading"
 uid: 20220610200932
 tags:
  - Article/Nazology

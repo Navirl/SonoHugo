@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:02+09:00
+title: "Plane色を取る"
 uid: 20220617201317
 tags:
  - App/UnrealEngine

@@ -1,3 +1,7 @@
+---
+title: "Note：Github Wiki Sync Action"
+date: 2024-12-20T14:03:28+09:00
+---
 
 [GitHub - newrelic/wiki-sync-action: A GitHub Action that synchronizes the contents of a directory to the repository's Wiki.](https://github.com/newrelic/wiki-sync-action)
 

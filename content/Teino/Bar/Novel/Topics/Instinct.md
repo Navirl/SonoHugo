@@ -1,11 +1,12 @@
 ---
+title: "Instinct"
 tags:
  - Bar
  - Novel/Topic
 aliases: 本能
 ---
 
-date:: [2022-10-29](Daily_Note/2022-10-29.md)
+date: 2024-12-20T14:05:18+09:00
 up::
 
 

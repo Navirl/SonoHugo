@@ -1,10 +1,11 @@
 ---
+title: "Just-World_Timeline"
 tags:
  - Bar
  - Timeline
 ---
 
-date:: [2022-10-30](Daily_Note/2022-10-30.md)
+date: 2024-12-20T14:05:11+09:00
 up:: [Timeline_Sheet](../Sheet/Timeline_Sheet.md)
 up:: [Just-World](../Just-World/Just-World.md)
 

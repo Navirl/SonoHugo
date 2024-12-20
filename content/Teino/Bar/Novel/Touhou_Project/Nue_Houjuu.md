@@ -1,4 +1,5 @@
 ---
+title: "Nue_Houjuu"
 tags:
  - Bar
  - Novel/Character
@@ -8,7 +9,7 @@ banner: "![[../../../Banners/old/Sheya - 11764388/Danbooru/__houjuu_nue_touhou_d
 banner_y: 0
 ---
 
-date:: [2022-08-11](Daily_Note/2022-08-11.md)
+date: 2024-12-20T14:05:30+09:00
 up:: [Crazy_Quartet](Crazy_Quartet.md)
 up:: [UFO](Undefined_Fantastic_Object.md)
 

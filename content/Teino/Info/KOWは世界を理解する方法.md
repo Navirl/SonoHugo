@@ -1,9 +1,10 @@
 ---
+title: "KOWは世界を理解する方法"
 tags:
  - Info
 ---
 
-date:: [2023-06-29](/Daily_Note/2023-06-29.md)
+date: 2024-12-20T14:07:23+09:00
 up:: [Molcule_Obscure](Bar/Novel/Nacaria/Molcule_Obscure.md)
 up:: [KOW](Bar/Novel/Nacaria/KOW.md)
 up:: [World](Bar/Novel/Topics/World.md)

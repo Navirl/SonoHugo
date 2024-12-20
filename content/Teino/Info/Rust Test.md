@@ -1,9 +1,10 @@
 ---
+title: "Rust Test"
 tags:
  - Info
 ---
 
-date:: [2023-03-12](/Daily_Note/2023-03-12.md)
+date: 2024-12-20T14:07:34+09:00
 up:: [Rust](../Bar/Program/Rust.md)
 
 Rustでは関数がコンパイル通るかどうかをテストする機能がある。フィルタリング可能。

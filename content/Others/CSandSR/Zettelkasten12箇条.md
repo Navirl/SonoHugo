@@ -1,5 +1,6 @@
 ---
-date: 2021-07-17 22:04:06
+title: "Zettelkasten12箇条"
+date: 2024-12-20T14:03:33+09:00
 tags:
  - Article
 ---

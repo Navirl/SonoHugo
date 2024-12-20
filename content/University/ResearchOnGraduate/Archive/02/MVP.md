@@ -1,3 +1,7 @@
+---
+title: "MVP"
+date: 2024-12-20T14:17:04+09:00
+---
 歩き
 craft print
 craft print from distance to player

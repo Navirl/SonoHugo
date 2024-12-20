@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:04:34+09:00
+title: "Vim"
 tags:
  - Bar
  - App

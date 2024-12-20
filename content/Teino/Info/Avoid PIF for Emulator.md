@@ -1,9 +1,10 @@
 ---
+title: "Avoid PIF for Emulator"
 tags:
   - Info
 ---
 
-date:: [2024-11-23](/Daily_Note/2024-11-23.md)
+date: 2024-12-20T14:07:12+09:00
 up:: [Eclipse](../Bar/Eclipse.md)
 
 とにかくFPを偽装してplay integrityを回避、さらにmagisk hideや後継のdenylistを使用してroot使用を隠蔽、最後にmagisk自体を検知されないよう偽装という流れ。

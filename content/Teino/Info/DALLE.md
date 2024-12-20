@@ -1,9 +1,10 @@
 ---
+title: "DALLE"
 tags:
  - Info
 ---
 
-date:: [2022-07-31](Daily_Note/2022-07-31.md)
+date: 2024-12-20T14:07:15+09:00
 up:: [Touhou_Project](../Bar/Novel/Touhou_Project/Touhou_Project.md)
 
 https://labs.openai.com/s/jNxqST2DjzM9VD04WoU19zOh

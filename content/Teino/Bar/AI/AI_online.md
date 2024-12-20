@@ -1,11 +1,12 @@
 ---
+title: "AI_online"
 tags:
   - Bar
 aliases:
   - AIo
 ---
 
-date:: [2024-09-29](Daily_Note/2024-09-29.md)
+date: 2024-12-20T14:04:27+09:00
 up:: 
 
 ローカルじゃないオンラインサービスの整理。多すぎ。

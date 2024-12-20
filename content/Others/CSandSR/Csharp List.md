@@ -1,5 +1,6 @@
 ---
-date: 2021-11-09 12:19:39
+title: "Csharp List"
+date: 2024-12-20T14:03:26+09:00
 tags:
  - Program/CSharp
  - Fragment

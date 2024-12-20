@@ -1,9 +1,10 @@
 ---
+title: "Summareading"
 tags:
  - Bar
 ---
 
-date:: [2022-07-01](../Daily_Note/2022-07-01.md)
+date: 2024-12-20T14:05:38+09:00
 
 
 記事の要約。

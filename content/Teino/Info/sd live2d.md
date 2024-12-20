@@ -1,9 +1,10 @@
 ---
+title: "sd live2d"
 tags:
   - Info
 ---
 
-date:: [2024-05-27](/Daily_Note/2024-05-27.md)
+date: 2024-12-20T14:08:12+09:00
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 [AIイラストからLive2Dモデルとして動かすまでのまとめ – FaiREE｜ファイリー【フリーAI素材】](https://fairee.sozaiya-san.com/aiart-to-live2d/)

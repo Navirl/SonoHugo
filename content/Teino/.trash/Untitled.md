@@ -1,8 +1,9 @@
 ---
+title: "Untitled"
 tags:
  - Info
 ---
 
-date:: [{{date:yyyy-MM-DD}}](/Daily_Note/{{date:yyyy-MM-DD}}.md)
+date: 2024-12-20T14:04:17+09:00
 up::
 

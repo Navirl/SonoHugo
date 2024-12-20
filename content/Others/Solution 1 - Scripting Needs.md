@@ -1,5 +1,6 @@
 ---
-date: 2021-07-30 11:48:23
+title: "Solution 1 - Scripting Needs"
+date: 2024-12-20T14:03:57+09:00
 tags: 
  - App
  - Unity

@@ -1,4 +1,5 @@
 ---
+title: "Tone_Meloosha"
 tags:
  - Bar
  - Novel/Character
@@ -8,7 +9,7 @@ aliases:
  - 童濹路夏
 ---
 
-date:: [2022-10-12](Daily_Note/2022-10-12.md)
+date: 2024-12-20T14:05:06+09:00
 up:: [Monon](Monon.md)
 
 xをshと同じように読むのって中国語の時では？

@@ -1,4 +1,5 @@
 ---
+title: "Ayama"
 tags:
  - Bar
  - Novel/Location
@@ -6,7 +7,7 @@ tags:
 aliases: アヤマ
 ---
 
-date:: [2022-09-20](Daily_Note/2022-09-20.md)
+date: 2024-12-20T14:04:49+09:00
 up:: [Nacarea](Nacarea.md)
 
 絶対価値、時間の名の下に

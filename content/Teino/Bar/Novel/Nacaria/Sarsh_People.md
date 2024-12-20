@@ -1,4 +1,5 @@
 ---
+title: "Sarsh_People"
 tags:
  - Bar
  - Nacaria
@@ -6,7 +7,7 @@ tags:
 aliases: サーシュの人々
 ---
 
-date:: [2022-07-01](../../../Daily_Note/2022-07-01.md)
+date: 2024-12-20T14:05:02+09:00
 up:: [Sarsh](Sarsh.md)
 
 どことなくマジ物のマイナス。

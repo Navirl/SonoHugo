@@ -1,5 +1,6 @@
 ---
-date: 2021-08-04 16:45:12
+title: "Challenge 2 Requirements - Player Movement and Firing"
+date: 2024-12-20T14:03:36+09:00
 tags: 
  - App
  - Unity

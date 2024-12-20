@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:58+09:00
+title: "1UP STUDIO"
 uid: 20220618090904
 tags:
  - Company

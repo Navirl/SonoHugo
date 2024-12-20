@@ -1,9 +1,10 @@
 ---
+title: "Audacity"
 tags:
   - Bar
 ---
 
-date:: [2024-08-20](Daily_Note/2024-08-20.md)
+date: 2024-12-20T14:04:29+09:00
 up::
 
 ## 無音検出

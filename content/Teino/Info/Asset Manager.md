@@ -1,9 +1,10 @@
 ---
+title: "Asset Manager"
 tags:
  - Info
 ---
 
-date:: [2022-07-15](Daily_Note/2022-07-15.md)
+date: 2024-12-20T14:07:11+09:00
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [Asset Management | Unreal Engine ドキュメント](https://docs.unrealengine.com/4.27/ja/ProductionPipelines/AssetManagement/)
 source:: [UE4 アセットマネージメントフレームワークについて - Let's Enjoy Unreal Engine](https://unrealengine.hatenablog.com/entry/2017/08/24/235153)

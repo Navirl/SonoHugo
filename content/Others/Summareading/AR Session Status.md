@@ -1,4 +1,6 @@
 ---
+date: 2024-12-20T14:03:59+09:00
+title: "AR Session Status"
 uid: 20220620141651
 tags:
  - App/UnrealEngine
