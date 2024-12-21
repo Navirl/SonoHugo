@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:14+09:00
 title: "ps 文字列と変数"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:04+09:00
+daily:: [2023-06-28](/Daily_Note/2023-06-28.md)
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 `$()`で囲む。これ自体は文字列内でコマンドを実行するための記法。

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:40+09:00
 title: "Rust Cargo"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:32+09:00
+daily:: [2023-03-07](/Daily_Note/2023-03-07.md)
 up:: [Rust](../Bar/Program/Rust.md)
 
 パッケージマネージャ―。依存関係をtomlファイルにまとめることで簡単に解決してくれる。

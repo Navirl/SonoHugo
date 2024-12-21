@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:35+09:00
 title: "Touhou_Project"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: "#Touhou_Project"
 ---
 
-date: 2024-12-20T14:05:31+09:00
+daily:: [2022-08-10](Daily_Note/2022-08-10.md)
 up::
 
 

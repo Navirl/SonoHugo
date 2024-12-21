@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:03+09:00
 title: "Retrieval-based-Voice-Conversion-WebUI"
 tags:
   - Bar
@@ -6,7 +7,7 @@ aliases:
   - RVC
 ---
 
-date: 2024-12-20T14:04:32+09:00
+daily:: [2024-10-21](Daily_Note/2024-10-21.md)
 up:: 
 
 ## Retrieval-based-Voice-Conversion-WebUI

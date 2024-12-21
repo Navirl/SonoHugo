@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:38+09:00
 title: "Gherkin"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:05:34+09:00
+daily:: [2024-08-10](Daily_Note/2024-08-10.md)
 up:: [Programming](Programming.md)
 
 [Gherkin記法はじめました #テスト - Qiita](https://qiita.com/jyoppomu/items/8f9f8980c8364dc50909)

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:19:23+09:00
 title: "sd highspeed"
 tags:
   - Info
@@ -6,7 +7,7 @@ aliases:
   - sd 高速化
 ---
 
-date: 2024-12-20T14:08:11+09:00
+daily:: [2024-04-04](/Daily_Note/2024-04-04.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 ステップ数を下げる奴は早いうちに方向性を決定する+プロンプトを指定できない→方向性が決まっており多様性が失われがち。

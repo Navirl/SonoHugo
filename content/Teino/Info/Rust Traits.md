@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:42+09:00
 title: "Rust Traits"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:34+09:00
+daily:: [2023-03-11](/Daily_Note/2023-03-11.md)
 up:: [Rust](../Bar/Program/Rust.md)
 
 [interface](インターフェース.md)

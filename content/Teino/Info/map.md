@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:09+09:00
 title: "map"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:59+09:00
+daily:: [2022-07-28](Daily_Note/2022-07-28.md)
 up:: [Google Apps Script](../Bar/Program/Google%20Apps%20Script.md)
 source:: [【GAS入門】Arrayオブジェクトのmapメソッドの使い方｜もりさんのプログラミング手帳](https://moripro.net/gas-array-map/)
 

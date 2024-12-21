@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:26+09:00
 title: "sdwebui docker"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:14+09:00
+daily:: [2023-04-15](/Daily_Note/2023-04-15.md)
 up:: [Docker](../Bar/App/Docker.md)
 up:: [AI_local](../Bar/AI/AI_local.md)
 up:: [stable-diffusion-webui](../Bar/App/stable-diffusion-webui.md)

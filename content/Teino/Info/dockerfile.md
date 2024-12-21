@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:02+09:00
 title: "dockerfile"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:53+09:00
+daily:: [2023-04-15](/Daily_Note/2023-04-15.md)
 up:: [Docker](../Bar/App/Docker.md)
 
 これ見ながら書いてる。

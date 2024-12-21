@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:04:02+09:00
+date: 2024-12-21T15:13:50+09:00
 title: "Processing fstab with mount -a failed."
 uid: 20220614210840
 tags:

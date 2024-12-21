@@ -1,6 +1,6 @@
 ---
 title: "Daicer ImageVault"
-date: 2024-12-20T14:07:15+09:00
+date: 2024-12-21T15:18:22+09:00
 ---
 ImageVault
 ```mermaid

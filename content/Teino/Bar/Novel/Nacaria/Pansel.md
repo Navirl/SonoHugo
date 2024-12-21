@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:02+09:00
 title: "Pansel"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:05:00+09:00
+daily:: [2022-07-08](Daily_Note/2022-07-08.md)
 up:: [Biscarnya](Biscarnya.md)
 
 感謝。

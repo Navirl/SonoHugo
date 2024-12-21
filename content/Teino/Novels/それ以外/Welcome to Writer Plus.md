@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Writer Plus"
-date: 2024-12-20T14:12:49+09:00
+date: 2024-12-21T15:24:41+09:00
 ---
 # Writer Plus
 Welcome to Writer Plus! This file will guide you through some of Writer Plus's features, and give you an introduction to the philosophy behind it.

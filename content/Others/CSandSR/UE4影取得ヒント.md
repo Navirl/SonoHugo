@@ -1,6 +1,6 @@
 ---
 title: "UE4影取得ヒント"
-date: 2024-12-20T14:03:32+09:00
+date: 2024-12-21T15:12:45+09:00
 ---
 ## UE4影取得ヒント
 [Are Shadow Maps Locked Down in UE4?? - Rendering - Unreal Engine Forums](https://forums.unrealengine.com/t/are-shadow-maps-locked-down-in-ue4/152699)

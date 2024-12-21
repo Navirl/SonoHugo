@@ -1,9 +1,7 @@
 ---
 title: "ScriptableObject"
-date: 2024-12-20T14:03:57+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:13:37+09:00
+tags: App/Unity
 ---
 
 # Scriptable Object

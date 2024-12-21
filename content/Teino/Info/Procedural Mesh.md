@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:36+09:00
 title: "Procedural Mesh"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:29+09:00
+daily:: [2022-07-17](Daily_Note/2022-07-17.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [ProceduralMeshComponentを使ってみる - もんしょの巣穴ブログ Ver2.0](https://monsho.hatenablog.com/entry/2015/06/20/010747)
 

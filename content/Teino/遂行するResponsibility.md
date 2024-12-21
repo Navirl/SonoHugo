@@ -1,6 +1,6 @@
 ---
 title: "遂行するResponsibility"
-date: 2024-12-20T14:16:40+09:00
+date: 2024-12-21T15:29:40+09:00
 ---
 やり直し、最後まで遂行するResponsibility
 処分を受け入れAccountability

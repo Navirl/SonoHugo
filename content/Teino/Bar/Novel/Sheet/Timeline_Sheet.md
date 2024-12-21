@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:13+09:00
 title: "Timeline_Sheet"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date: 2024-12-20T14:05:10+09:00
+daily:: [2022-08-09](Daily_Note/2022-08-09.md)
 up::
 
 from:: StoryPlotter

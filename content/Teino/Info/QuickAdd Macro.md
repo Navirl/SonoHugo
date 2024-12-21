@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:38+09:00
 title: "QuickAdd Macro"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:30+09:00
+daily:: [2023-03-19](/Daily_Note/2023-03-19.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 dataviewで取ったリストを上から読み取り、.trashに送る

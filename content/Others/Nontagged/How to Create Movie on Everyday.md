@@ -1,6 +1,6 @@
 ---
 title: "How to Create Movie on Everyday"
-date: 2024-12-20T14:03:41+09:00
+date: 2024-12-21T15:13:05+09:00
 ---
 #Learning
 

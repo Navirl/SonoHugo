@@ -1,6 +1,6 @@
 ---
 title: "FastStart-Plugins-LongDelay"
-date: 2024-12-20T14:16:44+09:00
+date: 2024-12-21T15:29:45+09:00
 ---
 dataview
 obsidian-auto-link-title

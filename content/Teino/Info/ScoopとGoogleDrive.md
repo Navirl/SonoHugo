@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:44+09:00
 title: "ScoopとGoogleDrive"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:36+09:00
+daily:: [2022-09-14](Daily_Note/2022-09-14.md)
 up:: [Scoop](../Bar/App/Scoop.md)
 source:: [Download big file from Google Drive with PowerShell · GitHub](https://gist.github.com/RGPaul/f1a306097d46a69a09c25ca34b79a804)
 source:: [Trying to download Google Drive file in powershell using Invoke-webrequest just gets the HTML for the "we can't scan this for viruses" page. : PowerShell](https://www.reddit.com/r/PowerShell/comments/phkr76/trying_to_download_google_drive_file_in/)

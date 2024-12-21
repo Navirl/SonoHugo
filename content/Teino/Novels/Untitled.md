@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-date: 2024-12-20T14:12:48+09:00
+date: 2024-12-21T15:24:40+09:00
 ---
 [作品の本質を掘り起こすための4つのポイント - GIGAZINE](https://gigazine.net/news/20241008-works-aboutness/)
 

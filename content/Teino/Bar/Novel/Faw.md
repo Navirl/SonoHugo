@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:41+09:00
 title: "Faw"
 banner: "![[../../image/00000-3759171700 (2).png]]"
 ---
@@ -13,7 +14,7 @@ aliases:
   - ファウ
 ---
 
-date: 2024-12-20T14:04:46+09:00
+daily:: [2023-05-07](Daily_Note/2023-05-07.md)
 up:: [Me](Chaos/Me.md)
 up:: [Tavern_Me](../../Info/Tavern_Me.md)
 same:: [Seika](Seika.md)

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:17+09:00
 title: "Composure"
 tags:
  - Bar
@@ -6,5 +7,5 @@ tags:
 aliases: 余裕
 ---
 
-date: 2024-12-20T14:05:13+09:00
+daily:: [2022-11-14](Daily_Note/2022-11-14.md)
 up::

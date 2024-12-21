@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:00+09:00
 title: "Mitsuki_Nagachi"
 tags:
  - Bar
@@ -10,7 +11,7 @@ aliases:
 ---
 
 
-date: 2024-12-20T14:04:58+09:00
+daily:: [2022-08-04](Daily_Note/2022-08-04.md)
 up:: [Ive](Ive.md)
 same:: [5_People](5_People.md)
 

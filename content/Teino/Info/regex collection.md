@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:19+09:00
 title: "regex collection"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:09+09:00
+daily:: [2024-03-12](/Daily_Note/2024-03-12.md)
 up:: [regex](../Bar/Program/Reguler%20Expression.md)
 
 ## ""の中のエスケープ無し"に一致

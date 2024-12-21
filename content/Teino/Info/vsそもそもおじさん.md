@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:31+09:00
 title: "vsそもそもおじさん"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:19+09:00
+daily:: [2022-07-01](Daily_Note/2022-07-01.md)
 up:: [../Bar/Summareading](../Bar/Summareading.md)
 up:: [Component](../Bar/Novel/Chaos/Component.md)
 source:: [｢これやる意味あるの?｣会議でなぜか自己主張を始める"そもそもオジサン"を黙らせる必殺のひとこと ポイントは｢衝突しない｣｢説き伏せない｣｢相手に言わせる｣ | PRESIDENT Online（プレジデントオンライン）](https://president.jp/articles/-/59117)

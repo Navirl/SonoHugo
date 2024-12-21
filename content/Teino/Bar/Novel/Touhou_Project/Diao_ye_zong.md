@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:31+09:00
 title: "Diao_ye_zong"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
 aliases: 凋叶棕
 ---
 
-date: 2024-12-20T14:05:28+09:00
+daily:: [2022-08-02](Daily_Note/2022-08-02.md)
 up::
 
 

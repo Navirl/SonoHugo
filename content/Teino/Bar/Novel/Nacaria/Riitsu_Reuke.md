@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:02+09:00
 title: "Riitsu_Reuke"
 tags:
  - Bar
@@ -10,6 +11,6 @@ aliases:
  - Leurie
 ---
 
-date: 2024-12-20T14:05:01+09:00
+daily:: [2022-11-14](Daily_Note/2022-11-14.md)
 up:: [Fourcia](Fourcia.md)
 

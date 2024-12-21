@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:17:07+09:00
+date: 2024-12-21T15:30:16+09:00
 title: "Mindmap"
 
 mindmap-plugin: basic

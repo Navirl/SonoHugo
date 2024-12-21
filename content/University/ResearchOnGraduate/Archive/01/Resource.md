@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:17:00+09:00
+date: 2024-12-21T15:30:06+09:00
 title: "Resource"
 date created: Saturday, December 18th 2021, 10:41:15 am
 date modified: Saturday, April 16th 2022, 1:31:11 pm

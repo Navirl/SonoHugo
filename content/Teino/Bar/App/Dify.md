@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:14:55+09:00
 title: "Dify"
 tags:
   - Bar
   - App
 ---
 
-date: 2024-12-20T14:04:30+09:00
+daily:: [2024-07-12](/Daily_Note/2024-07-12.md)
 up:: [AI_local](../AI/AI_local.md)
 up:: [AI_online](../AI/AI_online.md)
 

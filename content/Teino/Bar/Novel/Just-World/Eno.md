@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:42+09:00
 title: "Eno"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Character
 ---
 
-date: 2024-12-20T14:04:46+09:00
+daily:: [2022-08-08](Daily_Note/2022-08-08.md)
 up::
 
 

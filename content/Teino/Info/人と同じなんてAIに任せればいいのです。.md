@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:21:25+09:00
 title: "人と同じなんてAIに任せればいいのです。"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:10:03+09:00
+daily:: [2023-04-09](/Daily_Note/2023-04-09.md)
 up:: [Android](Bar/Novel/Topics/Android.md)
 
 人と同じなんてAIに任せればいいのです。

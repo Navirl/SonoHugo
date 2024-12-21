@@ -1,6 +1,6 @@
 ---
 title: "Player.rider"
-date: 2024-12-20T14:17:05+09:00
+date: 2024-12-21T15:30:13+09:00
 ---
 ﻿```plantuml
 @startuml

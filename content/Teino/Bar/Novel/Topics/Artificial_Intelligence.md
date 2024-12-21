@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:15+09:00
 title: "Artificial_Intelligence"
 tags:
   - Bar
@@ -6,7 +7,7 @@ tags:
 aliases: []
 ---
 
-date: 2024-12-20T14:05:12+09:00
+daily:: [2023-06-29](Daily_Note/2023-06-29.md)
 up:: [Android](Android.md)
 
 こちらはノベルのトピック。

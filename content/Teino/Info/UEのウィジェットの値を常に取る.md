@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:55+09:00
 title: "UEのウィジェットの値を常に取る"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:46+09:00
+daily:: [2022-09-21](Daily_Note/2022-09-21.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [プロパティのバインディング | Unreal Engine ドキュメント](https://docs.unrealengine.com/4.26/ja/InteractiveExperiences/UMG/UserGuide/PropertyBinding/)
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:30+09:00
 title: "ts yaml-front-matter"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:18+09:00
+daily:: [2024-02-17](/Daily_Note/2024-02-17.md)
 up:: [ts](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 markdownからyamlを簡単に読み込めるライブラリ。最終更新2019。

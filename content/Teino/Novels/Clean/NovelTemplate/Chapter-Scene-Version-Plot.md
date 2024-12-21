@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:24:37+09:00
 title: "Chapter-Scene-Version-Plot"
 tags:
  - Novel/Plot
 ---
 
-date: 2024-12-20T14:12:46+09:00
+daily:: [2022-07-30](Daily_Note/2022-07-30.md)
 up:: [Plot_Sheet](../../../Bar/Novel/Sheet/Plot_Sheet.md)
 from:: Save_the_cat
 

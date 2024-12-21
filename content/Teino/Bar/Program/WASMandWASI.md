@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:41+09:00
 title: "WASMandWASI"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:05:37+09:00
+daily:: [2023-04-26](Daily_Note/2023-04-26.md)
 up:: [Programming](Programming.md)
 
 ## wasm

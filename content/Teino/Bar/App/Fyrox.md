@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:14:57+09:00
 title: "Fyrox"
 tags:
  - Bar
  - App
 ---
 
-date: 2024-12-20T14:04:30+09:00
+daily:: [2023-03-15](Daily_Note/2023-03-15.md)
 up:: [Rust](../Program/Rust.md)
 
 rustで作られたゲームエンジン。元は3D専用だが2Dもできる。

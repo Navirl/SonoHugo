@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:57+09:00
 title: "Kanakuro_Boushi"
 tags:
  - Bar
@@ -12,7 +13,7 @@ aliases:
  - Enon_Nomika
 ---
 
-date: 2024-12-20T14:04:56+09:00
+daily:: [2022-07-06](Daily_Note/2022-07-06.md)
 up:: [Biscarnya](Biscarnya.md)
 down:: [Knock-off](../Topics/Knock-off.md)
 

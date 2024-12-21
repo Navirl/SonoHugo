@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:14:55+09:00
 title: "Docker"
 tags:
  - Bar
  - App
 ---
 
-date: 2024-12-20T14:04:30+09:00
+daily:: [2021-10-16](/Daily_Note/2021-10-16.md)
 up::
 
 ## docker run

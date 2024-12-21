@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:19:31+09:00
 title: "value分類"
 tags:
  - Info
 aliases: lvalueとrvalue
 ---
 
-date: 2024-12-20T14:08:19+09:00
+daily:: [2022-08-04](Daily_Note/2022-08-04.md)
 up:: [Cpp](../Bar/Program/Cpp.md)
 source:: [右辺値参照・ムーブセマンティクス - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/lang/cpp11/rvalue_ref_and_move_semantics.html)
 source:: [Value categories - cppreference.com](https://en.cppreference.com/w/cpp/language/value_category)

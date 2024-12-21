@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:29+09:00
 title: "Violence"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
 aliases: 暴力
 ---
 
-date: 2024-12-20T14:05:25+09:00
+daily:: [2022-09-03](Daily_Note/2022-09-03.md)
 up::
 
 

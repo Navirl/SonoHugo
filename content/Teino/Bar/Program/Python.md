@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:40+09:00
 title: "Python"
 tags:
  - Bar
 aliases: py
 ---
 
-date: 2024-12-20T14:05:36+09:00
+daily:: [2021-10-20](/Daily_Note/2021-10-20.md)
 up:: [Programming](Programming.md)
 
 [py pyenv](../../Info/py%20pyenv.md)

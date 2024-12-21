@@ -1,6 +1,6 @@
 ---
 title: "Anki vs Neuracache"
-date: 2024-12-20T14:03:40+09:00
+date: 2024-12-21T15:13:02+09:00
 ---
 #Public/Post
 

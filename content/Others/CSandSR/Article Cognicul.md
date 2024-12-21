@@ -1,6 +1,6 @@
 ---
 title: "Article Cognicul"
-date: 2024-12-20T14:03:21+09:00
+date: 2024-12-21T15:12:05+09:00
 ---
 #Article
 

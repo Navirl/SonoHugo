@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:34+09:00
 title: "Satori_Komeiji"
 tags:
  - Bar
@@ -8,7 +9,7 @@ aliases:
  - 古明地さとり
 ---
 
-date: 2024-12-20T14:05:30+09:00
+daily:: [2022-10-15](Daily_Note/2022-10-15.md)
 up:: [SA](Subterranean_Animism.md)
 up:: [Bedman_like](../Topics/Bedman_like.md)
 

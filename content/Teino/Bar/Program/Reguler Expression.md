@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:40+09:00
 title: "Reguler Expression"
 tags:
   - Bar
@@ -6,7 +7,7 @@ aliases:
   - regex
 ---
 
-date: 2024-12-20T14:05:36+09:00
+daily:: [2024-03-12](Daily_Note/2024-03-12.md)
 up:: [Programming](Bar/Program/Programming.md)
 
 正規表現。
@@ -31,6 +32,8 @@ up:: [Programming](Bar/Program/Programming.md)
 (?=regex)
 
 [こんどこそわかる(肯|否)定(先|後)読み - Qiita](https://qiita.com/tohta/items/2ba7ecde5636b38ef1f6)
+
+長さは固定でないといけない。
 
 ## 選択肢の中から任意の文字列
 `(strings|strings)`。`[]`だと一文字しか入れられないが、キャプチャグループなら塊として認識する。

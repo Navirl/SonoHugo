@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:00+09:00
 title: "Nagina_Susugo"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Character
 ---
 
-date: 2024-12-20T14:04:59+09:00
+daily:: [2022-09-03](Daily_Note/2022-09-03.md)
 up:: [Cricia](Cricia.md)
 
 すすごなぎな。扉名と仲良しなお姉さん。201cm。

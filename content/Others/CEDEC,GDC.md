@@ -1,6 +1,6 @@
 ---
 title: "CEDEC,GDC"
-date: 2024-12-20T14:03:20+09:00
+date: 2024-12-21T15:12:01+09:00
 tags:
  - Learning
 ---

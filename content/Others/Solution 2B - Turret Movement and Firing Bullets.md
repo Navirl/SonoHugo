@@ -1,9 +1,7 @@
 ---
 title: "Solution 2B - Turret Movement and Firing Bullets"
-date: 2024-12-20T14:03:57+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:13:40+09:00
+tags: App/Unity
 ---
 
 ## 出来てなかったこと

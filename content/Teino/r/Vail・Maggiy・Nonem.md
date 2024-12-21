@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:15:53+09:00
+date: 2024-12-21T15:28:36+09:00
 title: "Vail・Maggiy・Nonem"
 address: 
 species:

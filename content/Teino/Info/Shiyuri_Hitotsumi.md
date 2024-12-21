@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:18:45+09:00
 title: "Shiyuri_Hitotsumi"
 tags:
   - Bar
@@ -7,7 +8,7 @@ aliases:
   - 一巳朱璃
 ---
 
-date: 2024-12-20T14:07:36+09:00
+daily:: [2024-04-09](Daily_Note/2024-04-09.md)
 up::
 
 知識トラップを作った張本人。

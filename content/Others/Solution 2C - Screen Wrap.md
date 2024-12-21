@@ -1,9 +1,7 @@
 ---
 title: "Solution 2C - Screen Wrap"
-date: 2024-12-20T14:03:58+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:13:40+09:00
+tags: App/Unity
 ---
 
 - コンポーネントが必須のscriptには、RequireComponentをつける。

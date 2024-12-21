@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:38+09:00
 title: "Future_Experience"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
 aliases: 未来体験
 ---
 
-date: 2024-12-20T14:04:44+09:00
+daily:: [2022-06-15](../../../Daily_Note/2022-06-15.md)
 up:: [Component](Component.md)
 
 未来体験

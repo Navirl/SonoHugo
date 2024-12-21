@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:17+09:00
 title: "AutoGPT"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:07:11+09:00
+daily:: [2023-05-28](Daily_Note/2023-05-28.md)
 up:: [AI_local](../Bar/AI/AI_local.md)
 
 

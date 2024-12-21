@@ -1,9 +1,7 @@
 ---
 title: "Unity2Dでの当たり判定付きベジェ曲線"
-date: 2024-12-20T14:04:10+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:14:07+09:00
+tags: App/Unity
 ---
 
 [UCSheet](CS_and_SR/Unity%20Cheat%20Sheet.md)

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:37+09:00
 title: "Pygmalion"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:29+09:00
+daily:: [2023-05-03](/Daily_Note/2023-05-03.md)
 up:: [text-generation-webui](../Bar/App/text-generation-webui.md)
 
 

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:51+09:00
 title: "Cricia_People"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:51+09:00
+daily:: [2022-07-24](Daily_Note/2022-07-24.md)
 up:: [Cricia](Cricia.md)
 
 

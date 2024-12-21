@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:17+09:00
 title: "Architecture"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:11+09:00
+daily:: [2023-03-30](/Daily_Note/2023-03-30.md)
 up:: [Programming](../Bar/Program/Programming.md)
 
 設計は仕様変更に対して変更箇所を定めるための道具である。

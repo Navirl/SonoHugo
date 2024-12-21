@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:17+09:00
 title: "py poetry"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:07+09:00
+daily:: [2024-09-08](/Daily_Note/2024-09-08.md)
 up:: [py](../Bar/Program/Python.md)
 
 仮想環境でパッケージ管理までやるツール。

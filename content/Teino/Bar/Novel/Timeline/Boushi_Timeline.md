@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:13+09:00
 title: "Boushi_Timeline"
 tags:
  - Info
  - Timeline
 ---
 
-date: 2024-12-20T14:05:10+09:00
+daily:: [2022-10-23](Daily_Note/2022-10-23.md)
 up:: [Kanakuro_Boushi](../Nacaria/Kanakuro_Boushi.md)
 up:: [Timeline_Sheet](../Sheet/Timeline_Sheet.md)
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:34+09:00
 title: "Ob Markdown Publish"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:26+09:00
+daily:: [2023-04-01](/Daily_Note/2023-04-01.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 ## mdbook

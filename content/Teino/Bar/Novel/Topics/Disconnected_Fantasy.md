@@ -1,9 +1,10 @@
 ---
+date: 2024-12-21T15:16:18+09:00
 title: "Disconnected_Fantasy"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:14+09:00
+daily:: [2023-06-20](Daily_Note/2023-06-20.md)
 up::

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:19+09:00
 title: "Blueprint Diff"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:12+09:00
+daily:: [2022-08-14](Daily_Note/2022-08-14.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [QUICK DEV TIP #40 UE4 / UE5 - Diffing Blueprints — CBgameDev](https://www.cbgamedev.com/blog/quick-dev-tip-40-ue4-diffing-blueprints)
 

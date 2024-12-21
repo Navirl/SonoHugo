@@ -1,6 +1,6 @@
 ---
 title: "ObsidianToAnkiExample"
-date: 2024-12-20T14:03:54+09:00
+date: 2024-12-21T15:13:33+09:00
 ---
 FILE TAGS: Japanese System
 TARGET DECK: Language

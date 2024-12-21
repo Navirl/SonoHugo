@@ -1,6 +1,6 @@
 ---
 title: "FastStart-StartupScript"
-date: 2024-12-20T14:16:44+09:00
+date: 2024-12-21T15:29:46+09:00
 ---
 <%*
 fastStart = async (filename, delayInSecond) => {

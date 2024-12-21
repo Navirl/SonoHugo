@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:33+09:00
 title: "Reimu_Hakurei"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Touhou_Project
 ---
 
-date: 2024-12-20T14:05:30+09:00
+daily:: [2022-08-19](Daily_Note/2022-08-19.md)
 up::
 
 

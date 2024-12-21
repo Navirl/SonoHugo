@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:20+09:00
 title: "sd LoRA 学習"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:09+09:00
+daily:: [2024-05-23](/Daily_Note/2024-05-23.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 ## LoRA

@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:28:31+09:00
 title: "defaultTimeline"
 tags:
  - Info
  - Timeline
 ---
 
-date: 2024-12-20T14:15:49+09:00
+daily:: [{{date:yyyy-MM-DD}}](/Daily_Note/{{date:yyyy-MM-DD}}.md)
 up:: [Timeline_Sheet](../Bar/Novel/Sheet/Timeline_Sheet.md)
 up::
 

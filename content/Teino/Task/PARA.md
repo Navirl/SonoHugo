@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:28:29+09:00
 title: "PARA"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:15:47+09:00
+daily:: [2023-03-07](/Daily_Note/2023-03-07.md)
 up:: [Summareading](Bar/Summareading.md)
 
 Project

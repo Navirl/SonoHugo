@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:11+09:00
 title: "Keyword_Sheet"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date: 2024-12-20T14:05:08+09:00
+daily:: [2023-05-03](Daily_Note/2023-05-03.md)
 up:: [[../../App/Tavern]]
 
 from:: Tavern

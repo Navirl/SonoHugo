@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:19:13+09:00
 title: "ps シンボリックリンク"
 tags:
  - Info
 aliases: Symbolic_Link
 ---
 
-date: 2024-12-20T14:08:03+09:00
+daily:: [2022-09-14](Daily_Note/2022-09-14.md)
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 cmd:`mklink /D path target`

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:07+09:00
 title: "letとvar"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:57+09:00
+daily:: [2022-11-02](Daily_Note/2022-11-02.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 source:: [letとvarの違い - Qiita](https://qiita.com/y-temp4/items/289686fbdde896d22b5e)
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:21+09:00
 title: "Cpp property"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:14+09:00
+daily:: [2023-03-02](/Daily_Note/2023-03-02.md)
 up:: [Cpp](../Bar/Program/Cpp.md)
 
 Csharpにあるaccessor機能をcppで！

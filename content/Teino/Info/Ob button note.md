@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:35+09:00
 title: "Ob button note"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:27+09:00
+daily:: [2023-02-16](/Daily_Note/2023-02-16.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 目的：

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:09+09:00
 title: "Ultia"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:05:06+09:00
+daily:: [2022-08-10](Daily_Note/2022-08-10.md)
 up:: [Nacarea](Nacarea.md)
 
 

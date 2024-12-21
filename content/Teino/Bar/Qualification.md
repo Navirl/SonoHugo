@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:41+09:00
 title: "Qualification"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:05:37+09:00
+daily:: [2023-10-21](Daily_Note/2023-10-21.md)
 up::
 
 

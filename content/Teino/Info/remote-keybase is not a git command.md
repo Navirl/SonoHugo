@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:19+09:00
 title: "remote-keybase is not a git command"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:09+09:00
+daily:: [2022-10-28](Daily_Note/2022-10-28.md)
 up:: [Termux](../Bar/App/Termux.md)
 up:: [Keybase](../Bar/App/Keybase.md)
 source:: [git: 'remote-keybase' is not a git command · Issue #15176 · keybase/client · GitHub](https://github.com/keybase/client/issues/15176)

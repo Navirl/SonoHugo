@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:40+09:00
 title: "Requests made"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:31+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up:: [Component](../Bar/Novel/Chaos/Component.md)
 
 Requests made using this service originate from a set pool of IP ranges.

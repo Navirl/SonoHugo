@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:20+09:00
 title: "Gear"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:16+09:00
+daily:: [2022-10-29](Daily_Note/2022-10-29.md)
 up::
 
 

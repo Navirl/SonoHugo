@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:19+09:00
 title: "text-generation-webui"
 tags:
  - Bar
@@ -8,7 +9,7 @@ aliases:
  - tgwebui
 ---
 
-date: 2024-12-20T14:04:37+09:00
+daily:: [2023-05-08](/Daily_Note/2023-05-08.md)
 up:: [Docker](Docker.md)
 up:: [GAI](../AI/AI_local.md)
 up:: [AIt](../AI/AI_text.md)

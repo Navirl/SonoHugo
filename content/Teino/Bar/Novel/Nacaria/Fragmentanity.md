@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:53+09:00
 title: "Fragmentanity"
 tags:
  - Bar
@@ -10,5 +11,5 @@ aliases:
  - DankeiTanpou
 ---
 
-date: 2024-12-20T14:04:52+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up:: [Sist](Sist.md)

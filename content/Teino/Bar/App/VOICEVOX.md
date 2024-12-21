@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:15:10+09:00
 title: "VOICEVOX"
 tags:
   - Bar
   - App
 ---
 
-date: 2024-12-20T14:04:34+09:00
+daily:: [2023-10-17](/Daily_Note/2023-10-17.md)
 up::
 
 実は起動中ずっとHttpサーバーが起動している音声合成ソフト。
@@ -51,3 +52,7 @@ curlやpythonからrequestsでも呼べる。
                     with open(filepath, "wb") as f:
                         f.write(response2.content)
 ```
+
+- 喘ぎを作るなら前後に余計な音を入れて長さを0にするとそれっぽい
+	- 息を吸わせたいなら「あ」とかを一番後ろに入れて長めにとる
+	- かすれた「あ」は一番初めに入れて短めにすればいい

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:01+09:00
 title: "Narana_Tsunohashi"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 角端楢名
 ---
 
-date: 2024-12-20T14:05:00+09:00
+daily:: [2022-07-11](Daily_Note/2022-07-11.md)
 up:: [Takame_Hakkaido](Takame_Hakkaido.md)
 up:: [Narana_Tsunohashi_Edu](Narana_Tsunohashi_Edu.md)
 
@@ -188,6 +189,7 @@ source:: [零雨（れいう）の意味 - goo国語辞書](https://dictionary.g
 
 アナログ、アナログ、混ぜ合わせっ
 見たことがあるっ、新しーものっ
+組合せ
 
 人間、変化しか気づかんもんさ。
 生きてるだけじゃ生きてるってわかんないぜ？

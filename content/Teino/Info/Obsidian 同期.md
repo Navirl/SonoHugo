@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:35+09:00
 title: "Obsidian 同期"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:27+09:00
+daily:: [2023-03-06](/Daily_Note/2023-03-06.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 ## Obsidian Win、iOS、Androidで同期

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:01+09:00
 title: "doPost"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:52+09:00
+daily:: [2022-10-17](Daily_Note/2022-10-17.md)
 up:: [GAS](../Bar/Program/Google%20Apps%20Script.md)
 source:: [GASでwebアプリの作成とパラメータの確認方法(doGet、doPost) | BREEZE](https://breezegroup.co.jp/201906/gas-get/)
 

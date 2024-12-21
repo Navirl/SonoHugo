@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:23+09:00
 title: "sd iopaint"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:11+09:00
+daily:: [2024-06-04](/Daily_Note/2024-06-04.md)
 up:: [sd](../Bar/Stable%20Diffusion.md)
 
 所謂ローカル消しゴムマジック。pythonとgitで動く。

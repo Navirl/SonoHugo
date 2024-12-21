@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:15+09:00
 title: "AIl local textchatbot"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:08+09:00
+daily:: [2023-04-10](/Daily_Note/2023-04-10.md)
 up:: [Docker](../Bar/App/Docker.md)
 up:: [AIl](../Bar/AI/AI_local.md)
 up:: [AIt](../Bar/AI/AI_text.md)

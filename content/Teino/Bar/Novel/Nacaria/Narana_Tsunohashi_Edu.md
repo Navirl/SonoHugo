@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:01+09:00
 title: "Narana_Tsunohashi_Edu"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria/School
 ---
 
-date: 2024-12-20T14:05:00+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up:: [Novel/Topics/Education](Novel/Topics/Education.md)
 
 

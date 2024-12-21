@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:32+09:00
 title: "Embodiment_of_Scarlet_Devil"
 tags:
  - Bar
@@ -9,4 +10,4 @@ aliases:
  - EoSD
 ---
 
-date: 2024-12-20T14:05:28+09:00
+daily:: [2023-06-29](Daily_Note/2023-06-29.md)

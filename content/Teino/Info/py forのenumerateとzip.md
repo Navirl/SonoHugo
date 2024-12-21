@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:15+09:00
 title: "py forのenumerateとzip"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:05+09:00
+daily:: [2022-08-02](Daily_Note/2022-08-02.md)
 up:: [Python](../Bar/Program/Python.md)
 source:: [Pythonのfor文によるループ処理（range, enumerate, zipなど） | note.nkmk.me](https://note.nkmk.me/python-for-usage/)
 

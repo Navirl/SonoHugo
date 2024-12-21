@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:15:09+09:00
 title: "Unity"
 tags:
  - Bar
  - App
 ---
 
-date: 2024-12-20T14:04:34+09:00
+daily:: [2021-08-03](/Daily_Note/2021-08-03.md)
 up:: [Programming](../Program/Programming.md)
 
 [猫本](../猫本.md)

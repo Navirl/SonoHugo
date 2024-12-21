@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:23+09:00
 title: "Danbooruをxmpメタデータ付きでダウンロード"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:16+09:00
+daily:: [2022-08-11](Daily_Note/2022-08-11.md)
 up:: [Organize_Image](Bar/Organize_Image.md)
 source:: [Embedding image tags as actual Windows "tag" metadata · Issue #2258 · Bionus/imgbrd-grabber · GitHub](https://github.com/Bionus/imgbrd-grabber/issues/2258)
 source:: [Imgbrd-Grabber - Booru browsing made easy](https://bionus.github.io/imgbrd-grabber/docs/metadata.html)

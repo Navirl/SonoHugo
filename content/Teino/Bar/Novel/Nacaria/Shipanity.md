@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:05+09:00
 title: "Shipanity"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 艇教
 ---
 
-date: 2024-12-20T14:05:04+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up:: [Sist](Sist.md)
 
 ナカリアそのものを楽園へ向かう船として奉る宗教。

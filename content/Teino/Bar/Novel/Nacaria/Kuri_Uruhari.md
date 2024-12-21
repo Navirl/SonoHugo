@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:59+09:00
 title: "Kuri_Uruhari"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 閏閖闑
 ---
 
-date: 2024-12-20T14:04:57+09:00
+daily:: [2022-12-16](/Daily_Note/2022-12-16.md)
 up:: [Ayama](Ayama.md)
 up:: [Narana_Tsunohashi](Narana_Tsunohashi.md)
 

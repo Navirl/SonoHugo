@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:27+09:00
 title: "GPT-3.5TurboのDANが生成したレイマリ"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:20+09:00
+daily:: [2023-05-03](/Daily_Note/2023-05-03.md)
 up:: [GPT-3.5Turbo](GPT-3.5Turbo.md)
 up:: [R18](../Bar/Novel/Topics/R18.md)
 

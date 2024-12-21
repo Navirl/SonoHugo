@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:56+09:00
 title: "Huo"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:55+09:00
+daily:: [2022-10-29](Daily_Note/2022-10-29.md)
 up:: [Cricia](Cricia.md)
 
 治安と正義の街。

@@ -1,6 +1,6 @@
 ---
 title: "oenpose"
-date: 2024-12-20T14:17:52+09:00
+date: 2024-12-21T15:31:19+09:00
 ---
 openpose stick human
 oshくん

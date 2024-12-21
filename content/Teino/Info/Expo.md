@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:25+09:00
 title: "Expo"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:18+09:00
+daily:: [2024-03-03](/Daily_Note/2024-03-03.md)
 up:: [React Native](../Bar/Framework/React%20Native.md)
 
 [Develop an app with Expo - Expo Documentation](https://docs.expo.dev/workflow/overview/)

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:29+09:00
 title: "ts asyncとawait"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:17+09:00
+daily:: [2023-02-03](/Daily_Note/2023-02-03.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 ## ts asyncとawait

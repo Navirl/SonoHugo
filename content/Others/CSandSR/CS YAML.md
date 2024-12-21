@@ -1,6 +1,6 @@
 ---
 title: "CS YAML"
-date: 2024-12-20T14:03:25+09:00
+date: 2024-12-21T15:12:20+09:00
 ---
 #Program/YAML
 #CheatSheet

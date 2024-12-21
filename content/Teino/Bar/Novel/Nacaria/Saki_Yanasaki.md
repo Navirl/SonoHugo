@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:03+09:00
 title: "Saki_Yanasaki"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 梁先茶樹
 ---
 
-date: 2024-12-20T14:05:02+09:00
+daily:: [2022-07-03](Daily_Note/2022-07-03.md)
 up:: [Character_Sheet](../Sheet/Character_Sheet.md)
 
 コンセプト

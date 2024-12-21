@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:54+09:00
 title: "Harsa"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: ハルサ
 ---
 
-date: 2024-12-20T14:04:52+09:00
+daily:: [2022-08-18](Daily_Note/2022-08-18.md)
 up:: [NoNames](../Chaos/NoNames.md)
 
 

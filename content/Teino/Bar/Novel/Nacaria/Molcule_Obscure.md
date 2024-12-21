@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:00+09:00
 title: "Molcule_Obscure"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: モルキュール・オブスキュア
 ---
 
-date: 2024-12-20T14:04:58+09:00
+daily:: [2023-06-29](/Daily_Note/2023-06-29.md)
 up:: [Seika](Bar/Novel/Seika.md)
 up:: [Hasumukai](Bar/Novel/Nacaria/Hasumukai.md)
 

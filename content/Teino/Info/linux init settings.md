@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:08+09:00
 title: "linux init settings"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:58+09:00
+daily:: [2024-02-13](/Daily_Note/2024-02-13.md)
 up:: [Linux](../Bar/Linux.md)
 ## ossetup  
 手動パーティション分けを選択、efiパーティションを選択して/boot/efiにする。  

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:44+09:00
 title: "3_People"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: Satori_People
 ---
 
-date: 2024-12-20T14:04:47+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up:: [Satori](Satori.md)
 
 

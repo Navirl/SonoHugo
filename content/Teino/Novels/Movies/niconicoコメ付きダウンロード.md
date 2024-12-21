@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:24:37+09:00
 title: "niconicoコメ付きダウンロード"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:12:46+09:00
+daily:: [2024-10-11](/Daily_Note/2024-10-11.md)
 up:: [Termux](../../Bar/App/Termux.md)
 up:: [Shellscript](../../Bar/Program/Shellscript.md)
 

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:04+09:00
 title: "Sarsh_People"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: サーシュの人々
 ---
 
-date: 2024-12-20T14:05:02+09:00
+daily:: [2022-07-01](../../../Daily_Note/2022-07-01.md)
 up:: [Sarsh](Sarsh.md)
 
 どことなくマジ物のマイナス。

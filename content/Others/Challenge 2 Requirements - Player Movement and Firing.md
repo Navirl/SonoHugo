@@ -1,9 +1,7 @@
 ---
 title: "Challenge 2 Requirements - Player Movement and Firing"
-date: 2024-12-20T14:03:36+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:12:54+09:00
+tags: App/Unity
 ---
 
 課題2 - プレーヤーの動きと射撃

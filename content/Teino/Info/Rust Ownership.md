@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:18:42+09:00
 title: "Rust Ownership"
 tags:
  - Info
 aliases: Rust 所有権
 ---
 
-date: 2024-12-20T14:07:34+09:00
+daily:: [2023-03-09](/Daily_Note/2023-03-09.md)
 up:: [Rust](../Bar/Program/Rust.md)
 
 日本語では所有権。

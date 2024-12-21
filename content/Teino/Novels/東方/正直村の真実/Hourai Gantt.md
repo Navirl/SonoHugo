@@ -1,6 +1,6 @@
 ---
 title: "Hourai Gantt"
-date: 2024-12-20T14:14:42+09:00
+date: 2024-12-21T15:26:56+09:00
 ---
 ```mermaid
 gantt

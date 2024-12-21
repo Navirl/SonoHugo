@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:51+09:00
 title: "UE Oculus設定"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:42+09:00
+daily:: [2022-10-04](Daily_Note/2022-10-04.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [Oculusの開発者登録　備忘録 - Qiita](https://qiita.com/nekoharuyuki/items/79c2c4fa6bf88d11b108)
 source:: [Site Unreachable](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/)

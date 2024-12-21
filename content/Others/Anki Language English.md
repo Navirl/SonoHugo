@@ -1,9 +1,8 @@
 ---
-date: 2024-12-20T14:03:20+09:00
+date: 2024-12-21T15:12:00+09:00
 title: "Anki Language English"
 cards-deck: English
-tags:
- - Anki/English
+tags: Anki/English
 ---
 
 [phrase | ニック式英会話 - Part 292](https://nic-english.com/phrase/page/292/)

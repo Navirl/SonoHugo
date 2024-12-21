@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:47+09:00
 title: "Akinaga"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 秋永
 ---
 
-date: 2024-12-20T14:04:48+09:00
+daily:: [2022-08-21](Daily_Note/2022-08-21.md)
 up:: [Cricia](Cricia.md)
 same:: [Harutsuki](Harutsuki.md)
 

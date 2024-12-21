@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:46+09:00
 title: "Steam EAゲームを起動"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:37+09:00
+daily:: [2023-03-23](/Daily_Note/2023-03-23.md)
 up:: [Game](Bar/Novel/Topics/Game.md)
 
 ゲーム直接じゃなくEAのランチャーの方をsteamに追加すればOK。

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:35+09:00
 title: "Manoki_Ogata"
 tags:
   - Bar
@@ -9,7 +10,7 @@ aliases:
   - マノ
 ---
 
-date: 2024-12-20T14:04:43+09:00
+daily:: [2024-03-24](Daily_Note/2024-03-24.md)
 up::
 same:: [[Miyari_Furumori]]
 

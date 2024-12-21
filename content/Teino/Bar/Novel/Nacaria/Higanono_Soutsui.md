@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:55+09:00
 title: "Higanono_Soutsui"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 比嘉野双終
 ---
 
-date: 2024-12-20T14:04:54+09:00
+daily:: [2022-10-30](Daily_Note/2022-10-30.md)
 up:: [Ive](Ive.md)
 up:: [Fushibi](Fushibi.md)
 down:: [Action](Action.md)

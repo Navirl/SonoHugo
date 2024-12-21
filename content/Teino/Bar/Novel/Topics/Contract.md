@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:17+09:00
 title: "Contract"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:14+09:00
+daily:: [2022-11-21](/Daily_Note/2022-11-21.md)
 up:: 
 

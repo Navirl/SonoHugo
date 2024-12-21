@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:17+09:00
 title: "Deadline_Syndrome"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:14+09:00
+daily:: [2022-11-23](Daily_Note/2022-11-23.md)
 up:: [Me](../Chaos/Me.md)
 up:: [Deal_with](Deal_with.md)
 

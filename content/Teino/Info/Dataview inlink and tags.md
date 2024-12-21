@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:24+09:00
 title: "Dataview inlink and tags"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:17+09:00
+daily:: [2022-07-01](Daily_Note/2022-07-01.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 source:: [Queries - Dataview](https://blacksmithgu.github.io/obsidian-dataview/query/queries/#from)
 source:: [Sources - Dataview](https://blacksmithgu.github.io/obsidian-dataview/query/sources/)

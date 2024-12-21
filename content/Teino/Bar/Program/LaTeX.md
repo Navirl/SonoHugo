@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:39+09:00
 title: "LaTeX"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:05:35+09:00
+daily:: [2023-05-01](Daily_Note/2023-05-01.md)
 up:: [Programming](Programming.md)
 up:: [Markdown](Markdown.md)
 

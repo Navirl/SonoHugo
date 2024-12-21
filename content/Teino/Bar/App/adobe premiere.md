@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:13+09:00
 title: "adobe premiere"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:35+09:00
+daily:: [2024-07-08](Daily_Note/2024-07-08.md)
 up::
 
 ## 自動文字起こし

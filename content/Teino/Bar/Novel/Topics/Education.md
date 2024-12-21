@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:18+09:00
 title: "Education"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:15+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up::
 
 

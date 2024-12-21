@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:58+09:00
 title: "Kirin"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 麒麟
 ---
 
-date: 2024-12-20T14:04:56+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up:: [Kashina_Kirin](Kashina_Kirin.md)
 
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:15+09:00
 title: "AIの何が問題って"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:09+09:00
+daily:: [2023-07-18](/Daily_Note/2023-07-18.md)
 up:: [Artificial_Intelligence](../Bar/Novel/Topics/Artificial_Intelligence.md)
 up:: [Lie](Bar/Novel/Topics/Lie.md)
 

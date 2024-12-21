@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:01+09:00
 title: "dataview読み込み"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:52+09:00
+daily:: [2024-01-29](/Daily_Note/2024-01-29.md)
 up:: [Obsidian](../Bar/App/Obsidian.md)
 
 ソース内にdebugger;という一文を入れるとブレークポイントを置いたのと同等の動作になる

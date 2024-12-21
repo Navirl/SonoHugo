@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:36+09:00
 title: "Yuuma_Toutetsu"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 饕餮尤魔
 ---
 
-date: 2024-12-20T14:05:32+09:00
+daily:: [2023-04-25](Daily_Note/2023-04-25.md)
 up::
 same:: [Frandle_Scarlet](Frandle_Scarlet.md)
 

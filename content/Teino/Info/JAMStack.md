@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:30+09:00
 title: "JAMStack"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:23+09:00
+daily:: [2021-07-10](/Daily_Note/2021-07-10.md)
 up:: [JavaScript and TypeScript](Bar/Program/JavaScript%20and%20TypeScript.md)
 up:: [Markdown](Bar/Program/Markdown.md)
 

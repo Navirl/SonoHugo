@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:29+09:00
 title: "If you keep your good ideas to yourself"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:22+09:00
+daily:: [2022-09-18](Daily_Note/2022-09-18.md)
 up:: [4_People](../Bar/Novel/Nacaria/4_People.md)
 source:: [Bjarne Stroustrup Quotes](https://www.stroustrup.com/quotes.html)
 

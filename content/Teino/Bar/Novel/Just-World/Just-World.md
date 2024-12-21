@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:43+09:00
 title: "Just-World"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: "#Just-World"
 ---
 
-date: 2024-12-20T14:04:46+09:00
+daily:: [2022-08-10](Daily_Note/2022-08-10.md)
 up:: [[../Timeline/Just-World_Timeline]]
 
 ![胎児よ、胎児よなぜ踊る？](%E8%83%8E%E5%85%90%E3%82%88%E3%80%81%E8%83%8E%E5%85%90%E3%82%88%E3%81%AA%E3%81%9C%E8%B8%8A%E3%82%8B%EF%BC%9F.md)

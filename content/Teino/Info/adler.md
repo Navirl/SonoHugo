@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:57+09:00
 title: "adler"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:49+09:00
+daily:: [2022-07-28](Daily_Note/2022-07-28.md)
 up:: [Summareading](../Bar/Summareading.md)
 
 ## 個人心理学

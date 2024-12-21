@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:04+09:00
 title: "Sarsh"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:05:02+09:00
+daily:: [2022-10-29](Daily_Note/2022-10-29.md)
 up:: [Nacarea](Nacarea.md)
 
 

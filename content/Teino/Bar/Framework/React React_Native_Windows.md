@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:28+09:00
 title: "React React_Native_Windows"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:04:40+09:00
+daily:: [2024-03-01](/Daily_Note/2024-03-01.md)
 up:: [React Native](React%20Native.md)
 
 [React Native](React%20Native.md)でWindowsのUWPアプリを作るためのフレームワーク。

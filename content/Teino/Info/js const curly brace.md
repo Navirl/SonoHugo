@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:04+09:00
 title: "js const curly brace"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:55+09:00
+daily:: [2023-03-17](/Daily_Note/2023-03-17.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 以下の二つは等価。

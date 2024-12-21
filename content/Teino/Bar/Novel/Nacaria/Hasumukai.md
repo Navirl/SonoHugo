@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:55+09:00
 title: "Hasumukai"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:53+09:00
+daily:: [2023-06-20](/Daily_Note/2023-06-20.md)
 up:: [Ive](Ive.md)
 up:: [Aido_Itsuragi](Aido_Itsuragi.md)
 

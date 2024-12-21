@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:58+09:00
 title: "Koburin"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 古府倫
 ---
 
-date: 2024-12-20T14:04:57+09:00
+daily:: [2022-07-17](Daily_Note/2022-07-17.md)
 up:: [Cricia](Novel/Nacaria/Cricia.md)
 
 

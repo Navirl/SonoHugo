@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:14+09:00
 title: "AIi Custom character V2"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:08+09:00
+daily:: [2023-07-29](/Daily_Note/2023-07-29.md)
 up:: [AIt](../Bar/AI/AI_text.md)
 
 [spec\_v1.md](https://github.com/malfoyslastname/character-card-spec-v2/blob/main/spec_v1.md)

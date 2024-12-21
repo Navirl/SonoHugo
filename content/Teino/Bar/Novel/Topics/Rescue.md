@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:27+09:00
 title: "Rescue"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:24+09:00
+daily:: [2022-10-26](Daily_Note/2022-10-26.md)
 up::
 
 

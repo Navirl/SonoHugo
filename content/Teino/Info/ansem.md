@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:58+09:00
 title: "ansem"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:49+09:00
+daily:: [2022-07-16](Daily_Note/2022-07-16.md)
 up:: [Component](../Bar/Novel/Chaos/Component.md)
 
 いいから何か一つ書いてみようか。

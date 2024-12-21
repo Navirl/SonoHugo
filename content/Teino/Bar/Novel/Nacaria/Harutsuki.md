@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:54+09:00
 title: "Harutsuki"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 春月
 ---
 
-date: 2024-12-20T14:04:53+09:00
+daily:: [2022-09-05](2022-09-05.md)
 up:: [Ayama](Ayama.md)
 down:: [Akinaga](Akinaga.md)
 

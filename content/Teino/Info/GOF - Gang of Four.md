@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:27+09:00
 title: "GOF - Gang of Four"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:20+09:00
+daily:: [2021-07-23](/Daily_Note/2021-07-23.md)
 up:: [Programming](Bar/Program/Programming.md)
 
 オブジェクト指向プログラミングにおける、再利用性の高いコーディングのパターン、いわゆる**デザインパターン**をまとめた4人のプログラマ。

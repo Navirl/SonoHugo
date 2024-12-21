@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:03+09:00
 title: "ipアドレスが知りたい"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:54+09:00
+daily:: [2022-10-06](Daily_Note/2022-10-06.md)
 up:: [Termux](../Bar/App/Termux.md)
 source:: [How to Get the (Public) IP Address of the Device? : termux](https://www.reddit.com/r/termux/comments/f0ql94/how_to_get_the_public_ip_address_of_the_device/)
 

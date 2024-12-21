@@ -1,6 +1,6 @@
 ---
 title: "Daicer Search"
-date: 2024-12-20T14:07:16+09:00
+date: 2024-12-21T15:18:23+09:00
 ---
 Search
 ```mermaid

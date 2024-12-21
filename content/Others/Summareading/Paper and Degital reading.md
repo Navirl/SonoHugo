@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:04:02+09:00
+date: 2024-12-21T15:13:49+09:00
 title: "Paper and Degital reading"
 uid: 20220610200932
 tags:

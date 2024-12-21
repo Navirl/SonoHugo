@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:57+09:00
 title: "Version_Control"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:48+09:00
+daily:: [2024-03-12](/Daily_Note/2024-03-12.md)
 up:: [Git](../Bar/App/Git.md)
 up:: [Rust rustup](Rust%20rustup.md)
 up:: [py pyenv](py%20pyenv.md)

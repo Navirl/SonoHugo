@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:28+09:00
 title: "tg Quantization"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:16+09:00
+daily:: [2024-04-03](/Daily_Note/2024-04-03.md)
 up:: [tgwebui](../Bar/App/text-generation-webui.md)
 
 量子化。モデルを小さくしつつ精度を落とさない技術。

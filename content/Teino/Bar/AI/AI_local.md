@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:14:44+09:00
 title: "AI_local"
 tags:
   - Bar
@@ -6,7 +7,7 @@ aliases:
   - AIl
 ---
 
-date: 2024-12-20T14:04:27+09:00
+daily:: [2023-04-22](Daily_Note/2023-04-22.md)
 
 広範な概念だが、Transformerみたいな今までの経験から次を予測するAIをメインにする。
 

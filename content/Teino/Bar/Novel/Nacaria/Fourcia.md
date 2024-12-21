@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:53+09:00
 title: "Fourcia"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:52+09:00
+daily:: [2022-10-27](Daily_Note/2022-10-27.md)
 up:: [Cricia](Cricia.md)
 
 

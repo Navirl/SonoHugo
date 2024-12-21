@@ -1,6 +1,6 @@
 ---
 title: "TWoA"
-date: 2024-12-20T14:14:45+09:00
+date: 2024-12-21T15:27:00+09:00
 ---
 The Wonderland of Alice
 The Wonderland on All

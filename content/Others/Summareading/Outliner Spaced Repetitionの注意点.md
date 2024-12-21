@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:04:02+09:00
+date: 2024-12-21T15:13:48+09:00
 title: "Outliner Spaced Repetitionの注意点"
 uid: 20220615161924
 tags:

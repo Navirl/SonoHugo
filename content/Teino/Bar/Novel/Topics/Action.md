@@ -1,9 +1,10 @@
 ---
+date: 2024-12-21T15:16:14+09:00
 title: "Action"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:12+09:00
+daily:: [2022-10-30](Daily_Note/2022-10-30.md)
 up::

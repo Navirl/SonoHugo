@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:23+09:00
 title: "Daicer LiveEditor"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:16+09:00
+daily:: [2024-08-12](/Daily_Note/2024-08-12.md)
 up:: [Daicer](../Novels/programs/Daicer.md)
 
 LiveEditor

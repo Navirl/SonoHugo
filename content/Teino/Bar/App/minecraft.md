@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:17+09:00
 title: "minecraft"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:36+09:00
+daily:: [2024-09-22](Daily_Note/2024-09-22.md)
 up:: [Linux](../Linux.md)
 
 ## test

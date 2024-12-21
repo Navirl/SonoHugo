@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:25+09:00
 title: "Expo 通知"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:18+09:00
+daily:: [2024-05-20](/Daily_Note/2024-05-20.md)
 up:: [Expo](Expo.md)
 
 react-native-push-notificationが先に出るが、標準でexpo-notificationsというのがあるのでそれを使えばいい。

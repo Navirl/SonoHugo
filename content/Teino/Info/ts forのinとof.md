@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:29+09:00
 title: "ts forのinとof"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:17+09:00
+daily:: [2024-01-09](/Daily_Note/2024-01-09.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 inはオブジェクトの列挙可能な文字列プロパティを返す。

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:41+09:00
 title: "Rust Lifetime"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:33+09:00
+daily:: [2023-03-07](/Daily_Note/2023-03-07.md)
 up:: [Rust](../Bar/Program/Rust.md)
 
 参照が有効になるスコープ。正確に言うとその間だけメモリを保持する期間。

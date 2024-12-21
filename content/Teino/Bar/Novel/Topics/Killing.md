@@ -1,9 +1,10 @@
 ---
+date: 2024-12-21T15:16:22+09:00
 title: "Killing"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:19+09:00
+daily:: [2023-08-13](Daily_Note/2023-08-13.md)
 up::

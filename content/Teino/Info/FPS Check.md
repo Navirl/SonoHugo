@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:26+09:00
 title: "FPS Check"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:19+09:00
+daily:: [2021-10-21](/Daily_Note/2021-10-21.md)
 up:: [Component](../../../../Bar/Novel/Chaos/Component.md)
 
 まず自分のできることを確認する

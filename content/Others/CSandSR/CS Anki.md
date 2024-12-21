@@ -1,13 +1,13 @@
 ---
 title: "CS Anki"
-date: 2024-12-20T14:03:21+09:00
+date: 2024-12-21T15:12:06+09:00
 tags:
  - CheatSheet
  - App/Anki
 ---
 
 現行
-[Anki Language](../Anki%20Language.md)
+[Anki_Language](../Anki_Language.md)
 
 # Obsidian to Anki
 例

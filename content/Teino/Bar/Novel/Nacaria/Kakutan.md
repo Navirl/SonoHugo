@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:57+09:00
 title: "Kakutan"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Item
 ---
 
-date: 2024-12-20T14:04:55+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up:: [Narana_Tsunohashi](Narana_Tsunohashi.md)
 up:: [Kirin](Kirin.md)
 

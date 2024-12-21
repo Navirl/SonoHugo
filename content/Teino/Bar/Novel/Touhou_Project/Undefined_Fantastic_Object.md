@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:35+09:00
 title: "Undefined_Fantastic_Object"
 tags:
  - Bar
@@ -9,5 +10,5 @@ aliases:
  - UFO
 ---
 
-date: 2024-12-20T14:05:32+09:00
+daily:: [2022-11-01](Daily_Note/2022-11-01.md)
 up:: 

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:01+09:00
 title: "Neovim"
 id: Neovim
 aliases: 
@@ -6,7 +7,7 @@ tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:31+09:00
+daily:: [2024-12-03](/Daily_Note/2024-12-03.md)
 up:: [Vim](Vim.md)
 
 [Neovim plugins](Neovim%20plugins.md)
@@ -118,3 +119,12 @@ vim.api.nvim_create_autocmd("TermOpen", {
 `<C-v>`が貼り付けになってしまう場合、`<C-q>`に代替のキーバインドがある。
 
 [vim - How do you select a whole column in visual block mode? - Stack Overflow](https://stackoverflow.com/questions/3736678/how-do-you-select-a-whole-column-in-visual-block-mode)
+
+## 複数の設定を使いたい
+`NVIM_APPNAME`にフォルダ名を突っ込むことで、その設定ファイルを読むようになる。
+linuxなら以下のコマンドでエイリアスを張ることもできる。
+
+`alias nvim-kickstart='NVIM_APPNAME="nvim-kickstart" nvim'`
+
+[GitHub - nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+[Starting - Neovim docs](https://neovim.io/doc/user/starting.html#%24NVIM_APPNAME)

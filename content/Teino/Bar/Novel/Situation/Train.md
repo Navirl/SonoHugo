@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:13+09:00
 title: "Train"
 tags:
  - Bar
  - Novel/Situation
 ---
 
-date: 2024-12-20T14:05:10+09:00
+daily:: [2022-09-03](Daily_Note/2022-09-03.md)
 up::
 
 

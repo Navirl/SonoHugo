@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:54+09:00
 title: "Fushibi_People"
 tags:
  - Bar
@@ -7,6 +8,6 @@ tags:
 aliases: フシビの人々
 ---
 
-date: 2024-12-20T14:04:52+09:00
+daily:: [2022-07-03](Daily_Note/2022-07-03.md)
 up:: [Fushibi](Fushibi.md)
 

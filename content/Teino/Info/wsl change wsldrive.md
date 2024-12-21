@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:33+09:00
 title: "wsl change wsldrive"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:21+09:00
+daily:: [2023-04-08](/Daily_Note/2023-04-08.md)
 up:: [WSL](../Bar/App/WSL.md)
 
 いろいろ情報があるが、今はwslをシャットダウンしてからwindowsのアプリ設定で移動すればいいだけ。redditの二個目の返答がそのまま使える。

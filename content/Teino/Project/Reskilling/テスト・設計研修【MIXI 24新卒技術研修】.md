@@ -1,6 +1,6 @@
 ---
 title: "テスト・設計研修【MIXI 24新卒技術研修】"
-date: 2024-12-20T14:15:45+09:00
+date: 2024-12-21T15:28:24+09:00
 ---
 [テスト・設計研修【MIXI 24新卒技術研修】 - YouTube](https://www.youtube.com/watch?v=Z_W61VpaXKA)
 

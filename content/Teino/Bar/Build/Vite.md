@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:21+09:00
 title: "Vite"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:37+09:00
+daily:: [2024-05-02](Daily_Note/2024-05-02.md)
 up:: [Programming](../Program/Programming.md)
 
 最速のビルドツール。ReactやAngularにも対応。

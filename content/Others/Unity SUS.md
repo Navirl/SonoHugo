@@ -1,9 +1,7 @@
 ---
 title: "Unity SUS"
-date: 2024-12-20T14:04:10+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:14:06+09:00
+tags: App/Unity
 ---
 
 ## sprite animation

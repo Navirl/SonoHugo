@@ -1,6 +1,6 @@
 ---
 title: "without backlink for Daily_Note"
-date: 2024-12-20T14:04:25+09:00
+date: 2024-12-21T15:14:39+09:00
 ---
 Daily_Noteフォルダのバックリンクが無いファイル
 ```dataviewjs

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:51+09:00
 title: "Cricia"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: クライシア
 ---
 
-date: 2024-12-20T14:04:50+09:00
+daily:: [2022-07-23](Daily_Note/2022-07-23.md)
 up:: [Nacarea](Nacarea.md)
 
 

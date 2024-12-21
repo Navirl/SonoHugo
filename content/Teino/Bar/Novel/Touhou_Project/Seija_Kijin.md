@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:34+09:00
 title: "Seija_Kijin"
 tags:
  - Bar
@@ -9,7 +10,7 @@ banner: "![[../../../Banners/☢核燃黑猫☢ - 1408324/20181223 - 鬼人正�
 banner_y: 0.10019
 ---
 
-date: 2024-12-20T14:05:31+09:00
+daily:: [2022-07-03](Daily_Note/2022-07-03.md)
 up:: [Shinmyoumaru_Sukuna](Shinmyoumaru_Sukuna.md)
 up:: [Crazy_Quartet](Crazy_Quartet.md)
 

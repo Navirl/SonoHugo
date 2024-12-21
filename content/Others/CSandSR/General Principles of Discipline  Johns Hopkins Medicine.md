@@ -1,6 +1,6 @@
 ---
 title: "General Principles of Discipline  Johns Hopkins Medicine"
-date: 2024-12-20T14:03:27+09:00
+date: 2024-12-21T15:12:25+09:00
 tags: []
 source: https://www.hopkinsmedicine.org/health/conditions-and-diseases/general-principles-of-discipline
 author:

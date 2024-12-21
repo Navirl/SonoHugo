@@ -1,6 +1,6 @@
 ---
 title: "NovComparison"
-date: 2024-12-20T14:03:54+09:00
+date: 2024-12-21T15:13:32+09:00
 ---
 Amplenote
 https://www.amplenote.com/subscriptions/new

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:07+09:00
 title: "linux ReviOS AtlasOS"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:57+09:00
+daily:: [2024-02-13](/Daily_Note/2024-02-13.md)
 up:: [Linux](Linux.md)
 
 windowsイメージに直接干渉して軽量化するOS。

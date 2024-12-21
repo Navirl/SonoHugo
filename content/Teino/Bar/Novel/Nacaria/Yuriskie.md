@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:10+09:00
 title: "Yuriskie"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:05:07+09:00
+daily:: [2022-10-29](Daily_Note/2022-10-29.md)
 up:: [Biscarnya](Biscarnya.md)
 
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:42+09:00
 title: "mise"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:05:38+09:00
+daily:: [2024-10-14](Daily_Note/2024-10-14.md)
 up:: [py](../Program/Python.md)
 up:: [Rust](../Program/Rust.md)
 up:: [js](../Program/JavaScript%20and%20TypeScript.md)

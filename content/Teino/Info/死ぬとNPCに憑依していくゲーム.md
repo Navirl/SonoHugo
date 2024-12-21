@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:23:12+09:00
 title: "死ぬとNPCに憑依していくゲーム"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:11:27+09:00
+daily:: [2022-08-19](Daily_Note/2022-08-19.md)
 up:: [Game](../Bar/Novel/Topics/Game.md)
 up:: [Reincarnation](../Bar/Novel/Topics/Reincarnation.md)
 

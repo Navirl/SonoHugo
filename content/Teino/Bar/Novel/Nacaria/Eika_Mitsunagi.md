@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:52+09:00
 title: "Eika_Mitsunagi"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 三繋瑛華
 ---
 
-date: 2024-12-20T14:04:51+09:00
+daily:: [2022-07-06](Daily_Note/2022-07-06.md)
 up:: [Ayama](Ayama.md)
 
 

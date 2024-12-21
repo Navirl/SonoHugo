@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:58+09:00
 title: "bingKANAMI"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:49+09:00
+daily:: [2023-05-03](/Daily_Note/2023-05-03.md)
 up:: [Kanami_Nijo](../Bar/Novel/Nacaria/Kanami_Nijo.md)
 
 [Marisa_Kirisame](../Bar/Novel/Touhou_Project/Marisa_Kirisame.md)

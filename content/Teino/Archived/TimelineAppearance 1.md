@@ -1,6 +1,6 @@
 ---
 title: "TimelineAppearance 1"
-date: 2024-12-20T14:04:24+09:00
+date: 2024-12-21T15:14:37+09:00
 ---
 [timeline - vis.js - A dynamic, browser based visualization library.](https://visjs.github.io/vis-timeline/docs/timeline/#items)
 

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8cb94031159e7a9",
+        "id": "334ed700b7550254",
         "type": "tabs",
         "children": [
           {
-            "id": "8210bb0df215e931",
+            "id": "7a5861cf8bed6f97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teino/Bar/Program/Automate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Automate"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "デリミ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,12 +79,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "8df90fafb50945f7",
@@ -151,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teino/Novels/Movies/注意点.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 注意点"
+              "title": "Graph view"
             }
           },
           {
@@ -207,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +217,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8210bb0df215e931",
+  "active": "7a5861cf8bed6f97",
   "lastOpenFiles": [
+    "Teino/Bar/Program/Markdown.md",
+    "Teino/image/Pasted image 20241213223122.png",
+    "Teino/Daily_Note/2024-12-13 FX.md",
+    "Teino/Daily_Note/2024-12-13.md",
+    "Teino/Bar/Program/JavaScript and TypeScript.md",
+    "Others/Anki_Language.md",
+    "Others/CEDEC,GDC.md",
+    "Others/【Unity】ゲームオブジェクトの基礎（生成・削除・非表示など）から公式リファレンスまで解説決定版！  XR-Hub.md",
+    "Others/【Git】基本コマンド - Qiita.md",
+    "Others/Achivement.md",
+    "Teino/Info/人らしく生きるってのの.md",
+    "Daily_Note/2023-05-24.md",
+    "Daily_Note/2024-05-24.md",
+    "Others/Summareading/Template/TagWall.md",
+    "Daily_Note",
+    "Teino/Info/Neovim plugins.md",
+    "Yeolumar/ZettelIdea/もしも全ての声明が受け入れられ.md",
+    "Teino/Bar/Framework/Hugo.md",
+    "Others/Anki Language English.md",
+    "Others/All Explanation.md",
+    "Others/Summareading/派生から基底のコンストラクタで初期化.md",
+    "Others/Summareading/新しいBPプレーンを作る.md",
+    "Others/Summareading/デフォルトARプロジェクトが動かない.md",
+    "Others/Summareading/デフォルトコンストラクタを持たないクラスの初期化.md",
+    "Others/Summareading/Wifi ADB devices.md",
+    "Others/Summareading/Visual Logger.md",
+    "Others/Summareading/Outliner Spaced Repetitionの注意点.md",
+    "Others/Summareading/InputAction-OneFingerAction.md",
+    "Teino/image/Pasted image 20241213002534.png",
     "themes/blowfish/theme.toml",
     "themes/blowfish/tailwind.config.js",
     "themes/blowfish/static/site.webmanifest",
@@ -238,38 +262,9 @@
     "themes/blowfish/release-versions",
     "themes/blowfish/processUsers.js",
     "themes/blowfish/package.json",
-    "themes/blowfish/package-lock.json",
-    "themes/blowfish/netlify.toml",
     "themes/blowfish/logo.png",
     "themes/blowfish/images/tn.png",
     "themes/blowfish/images/screenshot.png",
-    "themes/blowfish/images/home-profile.png",
-    "themes/blowfish/images/home-mobile.png",
-    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.md",
-    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/fec44f5dd2be29e37c305696d018f99f/index.it.md",
-    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.md",
-    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/fd12be5b9c01f6b6089b8b1cbff1350d/index.it.md",
-    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.md",
-    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/ef51c7b9654a4f2d13525eb80ee46cdf/index.it.md",
-    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.md",
-    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/ee5d5eca13c3742f7a454a52424f9d73/index.it.md",
-    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.md",
-    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/e8b2eb823290677fbba3390d5cef2c35/index.it.md",
-    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.md",
-    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/e518dc969af1ea65a3d0b55630705047/index.it.md",
-    "themes/blowfish/exampleSite/content/users/e2ca3d6494c32151235beabe7567b23d/index.zh-cn.md",
     "public/novel/Timeline/Untitled.canvas"
   ]
 }

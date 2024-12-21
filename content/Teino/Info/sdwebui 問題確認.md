@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:26+09:00
 title: "sdwebui 問題確認"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:15+09:00
+daily:: [2024-06-05](/Daily_Note/2024-06-05.md)
 up:: [sdwebui](../Bar/App/stable-diffusion-webui.md)
 
 ## sd 問題確認

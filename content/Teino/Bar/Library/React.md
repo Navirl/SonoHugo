@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:32+09:00
 title: "React"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:43+09:00
+daily:: [2024-03-02](/Daily_Note/2024-03-02.md)
 up:: [ts](../Program/JavaScript%20and%20TypeScript.md)
 up:: [Programming](../Program/Programming.md)
 

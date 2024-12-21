@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:30+09:00
 title: "Google_Document"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:42+09:00
+daily:: [2024-04-25](Daily_Note/2024-04-25.md)
 up::
 
 ## それっぽい見出しを作る

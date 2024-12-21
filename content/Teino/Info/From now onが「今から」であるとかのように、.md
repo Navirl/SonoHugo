@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:26+09:00
 title: "From now onが「今から」であるとかのように、"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:19+09:00
+daily:: [2023-06-23](/Daily_Note/2023-06-23.md)
 up:: [Language](../Bar/Novel/Topics/Language.md)
 up:: [Me](../Bar/Novel/Chaos/Me.md)
 

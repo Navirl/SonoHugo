@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:25+09:00
 title: "Meta"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:22+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up::
 
 

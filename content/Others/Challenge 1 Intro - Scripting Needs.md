@@ -1,9 +1,7 @@
 ---
 title: "Challenge 1 Intro - Scripting Needs"
-date: 2024-12-20T14:03:36+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:12:53+09:00
+tags: App/Unity
 ---
 
 **まずはプロジェクトの説明に目を通し、クラスやコンポーネントに分解する**

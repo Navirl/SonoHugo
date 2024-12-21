@@ -1,9 +1,7 @@
 ---
 title: "Challenge 1 Assignment - Scripting Needs"
-date: 2024-12-20T14:03:36+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:12:52+09:00
+tags: App/Unity
 ---
 
 課題 1 - スクリプトの必要性

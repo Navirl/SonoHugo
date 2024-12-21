@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:31+09:00
 title: "LLaVA"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:24+09:00
+daily:: [2023-11-07](/Daily_Note/2023-11-07.md)
 up:: [AI_local](../Bar/AI/AI_local.md)
 up:: [AIt](../Bar/AI/AI_text.md)
 

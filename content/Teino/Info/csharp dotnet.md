@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:59+09:00
 title: "csharp dotnet"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:50+09:00
+daily:: [2024-10-28](/Daily_Note/2024-10-28.md)
 up:: [Csharp](../Bar/Program/Csharp.md)
 
 さまざまな種類のアプリケーションを構築するための、オープンソースの開発者プラットフォーム……らしい。

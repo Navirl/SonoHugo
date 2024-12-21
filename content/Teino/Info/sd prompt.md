@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:24+09:00
 title: "sd prompt"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:12+09:00
+daily:: [2024-05-27](/Daily_Note/2024-05-27.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 品質タグは考えて

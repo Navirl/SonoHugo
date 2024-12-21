@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:12+09:00
 title: "ps curl"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:01+09:00
+daily:: [2024-11-05](/Daily_Note/2024-11-05.md)
 up:: [ps](../Bar/App/PowerShell_and_Command-Line.md)
 
 簡単にサーバーとやり取りできるコマンド。

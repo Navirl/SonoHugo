@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:04:00+09:00
+date: 2024-12-21T15:13:44+09:00
 title: "Blueprint Documentation"
 uid: 20220611163848
 tags:

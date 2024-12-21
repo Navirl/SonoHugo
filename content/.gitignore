@@ -1,3 +1,15 @@
+#見た目
+#/.obsidian/appearance.json
+#/.obsidian/themes
+#plugins
+#/.obsidian/community-plugins.json
+#workspace
+#/.obsidian/workspace.json
+#/.obsidian/workspace-mobile.json
+
+#google calender secret流出防止
+/Teino/.obsidian/plugins/google-calendar
+
 ## hugo
 # Generated files by hugo
 /public/

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:21+09:00
 title: "Ink_Stain"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
 aliases: インクの染み
 ---
 
-date: 2024-12-20T14:05:18+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up::
 
 

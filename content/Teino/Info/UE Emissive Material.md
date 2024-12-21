@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:48+09:00
 title: "UE Emissive Material"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:40+09:00
+daily:: [2022-11-07](Daily_Note/2022-11-07.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [Emissive Material 入力の使用方法 | Unreal Engine ドキュメント](https://docs.unrealengine.com/4.27/ja/RenderingAndGraphics/Materials/HowTo/EmissiveGlow/)
 

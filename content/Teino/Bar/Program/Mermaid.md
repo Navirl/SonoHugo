@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:39+09:00
 title: "Mermaid"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:05:36+09:00
+daily:: [2021-07-28](/Daily_Note/2021-07-28.md)
 up:: [Programming](Programming.md)
 same:: [PlantUML](Program/PlantUML.md)
 

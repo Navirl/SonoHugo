@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:10+09:00
 title: "Seika"
 banner: "![[../../image/00025-3759171700.png]]"
 ---
@@ -13,7 +14,7 @@ aliases:
   - 星夏
 ---
 
-date: 2024-12-20T14:05:07+09:00
+daily:: [2023-05-07](Daily_Note/2023-05-07.md)
 up:: [Me](Chaos/Me.md)
 up:: [Tavern_Me](../../Info/Tavern_Me.md)
 same:: [Faw](Faw.md)

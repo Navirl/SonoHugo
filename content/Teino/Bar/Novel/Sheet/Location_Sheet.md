@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:12+09:00
 title: "Location_Sheet"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Location
 ---
 
-date: 2024-12-20T14:05:09+09:00
+daily:: [2022-08-08](Daily_Note/2022-08-08.md)
 up::
 
 from:: pluot

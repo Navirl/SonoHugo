@@ -1,6 +1,6 @@
 ---
 title: "Relearn Math"
-date: 2024-12-20T14:03:55+09:00
+date: 2024-12-21T15:13:35+09:00
 tags:
  - Program/Math
 ---

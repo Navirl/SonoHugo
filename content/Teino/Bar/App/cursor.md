@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:13+09:00
 title: "cursor"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:35+09:00
+daily:: [2024-08-12](Daily_Note/2024-08-12.md)
 up::
 
 ## Codebase Answer

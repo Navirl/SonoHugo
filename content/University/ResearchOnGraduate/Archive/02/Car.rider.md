@@ -1,6 +1,6 @@
 ---
 title: "Car.rider"
-date: 2024-12-20T14:17:03+09:00
+date: 2024-12-21T15:30:11+09:00
 ---
 ﻿```plantuml-svg
 @startuml

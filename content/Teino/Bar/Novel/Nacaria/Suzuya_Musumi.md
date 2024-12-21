@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:07+09:00
 title: "Suzuya_Musumi"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:05:05+09:00
+daily:: [2022-08-19](Daily_Note/2022-08-19.md)
 up:: [Sist](Sist.md)
 
 

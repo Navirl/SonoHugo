@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:39+09:00
 title: "React dnd kit"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:31+09:00
+daily:: [2024-08-16](/Daily_Note/2024-08-16.md)
 up:: [React](../Bar/Library/React.md)
 
 droppableとdraggableのセットで入力できる。

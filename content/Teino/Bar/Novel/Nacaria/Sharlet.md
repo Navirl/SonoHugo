@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:05+09:00
 title: "Sharlet"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: シャーレット
 ---
 
-date: 2024-12-20T14:05:03+09:00
+daily:: [2022-11-14](Daily_Note/2022-11-14.md)
 up:: [Riitsu_Reuke](Riitsu_Reuke.md)
 
 シャーレット

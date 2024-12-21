@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:19:31+09:00
 title: "virtualとoverride"
 tags:
  - Info
 aliases: virtual
 ---
 
-date: 2024-12-20T14:08:19+09:00
+daily:: [2022-08-01](Daily_Note/2022-08-01.md)
 up:: [Programming](../Bar/Program/Programming.md)
 source:: [連載：C#入門　第4回 継承とインターフェイス（2/3） - ＠IT](https://www.atmarkit.co.jp/fdotnet/csharp_abc/csharp_abc_004/csharp_abc02.html)
 

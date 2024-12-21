@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:17:22+09:00
+date: 2024-12-21T15:30:32+09:00
 title: "Business Paradigm"
 uid: 20220615145752
 tags:

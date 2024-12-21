@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:16:10+09:00
 title: "BSBS"
 tags:
  - Bar
  - Novel/Sheet
 ---
 
-date: 2024-12-20T14:05:07+09:00
+daily:: [2022-08-08](Daily_Note/2022-08-08.md)
 up:: [Summareading](../../Summareading.md)
 from:: Save_the_cat
 

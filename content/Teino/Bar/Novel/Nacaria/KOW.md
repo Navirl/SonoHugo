@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:56+09:00
 title: "KOW"
 tags:
  - Bar
@@ -10,7 +11,7 @@ aliases:
  - knife_of_words
 ---
 
-date: 2024-12-20T14:04:55+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up::
 
 基本的に分化のナイフ。

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:26+09:00
 title: "sdwebui resize"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:14+09:00
+daily:: [2024-04-04](/Daily_Note/2024-04-04.md)
 up:: [sdwebui](../Bar/App/stable-diffusion-webui.md)
 
 ## resize

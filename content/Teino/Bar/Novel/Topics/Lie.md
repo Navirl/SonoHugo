@@ -1,9 +1,10 @@
 ---
+date: 2024-12-21T15:16:23+09:00
 title: "Lie"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:20+09:00
+daily:: [2022-11-20](Daily_Note/2022-11-20.md)
 up::

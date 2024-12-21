@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:32+09:00
 title: "vvenc"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:20+09:00
+daily:: [2023-05-01](/Daily_Note/2023-05-01.md)
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 [GitHub - fraunhoferhhi/vvenc: Fraunhofer Versatile Video Encoder (VVenC)](https://github.com/fraunhoferhhi/vvenc)

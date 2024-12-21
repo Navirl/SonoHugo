@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:00+09:00
 title: "Monon"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:58+09:00
+daily:: [2022-10-27](Daily_Note/2022-10-27.md)
 up:: [Cricia](Cricia.md)
 
 命と伝統の街。

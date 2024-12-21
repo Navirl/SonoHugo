@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:25+09:00
 title: "Ionic"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:04:39+09:00
+daily:: [2024-05-02](Daily_Note/2024-05-02.md)
 up:: [Programming](../Program/Programming.md)
 
 UIツールキット。[React](../Library/React.md)よりももっとカチカチに固まったコンポーネントを提供してくれる。

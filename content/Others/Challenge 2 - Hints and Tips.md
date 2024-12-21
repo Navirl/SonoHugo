@@ -1,9 +1,7 @@
 ---
 title: "Challenge 2 - Hints and Tips"
-date: 2024-12-20T14:03:36+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:12:53+09:00
+tags: App/Unity
 ---
 
 チャレンジ2 - ヒントとコツ

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:18:32+09:00
 title: "Neovim plugins"
 id: Neovim plugins
 aliases: []
@@ -6,7 +7,7 @@ tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:25+09:00
+daily:: [2024-12-05 FX](../Daily_Note/2024-12-05%20FX.md)
 up:: [Neovim](../Bar/App/Neovim.md)
 
 
@@ -85,6 +86,12 @@ lazy.nvimの場合は`lazy = true`を設定しておけばとりあえず開幕�
 フォーマッタ。
 [nvim-cmp](#nvim-cmp)と同じくプラグイン式。ファイルタイプごとに設定が必要。
 
+formatterはスタイルをチェックし、ルールに基づいてコードを整形する。整形なので動作に影響はない。
+
+linterはコードをチェックし、バグやルールに沿って書かれているかをチェックする。
+
+[【社内勉強会③】Linter, Formatterについて #Python - Qiita](https://qiita.com/Shytaani/items/acfb5ae5cc0a152e91c0)
+
 ## [lexima.vim](https://github.com/cohama/lexima.vim)
 かっこ補完。
 
@@ -129,6 +136,16 @@ spzenhanのlua版。
 ローマ字で検索できる。
 単体では動かないので別のプラグインが必要。Denoも必要。
 
+### [denops] Failed to connect channel : Vim(let):connection failed: tcp address must be host:port
+
+依存のdenopsのやつ。
+キャッシュを以下のコマンドでアップデート。
+
+`:call denops#cache#update(#{reload: v:true})`
+
+[Could not connect servers on launch time with denops 7.x · Issue #401 · vim-denops/denops.vim · GitHub](https://github.com/vim-denops/denops.vim/issues/401)
+
+
 ## **[vim-kensaku-search](https://github.com/lambdalisue/vim-kensaku-search)**
 ローマ字でスラッシュ検索で検索できる。
 リマップが要るので以下を使う。
@@ -147,7 +164,7 @@ vim.keymap.set('c', '<CR>', '<Plug>(kensaku-search-replace)', { noremap = true, 
 かっこ補完。
 
 ## **[neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)**
-ファイルブラウザ。:neotreeで動く。
+ファイルブラウザ。:Neotreeで動く。
 
 ## **[vimdoc-ja](https://github.com/vim-jp/vimdoc-ja)**
 helpの日本語化。

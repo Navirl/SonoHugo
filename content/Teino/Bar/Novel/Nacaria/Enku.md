@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:52+09:00
 title: "Enku"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Item
 ---
 
-date: 2024-12-20T14:04:51+09:00
+daily:: [2022-10-16](Daily_Note/2022-10-16.md)
 up:: [Hibana_Enku](Hibana_Enku.md)
 
 

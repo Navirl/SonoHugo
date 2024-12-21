@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:14:40+09:00
 title: "genlipwiki軌跡 1"
 tags:
   - Info
 ---
 
 
-date: 2024-12-20T14:04:25+09:00
+daily:: [2023-12-31](/Daily_Note/2023-12-31.md)
 up:: [Wiki](../Bar/Wiki.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 

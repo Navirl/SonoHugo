@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:15:02+09:00
 title: "Obsidian"
 tags:
  - Bar
  - App
 ---
 
-date: 2024-12-20T14:04:31+09:00
+daily:: [2022-07-01](../../Daily_Note/2022-07-01.md)
 
 ## ObsidianPlugin一言紹介
 [ObsidianPlugin一言紹介](../../Info/ObsidianPlugin一言紹介.md)

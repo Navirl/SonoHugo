@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:23+09:00
 title: "sd exif"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:11+09:00
+daily:: [2024-05-31](/Daily_Note/2024-05-31.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 up:: [sdwebui](../Bar/App/stable-diffusion-webui.md)
 up:: [ComfyUI](../Bar/App/ComfyUI.md)

@@ -1,9 +1,7 @@
 ---
 title: "Unity2Dと厚み"
-date: 2024-12-20T14:04:11+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:14:08+09:00
+tags: App/Unity
 ---
 
 ![](https://preview.redd.it/cvdvj1zbmo441.png?width=567&format=png&auto=webp&s=becd073c4e0705f8ecc9f0557c31fc29020c1435)

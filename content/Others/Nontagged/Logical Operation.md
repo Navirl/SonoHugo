@@ -1,6 +1,6 @@
 ---
 title: "Logical Operation"
-date: 2024-12-20T14:03:42+09:00
+date: 2024-12-21T15:13:06+09:00
 ---
  #Program
 

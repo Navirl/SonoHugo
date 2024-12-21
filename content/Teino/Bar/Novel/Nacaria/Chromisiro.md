@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:50+09:00
 title: "Chromisiro"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: クロミシロ
 ---
 
-date: 2024-12-20T14:04:50+09:00
+daily:: [2022-08-04](Daily_Note/2022-08-04.md)
 down:: [Game](../Topics/Game.md)
 up:: [Nacarea](Nacarea.md)
 

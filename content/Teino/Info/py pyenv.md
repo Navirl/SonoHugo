@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:17+09:00
 title: "py pyenv"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:07+09:00
+daily:: [2024-03-12](/Daily_Note/2024-03-12.md)
 up:: [Python](../Bar/Program/Python.md)
 
 

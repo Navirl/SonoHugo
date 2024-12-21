@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:15+09:00
 title: "py copy"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:04+09:00
+daily:: [2022-08-03](Daily_Note/2022-08-03.md)
 up:: [Python](../Bar/Program/Python.md)
 source:: [Pythonのcopyとdeepcopyについて - Qiita](https://qiita.com/Kaz_K/items/a3d619b9e670e689b6db)
 

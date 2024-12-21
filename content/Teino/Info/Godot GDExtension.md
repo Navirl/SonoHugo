@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:28+09:00
 title: "Godot GDExtension"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:21+09:00
+daily:: [2023-03-30](/Daily_Note/2023-03-30.md)
 up:: [Godot](../Bar/App/Godot.md)
 up:: [Rust](../Bar/Program/Rust.md)
 

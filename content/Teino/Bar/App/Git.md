@@ -1,14 +1,15 @@
 ---
+date: 2024-12-21T15:14:57+09:00
 title: "Git"
 tags:
  - Bar
  - App
 ---
 
-date: 2024-12-20T14:04:30+09:00
+daily:: [2021-07-17](Daily_Note/2021-07-17.md)
 up:: 
 
-
+## subtree
 [【手順】git subtreeコマンドの使い方 - Qiita](https://qiita.com/takahashi-kazuki/items/0c34b3bc5da6700d38a5)
 [Git Subtree 事始め - Qiita](https://qiita.com/mikakane/items/487ca8b3acddfa5fdb41)
 消すときはディレクトリさえ消せばいい。コミットは残るが。
@@ -104,7 +105,7 @@ git push -u . プッシュしたいローカルブランチ名
 git branch -vv
 
 ## リモートブランチを削除する
-git push -d origin branch_name
+`git push -d origin branch_name`
 
 pushを使うことに注意。
 
@@ -126,3 +127,67 @@ git config --global fetch.prune true
 
 
 [Gitのリモートブランチを削除するまとめ #GitHub - Qiita](https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9)
+
+
+## submodule消去
+```sh
+$ git submodule deinit -f 追加したサブモジュール
+$ git rm -f 追加したサブモジュール
+$ rm -rf .git/modules/追加したサブモジュール 
+```
+[\[git\] submoduleの削除、再追加について #Git - Qiita](https://qiita.com/k_yamashita/items/040c04f8798d2384806e)
+
+git rmを忘れず。
+
+## bareとmirror
+どちらもベアリポジトリをとれる。
+mirrorはgit remote update時にHEADを最新に追従してくれる。
+
+[git clone時のmirrorとbareの違い | exMedia](https://www.exmedia.jp/blog/git-clone時のmirrorとbareの違い/)
+
+
+## secretを含んだファイルをpushしちゃった
+git filter-repoで削る。
+履歴を弄ることになるのでバックアップを取る。
+あとstashが消えるのでなんとかしとく。
+
+まずは元で履歴からファイルを削除する。
+```bash
+git rm -r --cached PATH
+git commit -a -m "message"
+git push
+```
+
+次に新しくリポジトリをクローン。やらないとflesh clone云々でエラーが出る。
+```bash
+git clone URL
+```
+
+secretがあるとこを指定してfilter。
+```bash
+git filter-repo --invert-path --path PATH
+```
+
+`git filter-repo`を使用すると、リモートが削除される。
+再度追加する。
+```bash
+git remote add URL
+```
+
+最後に履歴を弄った分を強制pushして終了。
+```bash
+git push origin --force --all
+```
+
+[リポジトリからの機微なデータの削除 - GitHub Docs](https://docs.github.com/ja/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+[公開予定でないソースをリモートにプッシュ・プルリクエストしてしまった時の対処法](https://zenn.dev/protein/articles/commit-and-push-sources-delete-pull-requests)
+
+[GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)
+[docs/content/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository.md)
+[git filter-repoを使って過去のコミットの内容を書き換える | ikapblog](https://blog.ikappio.com/replace-past-committed-content-using-git-filter-repo/#toc4)
+
+要するにめちゃくちゃ面倒（この後も個々のlocalやforkにはsecret残るので、それらの対処を行う）なので、最初から起きないようにするのが吉。
+
+パブリックリポジトリならGitHub Secret scanning's push protectionというのが使えるので、ONにしておく。
+
+[GitHub の Secret scanning’s push protection を試してみる](https://zenn.dev/kou_pg_0131/articles/gh-secret-scannings-push-protection)

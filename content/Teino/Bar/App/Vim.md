@@ -1,5 +1,5 @@
 ---
-date: 2024-12-20T14:04:34+09:00
+date: 2024-12-21T15:15:12+09:00
 title: "Vim"
 tags:
  - Bar
@@ -68,7 +68,7 @@ u。undo
 Ctrl+r。redo
 
 `*`。カーソル下の単語検索。上向きにするときは`#`。
-`/"文字"`。検索。置換は`:%/hoge/huga/g`。逆向きは`?`
+`/"文字"`。検索。置換は`:%s/hoge/huga/g`。逆向きは`?`
 n。次の一致箇所にジャンプ。
 N。前の一致箇所にジャンプ。
 
@@ -108,7 +108,7 @@ jj。インサートモードから戻る。
 inoremapはサポートされてないらしい。
 
 ```plain
-imap jk <Esc>
+imap jj <Esc>
 ```
 
 [ObsidianのvimモードでもjkやjjでEscする | Obsidian TIPS(JP)](https://obsidiantips.com/tips-vim-jk-esc/)

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:15:40+09:00
 title: "Me"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:04:45+09:00
+daily:: [2022-07-24](Daily_Note/2022-07-24.md)
 up:: [Life](Novel/Chaos/Life.md)
 
 問題提起。

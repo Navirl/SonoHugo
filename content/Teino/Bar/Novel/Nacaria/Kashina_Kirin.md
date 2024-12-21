@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:57+09:00
 title: "Kashina_Kirin"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 麒麟樫名
 ---
 
-date: 2024-12-20T14:04:56+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up:: [Ultia](Ultia.md)
 
 

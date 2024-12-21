@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:12+09:00
 title: "ps escape"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:02+09:00
+daily:: [2023-03-19](/Daily_Note/2023-03-19.md)
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 ドル記号の前にバッククオートを付けるだけで回避可能。

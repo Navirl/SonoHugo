@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:25+09:00
 title: "Eng_私は、この世界を愛していた。"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:18+09:00
+daily:: [2022-07-27](Daily_Note/2022-07-27.md)
 up:: [私は、この世界を愛していた。](Info/私は、この世界を愛していた。.md)
 source:: [「Anything」と「whatever」の違いは？ | by オフィスG-FIX](https://officegfix.com/difference_anything_whatever/)
 

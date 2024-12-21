@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:40+09:00
 title: "Shellscript"
 tags:
  - Bar
 ---
 
-date: 2024-12-20T14:05:37+09:00
+daily:: [2021-10-16](Daily_Note/2021-10-16.md)
 up:: [Programming](Bar/Program/Programming.md)
 
 総合

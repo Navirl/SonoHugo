@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:15+09:00
 title: "AIは来た道を圧縮するだけのツールですよ。"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:09+09:00
+daily:: [2023-06-29](/Daily_Note/2023-06-29.md)
 up:: [Android](Bar/Novel/Topics/Android.md)
 up:: [Me](Bar/Novel/Chaos/Me.md)
 up:: [Education](Bar/Novel/Topics/Education.md)

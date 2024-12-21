@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:32+09:00
 title: "wsl Distribution Uninstall"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:20+09:00
+daily:: [2022-06-14](/Daily_Note/2022-06-14.md)
 up:: [WSL](../Bar/App/WSL.md)
 source:: [How to completely remove a Linux distro from WSL | Windows Central](https://www.windowscentral.com/how-completely-remove-linux-distro-wsl)
 

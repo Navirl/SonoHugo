@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:31+09:00
 title: "Aya_Shameimaru"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Touhou_Project
 ---
 
-date: 2024-12-20T14:05:27+09:00
+daily:: [2022-09-20](Daily_Note/2022-09-20.md)
 up::
 
 

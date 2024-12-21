@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:18:42+09:00
 title: "Rust Reference and Borrowing"
 tags:
  - Info
 aliases: Rust 参照と借用
 ---
 
-date: 2024-12-20T14:07:34+09:00
+daily:: [2023-03-09](/Daily_Note/2023-03-09.md)
 up:: [Rust](../Bar/Program/Rust.md)
 
 [Rust Ownership](Rust%20Ownership.md)

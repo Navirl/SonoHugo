@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:18:37+09:00
 title: "Pure Function"
 tags:
  - Info
 aliases: 純粋関数
 ---
 
-date: 2024-12-20T14:07:29+09:00
+daily:: [2022-06-17](../Daily_Note/2022-06-17.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [UE4 Pure関数とNonPure関数｜株式会社ヒストリア](https://historia.co.jp/archives/3929/)
 

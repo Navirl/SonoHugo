@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:18+09:00
 title: "py ダブル シングル クォーテーション"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:08+09:00
+daily:: [2024-05-29](/Daily_Note/2024-05-29.md)
 up:: [Python](../Bar/Program/Python.md)
 
 実用上の差はない。pythonでは。

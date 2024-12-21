@@ -1,11 +1,12 @@
 ---
+date: 2024-12-21T15:18:29+09:00
 title: "Incremental Reading"
 tags:
  - Info
 aliases: 増分読み取り
 ---
 
-date: 2024-12-20T14:07:22+09:00
+daily:: [2023-03-07](/Daily_Note/2023-03-07.md)
 up:: [Component](../Bar/Novel/Chaos/Component.md)
 same:: [Spaced Repetition](Spaced%20Repetition.md)
 

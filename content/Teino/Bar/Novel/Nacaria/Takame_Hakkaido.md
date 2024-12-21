@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:07+09:00
 title: "Takame_Hakkaido"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 八階堂高目
 ---
 
-date: 2024-12-20T14:05:05+09:00
+daily:: [2022-07-05](Daily_Note/2022-07-05.md)
 up:: [Takame_Hakkaido_Edu](Takame_Hakkaido_Edu.md)
 up:: [Kirina_Motokura](Kirina_Motokura.md)
 up:: [Sakumei](Sakumei.md)

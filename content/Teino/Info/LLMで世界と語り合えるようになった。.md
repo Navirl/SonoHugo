@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:31+09:00
 title: "LLMで世界と語り合えるようになった。"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:07:24+09:00
+daily:: [2024-03-09](/Daily_Note/2024-03-09.md)
 up:: [Artificial_Intelligence](../Bar/Novel/Topics/Artificial_Intelligence.md)
 
 LLMで世界と語り合えるようになった。

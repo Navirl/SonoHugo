@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:16:42+09:00
 title: "aqua"
 tags:
   - Bar
 ---
 
-date: 2024-12-20T14:05:38+09:00
+daily:: [2024-12-10](Daily_Note/2024-12-10.md)
 up::
 
 ツール管理が主軸なら全部aquaでよくないか。Go製。
@@ -40,7 +41,7 @@ aqua.yamlを書き換えることでツールバージョンを変更できる�
 
 [CLI バージョンマネージャー aqua のススメ - Retty Tech Blog](https://engineer.retty.me/entry/2022/12/14/130000)
 
-アンインストールは`aqua -m pl -g <packaage name>`。バージョンまでは指定しなくていい。
+アンインストールは`aqua rm -m pl -g <packaage name>`。バージョンまでは指定しなくていい。
 パッケージとリンクを削除するだけなので構成ファイルには残る。編集で消す。
 `nvim $env:AQUQ_GLOBAL_CONFIG`など。
 
@@ -49,6 +50,7 @@ aqua.yamlを書き換えることでツールバージョンを変更できる�
 ## ripgrep
 ファイル全文検索。`rg`。
 ファイルの中身を見ることになるのでそんなに使わない。
+obsidianが起動してなくても使える利点はあるが、インデックスを作らないらしく一文字間違えるとまた検索の手間がかかる。
 
 ## fd
 ファイル名検索。everythingと同等。

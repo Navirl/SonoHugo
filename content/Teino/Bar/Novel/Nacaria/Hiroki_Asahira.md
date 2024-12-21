@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:55+09:00
 title: "Hiroki_Asahira"
 tags:
  - Bar
@@ -7,7 +8,7 @@ tags:
 aliases: 朝日羅弘樹
 ---
 
-date: 2024-12-20T14:04:54+09:00
+daily:: [2022-09-03](Daily_Note/2022-09-03.md)
 up:: [Ive](Ive.md)
 same:: [5_People](5_People.md)
 

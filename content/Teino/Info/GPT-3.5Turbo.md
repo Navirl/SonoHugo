@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:27+09:00
 title: "GPT-3.5Turbo"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:20+09:00
+daily:: [2022-12-19](Daily_Note/2022-12-19.md)
 up:: [Programming](../Program/Programming.md)
 up:: [AIt](../Bar/AI/AI_text.md)
 

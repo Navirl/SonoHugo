@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:44+09:00
 title: "Scoop 実行ファイル設定"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:35+09:00
+daily:: [2022-11-25](/Daily_Note/2022-11-25.md)
 up:: [Scoop](Bar/App/Scoop.md)
 
 `$env:SCOOP='C:\Scoop'`

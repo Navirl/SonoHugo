@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:41+09:00
 title: "Rust Fyrox FPS Tutorial"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:33+09:00
+daily:: [2023-03-08](/Daily_Note/2023-03-08.md)
 up:: [Fyrox](../Bar/App/Fyrox.md)
 
 [FPS Tutorial - Fyrox Book](https://fyrox-book.github.io/fyrox/tutorials/fps/intro.html)

@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:33+09:00
 title: "Rumia"
 tags:
  - Bar
@@ -7,5 +8,5 @@ tags:
 aliases: ルーミア
 ---
 
-date: 2024-12-20T14:05:30+09:00
+daily:: [2023-02-01](Daily_Note/2023-02-01.md)
 up::

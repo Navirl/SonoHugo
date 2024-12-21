@@ -12,7 +12,7 @@ title: "test3"
 title: "test3"
 
 title: "test3"
-date: 2024-12-20T14:25:08+09:00
+date: 2024-12-21T15:40:41+09:00
 title: "test3"
 up:: [Programming](Programming.md)
 title: "test3"
@@ -467,6 +467,7 @@ title: "test3"
 ```markdown
 title: "test3"
 ---
+date: 2024-12-21T15:40:41+09:00
 title: "test3"
 aliases:[alias1, alias2]
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Unity Attribute"
-date: 2024-12-20T14:04:09+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:14:05+09:00
+tags: App/Unity
 ---
 
 属性値。様々な挙動を付加できる。

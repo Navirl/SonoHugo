@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:45+09:00
 title: "6_People"
 tags:
  - Bar
@@ -6,5 +7,5 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:47+09:00
+daily:: [2022-08-04](Daily_Note/2022-08-04.md)
 up:: [Sist](Sist.md)

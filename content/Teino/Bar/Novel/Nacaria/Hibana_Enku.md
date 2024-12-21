@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:55+09:00
 title: "Hibana_Enku"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Nacaria
 ---
 
-date: 2024-12-20T14:04:54+09:00
+daily:: [2022-08-05](../../../Daily_Note/2022-08-05.md)
 up:: [Ultia](Ultia.md)
 down:: [Enku](Enku.md)
 

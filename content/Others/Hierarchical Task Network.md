@@ -1,9 +1,7 @@
 ---
 title: "Hierarchical Task Network"
-date: 2024-12-20T14:03:39+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:12:58+09:00
+tags: App/Unity
 ---
 
 ## 基本

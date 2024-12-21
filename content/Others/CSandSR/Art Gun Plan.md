@@ -1,6 +1,6 @@
 ---
 title: "Art Gun Plan"
-date: 2024-12-20T14:03:21+09:00
+date: 2024-12-21T15:12:03+09:00
 tags:
  - flashcards
 source: https://gigazine.net/news/20220526-australia-confiscated-650000-guns/

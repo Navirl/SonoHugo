@@ -1,6 +1,6 @@
 ---
 title: "Covariance, Contravariance, Invariance -ver2"
-date: 2024-12-20T14:03:26+09:00
+date: 2024-12-21T15:12:22+09:00
 tags:
  - Program/CSharp
  - Fragment

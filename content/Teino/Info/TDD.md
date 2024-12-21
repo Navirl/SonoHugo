@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:18:46+09:00
 title: "TDD"
 tags:
   - Info
@@ -6,7 +7,7 @@ aliases:
   - Test_Driven_Develop
 ---
 
-date: 2024-12-20T14:07:38+09:00
+daily:: [2024-03-15](/Daily_Note/2024-03-15.md)
 up:: [Programming](../Bar/Program/Programming.md)
 
 Test Driven Develop。テストを中心にして開発していく方法。

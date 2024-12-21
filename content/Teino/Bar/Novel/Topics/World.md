@@ -1,9 +1,10 @@
 ---
+date: 2024-12-21T15:16:30+09:00
 title: "World"
 tags:
  - Bar
  - Novel/Topic
 ---
 
-date: 2024-12-20T14:05:26+09:00
+daily:: [2023-03-07](Daily_Note/2023-03-07.md)
 up::

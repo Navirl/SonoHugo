@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:50+09:00
 title: "Centipede_Space_Ship"
 tags:
  - Bar
@@ -9,7 +10,7 @@ tags:
 aliases: ムカデ
 ---
 
-date: 2024-12-20T14:04:50+09:00
+daily:: [2023-02-03](Daily_Note/2023-02-03.md)
 up:: [Fushibi](Fushibi.md)
 same:: [KOW](KOW.md)
 

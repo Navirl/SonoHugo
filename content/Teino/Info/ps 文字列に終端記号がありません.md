@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:15+09:00
 title: "ps 文字列に終端記号がありません"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:04+09:00
+daily:: [2024-04-12](/Daily_Note/2024-04-12.md)
 up:: [PowerShell_and_Command-Line](../Bar/App/PowerShell_and_Command-Line.md)
 
 文字コードがutf-8かつ日本語を含んだファイルを読ませると怒られる。

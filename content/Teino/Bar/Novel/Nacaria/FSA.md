@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:15:53+09:00
 title: "FSA"
 tags:
  - Bar
@@ -9,7 +10,7 @@ aliases:
  - 完全感性アンドロイド
 ---
 
-date: 2024-12-20T14:04:51+09:00
+daily:: [2023-04-09](Daily_Note/2023-04-09.md)
 up:: [Android](../Topics/Android.md)
 up:: [Bio](../Topics/Bio.md)
 

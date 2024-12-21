@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:34+09:00
 title: "Shinmyoumaru_Sukuna"
 tags:
  - Bar
@@ -7,6 +8,6 @@ tags:
 aliases: 少名針妙丸
 ---
 
-date: 2024-12-20T14:05:31+09:00
+daily:: [2022-07-03](Daily_Note/2022-07-03.md)
 
 

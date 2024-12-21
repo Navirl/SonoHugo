@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:18+09:00
 title: "py uv"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:08+09:00
+daily:: [2024-05-22](/Daily_Note/2024-05-22.md)
 up:: [py](../Bar/Program/Python.md)
 up:: [Rust](../Bar/Program/Rust.md)
 

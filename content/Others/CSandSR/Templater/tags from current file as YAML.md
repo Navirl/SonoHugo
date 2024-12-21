@@ -1,6 +1,6 @@
 ---
 title: "tags from current file as YAML"
-date: 2024-12-20T14:03:32+09:00
+date: 2024-12-21T15:12:45+09:00
 ---
 <%*
 

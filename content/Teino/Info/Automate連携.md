@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:18+09:00
 title: "Automate連携"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:11+09:00
+daily:: [2022-09-14](Daily_Note/2022-09-14.md)
 up:: [Termux](../Bar/App/Termux.md)
 up:: [Automate](../Bar/Program/Automate.md)
 

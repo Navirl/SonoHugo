@@ -1,9 +1,7 @@
 ---
 title: "Solution 1 - Scripting Needs"
-date: 2024-12-20T14:03:57+09:00
-tags: 
- - App
- - Unity
+date: 2024-12-21T15:13:38+09:00
+tags: App/Unity
 ---
 
 必要な矢印は

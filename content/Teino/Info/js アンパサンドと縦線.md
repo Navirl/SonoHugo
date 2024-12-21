@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:05+09:00
 title: "js アンパサンドと縦線"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:56+09:00
+daily:: [2023-02-09](/Daily_Note/2023-02-09.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 js アンパサンドと縦線

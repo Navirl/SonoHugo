@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:20+09:00
 title: "Cpp Class init"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:14+09:00
+daily:: [2023-03-02](/Daily_Note/2023-03-02.md)
 up:: [Cpp](../Bar/Program/Cpp.md)
 
 こんなもん書かなくていいけど整理できない……

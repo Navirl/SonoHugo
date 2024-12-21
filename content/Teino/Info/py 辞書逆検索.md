@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:18+09:00
 title: "py 辞書逆検索"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:08:08+09:00
+daily:: [2023-06-09](/Daily_Note/2023-06-09.md)
 up:: [Python](../Bar/Program/Python.md)
 
 ## py 辞書逆検索

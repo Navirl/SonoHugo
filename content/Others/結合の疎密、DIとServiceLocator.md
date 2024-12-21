@@ -1,6 +1,6 @@
 ---
 title: "結合の疎密、DIとServiceLocator"
-date: 2024-12-20T14:04:15+09:00
+date: 2024-12-21T15:14:18+09:00
 tags:
  - Program
  - Learning

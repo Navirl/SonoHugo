@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:18:43+09:00
 title: "SceneCapture2Dでのみ見えるActor"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:35+09:00
+daily:: [2022-10-10](Daily_Note/2022-10-10.md)
 up:: [UE5.0.2](../Bar/App/UE5.0.2.md)
 source:: [Scene Capture 2d owner only see not working. - Unreal Engine / Rendering - Unreal Engine Forums](https://forums.unrealengine.com/t/scene-capture-2d-owner-only-see-not-working/414580)
 source::  [Set Visible in Scene Capture Only | Unreal Engine Documentation](https://docs.unrealengine.com/4.27/en-US/BlueprintAPI/Rendering/SetVisibleinSceneCaptureOnly/)

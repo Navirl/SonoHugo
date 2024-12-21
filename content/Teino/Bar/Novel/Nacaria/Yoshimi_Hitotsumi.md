@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:10+09:00
 title: "Yoshimi_Hitotsumi"
 tags:
  - Bar
@@ -6,7 +7,7 @@ tags:
  - Novel/Character
 ---
 
-date: 2024-12-20T14:05:07+09:00
+daily:: [2022-09-03](Daily_Note/2022-09-03.md)
 up:: [Monon](Monon.md)
 
 

@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:22+09:00
 title: "sd checkpoint"
 tags:
   - Info
 ---
 
-date: 2024-12-20T14:08:10+09:00
+daily:: [2024-03-14](/Daily_Note/2024-03-14.md)
 up:: [Stable Diffusion](../Bar/Stable%20Diffusion.md)
 
 ## 規約

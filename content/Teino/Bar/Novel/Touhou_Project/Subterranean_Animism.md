@@ -1,4 +1,5 @@
 ---
+date: 2024-12-21T15:16:34+09:00
 title: "Subterranean_Animism"
 tags:
  - Bar
@@ -9,7 +10,7 @@ aliases:
  - SA
 ---
 
-date: 2024-12-20T14:05:31+09:00
+daily:: [2022-10-15](Daily_Note/2022-10-15.md)
 up::
 
 

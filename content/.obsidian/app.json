@@ -53,5 +53,6 @@
   "livePreview": true,
   "trashOption": "system",
   "showUnsupportedFiles": true,
-  "useTab": false
+  "useTab": false,
+  "vimMode": true
 }

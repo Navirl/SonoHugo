@@ -1,10 +1,11 @@
 ---
+date: 2024-12-21T15:19:06+09:00
 title: "js コンストラクタ"
 tags:
  - Info
 ---
 
-date: 2024-12-20T14:07:56+09:00
+daily:: [2023-02-03](/Daily_Note/2023-02-03.md)
 up:: [JavaScript and TypeScript](../Bar/Program/JavaScript%20and%20TypeScript.md)
 
 ## コンストラクタ

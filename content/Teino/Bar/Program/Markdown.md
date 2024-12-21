@@ -1,10 +1,13 @@
 ---
+date: 2024-12-21T15:16:39+09:00
 title: "Markdown"
 tags:
- - Bar
+  - Bar
+aliases:
+  - md
 ---
 
-date: 2024-12-20T14:05:35+09:00
+daily:: [2021-08-06](/Daily_Note/2021-08-06.md)
 up:: [Programming](Programming.md)
 
 
@@ -12,7 +15,6 @@ up:: [Programming](Programming.md)
 
 しれっとHugoでは一つの改行が効かない。Notionと同じくブロック単位で管理している模様。
 
-[[../../Teino/CS Obsidian]]
 
 
 ## エスケープ
@@ -318,3 +320,57 @@ Get-ChildItem -Path "D:\Dropbox\Sonolart\Teino\Novels" -Include *.md -Recurse | 
 そのあとPandocやMarpやmistuneで変換するのだが、クッソ長いのを直接やると失敗する。
 なのでHTMLに変換してからブラウザ印刷機能でPDFにするのが良い。
 
+## lint
+### remark
+
+remark-frontmatterを入れないとfrontmatterに対応できない。
+->frontmatterに変なformat掛けないだけで、別にfrontmatterにlintかけられるわけではなかった。
+
+frontmatterの抽出だけなら以下。
+[Remark プラグインを使って Markdown から Front Matter を抽出する - Neo's World](https://neos21.net/blog/2020/11/12-01.html)
+
+remark-cliを入れないとcliから手軽に使えない。
+
+remark-cliの設定はjson,yaml,js,package.jsonへの直書きなどが可能。
+[remark/packages/remark-cli at main · remarkjs/remark · GitHub](https://github.com/remarkjs/remark/tree/main/packages/remark-cli#example-config-files-json-yaml-js)
+
+だいたいはjs,tsで設定を書いてる。
+jsonへ変換するには、まずtype Optionsを見る。
+例えばremark-frontmatterならこのように変換する。
+```ts
+type: string
+```
+
+```json
+"remarkConfig": {
+    "plugins": [
+        [
+            "remark-frontmatter",
+            {
+                "type": "string"
+            }
+        ]
+    ]
+}
+```
+[GitHub - remarkjs/remark: markdown processor powered by plugins part of the @unifiedjs collective](https://github.com/remarkjs/remark?tab=readme-ov-file)
+[GitHub - remarkjs/remark-frontmatter: remark plugin to support frontmatter (YAML, TOML, and more)](https://github.com/remarkjs/remark-frontmatter?tab=readme-ov-file#options)
+
+APIとCLIの二種がある。
+cliで使う場合はremarkConfigに書くか、--useオプションで指定する。
+[remark-cli を試す](https://zenn.dev/hankei6km/scraps/7fae1422b8ad4c)
+
+remark-lintとその拡張ルールで警告を出してるのは分かったが、どこでどうやって修正してるのかは分からない。
+
+
+### markdownlint
+markdownlintは使うのが簡単だが新しいルールを追加するのは難しそう。
+調べていくとmarkdownlintでも独自ルールを追加できそう。
+標準だとfrontmatterは無視するオプションで無視が一番らしい。
+[frontmatter handling · Issue #442 · markdownlint/markdownlint · GitHub](https://github.com/markdownlint/markdownlint/issues/442)
+
+## mdx
+markdown中でjsxを使うような記法。
+コンポーネントとして使いまわすことができ、よりリッチな表現ができる。
+
+[試してみよう、MDX | 第1回 MDXの主要な機能の概要](https://www.codegrid.net/articles/2022-mdx-1/)
